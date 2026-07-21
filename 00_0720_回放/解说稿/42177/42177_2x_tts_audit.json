@@ -217,8 +217,39 @@
       "rate": 4.192
     }
   ],
-  "team_identity": {},
-  "backup_results": [],
+  "team_identity": {
+    "2707": {
+      "official_name": "神经突触袭击队",
+      "spoken_pronunciation": "神经突触袭击队"
+    },
+    "2804": {
+      "official_name": "代码即答案",
+      "spoken_pronunciation": "代码即答案"
+    }
+  },
+  "backup_results": [
+    {
+      "original": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\42177_2x_ui_synced.md",
+      "backup": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\backups\\2x_20260721_tts\\42177_2x_ui_synced.md",
+      "match": true,
+      "original_sha256": "98ff59f9535f3c22416e8e50cf0dd3ab35c061f58f61d73faa848296c12f910d",
+      "backup_sha256": "98ff59f9535f3c22416e8e50cf0dd3ab35c061f58f61d73faa848296c12f910d"
+    },
+    {
+      "original": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\42177_2x_voice_only.md",
+      "backup": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\backups\\2x_20260721_tts\\42177_2x_voice_only.md",
+      "match": true,
+      "original_sha256": "0610ca668a5e4b28c54c9f129211b7d9e5d2cca2637e474943be2a99babc032c",
+      "backup_sha256": "0610ca668a5e4b28c54c9f129211b7d9e5d2cca2637e474943be2a99babc032c"
+    },
+    {
+      "original": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\42177_2x_audit.json",
+      "backup": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\backups\\2x_20260721_tts\\42177_2x_audit.json",
+      "match": true,
+      "original_sha256": "025e6be37ab53f79f6b1d2546dbcefdf182eb17f1fdfe46ecc6b51e33be94dca",
+      "backup_sha256": "025e6be37ab53f79f6b1d2546dbcefdf182eb17f1fdfe46ecc6b51e33be94dca"
+    }
+  ],
   "failure_count": 0,
   "failures": []
 }
