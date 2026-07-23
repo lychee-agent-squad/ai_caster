@@ -1,0 +1,243 @@
+{
+  "segments": 29,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 29,
+  "voice_spoken_units": 1462,
+  "average_segment_rate": 4.43,
+  "max_segment_rate": 4.9,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 36,
+      "rate": 3.6,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:24",
+      "seconds": 14,
+      "units": 66,
+      "rate": 4.714,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:24",
+      "end": "00:36",
+      "seconds": 12,
+      "units": 57,
+      "rate": 4.75,
+      "title": "红方先到南岭"
+    },
+    {
+      "start": "00:36",
+      "end": "00:47",
+      "seconds": 11,
+      "units": 47,
+      "rate": 4.273,
+      "title": "蓝方侦察五岭"
+    },
+    {
+      "start": "00:47",
+      "end": "00:57",
+      "seconds": 10,
+      "units": 49,
+      "rate": 4.9,
+      "title": "红方清障得分"
+    },
+    {
+      "start": "00:57",
+      "end": "01:09",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "快马启用"
+    },
+    {
+      "start": "01:09",
+      "end": "01:16",
+      "seconds": 7,
+      "units": 33,
+      "rate": 4.714,
+      "title": "酷暑覆盖全图"
+    },
+    {
+      "start": "01:16",
+      "end": "01:28",
+      "seconds": 12,
+      "units": 53,
+      "rate": 4.417,
+      "title": "蓝方先现折损"
+    },
+    {
+      "start": "01:28",
+      "end": "01:40",
+      "seconds": 12,
+      "units": 50,
+      "rate": 4.167,
+      "title": "红方完成换运"
+    },
+    {
+      "start": "01:40",
+      "end": "01:55",
+      "seconds": 15,
+      "units": 66,
+      "rate": 4.4,
+      "title": "蓝方连取任务分"
+    },
+    {
+      "start": "01:55",
+      "end": "02:02",
+      "seconds": 7,
+      "units": 30,
+      "rate": 4.286,
+      "title": "暴雨命中红方水路"
+    },
+    {
+      "start": "02:02",
+      "end": "02:14",
+      "seconds": 12,
+      "units": 52,
+      "rate": 4.333,
+      "title": "红方任务分到九十"
+    },
+    {
+      "start": "02:14",
+      "end": "02:28",
+      "seconds": 14,
+      "units": 63,
+      "rate": 4.5,
+      "title": "红方任务分到一百五十"
+    },
+    {
+      "start": "02:28",
+      "end": "02:37",
+      "seconds": 9,
+      "units": 43,
+      "rate": 4.778,
+      "title": "两路逼近潼关"
+    },
+    {
+      "start": "02:37",
+      "end": "02:45",
+      "seconds": 8,
+      "units": 39,
+      "rate": 4.875,
+      "title": "红方进入武关"
+    },
+    {
+      "start": "02:45",
+      "end": "02:53",
+      "seconds": 8,
+      "units": 37,
+      "rate": 4.625,
+      "title": "蓝方先遣侦察潼关"
+    },
+    {
+      "start": "02:53",
+      "end": "03:08",
+      "seconds": 15,
+      "units": 65,
+      "rate": 4.333,
+      "title": "第一轮途中设卡"
+    },
+    {
+      "start": "03:08",
+      "end": "03:18",
+      "seconds": 10,
+      "units": 49,
+      "rate": 4.9,
+      "title": "红方拆掉第一道卡"
+    },
+    {
+      "start": "03:18",
+      "end": "03:30",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "第二轮途中设卡"
+    },
+    {
+      "start": "03:30",
+      "end": "03:41",
+      "seconds": 11,
+      "units": 51,
+      "rate": 4.636,
+      "title": "第三轮途中设卡"
+    },
+    {
+      "start": "03:41",
+      "end": "03:56",
+      "seconds": 15,
+      "units": 69,
+      "rate": 4.6,
+      "title": "红方回撤，惩罚开始累积"
+    },
+    {
+      "start": "03:56",
+      "end": "04:12",
+      "seconds": 16,
+      "units": 72,
+      "rate": 4.5,
+      "title": "红方改走长支路"
+    },
+    {
+      "start": "04:12",
+      "end": "04:25",
+      "seconds": 13,
+      "units": 55,
+      "rate": 4.231,
+      "title": "末段酷暑再起"
+    },
+    {
+      "start": "04:25",
+      "end": "04:38",
+      "seconds": 13,
+      "units": 56,
+      "rate": 4.308,
+      "title": "红方再失一篓好果"
+    },
+    {
+      "start": "04:38",
+      "end": "04:52",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286,
+      "title": "蓝方抵达朱雀门"
+    },
+    {
+      "start": "04:52",
+      "end": "05:03",
+      "seconds": 11,
+      "units": 53,
+      "rate": 4.818,
+      "title": "蓝方完成宫门核验"
+    },
+    {
+      "start": "05:03",
+      "end": "05:16",
+      "seconds": 13,
+      "units": 56,
+      "rate": 4.308,
+      "title": "设卡消失，蓝方结束等待"
+    },
+    {
+      "start": "05:16",
+      "end": "05:20",
+      "seconds": 4,
+      "units": 18,
+      "rate": 4.5,
+      "title": "蓝队送达"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 29,
+      "rate": 2.9,
+      "title": "时间到与最终结算"
+    }
+  ]
+}

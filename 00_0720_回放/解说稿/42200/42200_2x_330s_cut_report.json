@@ -1,0 +1,136 @@
+{
+  "target_program_seconds": 330,
+  "old_segments": 32,
+  "new_segments": 24,
+  "spoken_units": 1118,
+  "average_rate": 3.388,
+  "max_segment_rate": 3.857,
+  "retained_source_segments": [
+    1,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    31,
+    32
+  ],
+  "dropped": [
+    {
+      "source_segment": 2,
+      "source_range": "00:14-00:28",
+      "title": "蓝方远程清武关"
+    },
+    {
+      "source_segment": 4,
+      "source_range": "00:42-00:56",
+      "title": "南岭之后分路"
+    },
+    {
+      "source_segment": 11,
+      "source_range": "02:20-02:34",
+      "title": "蓝方立即改走山路"
+    },
+    {
+      "source_segment": 17,
+      "source_range": "03:44-03:58",
+      "title": "红方先到潼关"
+    },
+    {
+      "source_segment": 18,
+      "source_range": "03:58-04:12",
+      "title": "六点关卡途中阻断"
+    },
+    {
+      "source_segment": 19,
+      "source_range": "04:12-04:26",
+      "title": "第一波削弱到四点"
+    },
+    {
+      "source_segment": 20,
+      "source_range": "04:26-04:40",
+      "title": "第二波削弱到两点"
+    },
+    {
+      "source_segment": 30,
+      "source_range": "06:46-07:00",
+      "title": "红方核验疾行送达"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42200\\42200_capture_manifest.json",
+    "frames": 220,
+    "median_actual_start_gap_ms": 2199,
+    "max_actual_start_gap_ms": 2558,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      14000,
+      28000,
+      56000,
+      70000,
+      98000,
+      112000,
+      140000,
+      154000,
+      182000,
+      196000,
+      210000,
+      224000,
+      280000,
+      294000,
+      322000,
+      336000,
+      350000,
+      378000,
+      392000,
+      420000,
+      432000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42200",
+  "program_end_seconds": 330,
+  "ui_sha256": "84707d17ef72dbe1885576778eac097fd0dfb393f21c3cf546dc5ffc050b3c28",
+  "voice_sha256": "c0abff4c7d97acbccd58f4f5615324cec590b2310c592b0627b839302f4f6089",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42200\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42200\\replay.txt",
+      "source_sha256": "699d5c45ae604ffb6a43403b303ee7b90091cecf9dec2f1dd455b6ba2dc642d2",
+      "target_sha256": "699d5c45ae604ffb6a43403b303ee7b90091cecf9dec2f1dd455b6ba2dc642d2",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42200\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42200\\data.csv",
+      "source_sha256": "d81d2465afc52ffe011b4afb4208e654fee0ee4221f33b80943861fcf6f09b74",
+      "target_sha256": "d81d2465afc52ffe011b4afb4208e654fee0ee4221f33b80943861fcf6f09b74",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

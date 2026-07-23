@@ -1,0 +1,243 @@
+{
+  "segments": 29,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 29,
+  "voice_spoken_units": 1425,
+  "average_segment_rate": 4.318,
+  "max_segment_rate": 4.714,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:24",
+      "seconds": 14,
+      "units": 66,
+      "rate": 4.714,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:24",
+      "end": "00:30",
+      "seconds": 6,
+      "units": 28,
+      "rate": 4.667,
+      "title": "红方先到南岭"
+    },
+    {
+      "start": "00:30",
+      "end": "00:41",
+      "seconds": 11,
+      "units": 46,
+      "rate": 4.182,
+      "title": "红方派队探路"
+    },
+    {
+      "start": "00:41",
+      "end": "00:53",
+      "seconds": 12,
+      "units": 52,
+      "rate": 4.333,
+      "title": "江南码头探路标记落下"
+    },
+    {
+      "start": "00:53",
+      "end": "01:04",
+      "seconds": 11,
+      "units": 46,
+      "rate": 4.182,
+      "title": "红方抵达码头"
+    },
+    {
+      "start": "01:04",
+      "end": "01:17",
+      "seconds": 13,
+      "units": 56,
+      "rate": 4.308,
+      "title": "清障与暴雨"
+    },
+    {
+      "start": "01:17",
+      "end": "01:29",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "蓝方先损好果"
+    },
+    {
+      "start": "01:29",
+      "end": "01:36",
+      "seconds": 7,
+      "units": 29,
+      "rate": 4.143,
+      "title": "红方抵达水驿"
+    },
+    {
+      "start": "01:36",
+      "end": "01:50",
+      "seconds": 14,
+      "units": 61,
+      "rate": 4.357,
+      "title": "蓝方两项复核"
+    },
+    {
+      "start": "01:50",
+      "end": "02:00",
+      "seconds": 10,
+      "units": 44,
+      "rate": 4.4,
+      "title": "酷暑下继续赶路"
+    },
+    {
+      "start": "02:00",
+      "end": "02:13",
+      "seconds": 13,
+      "units": 59,
+      "rate": 4.538,
+      "title": "红方提前清武关"
+    },
+    {
+      "start": "02:13",
+      "end": "02:24",
+      "seconds": 11,
+      "units": 45,
+      "rate": 4.091,
+      "title": "短程马投入使用"
+    },
+    {
+      "start": "02:24",
+      "end": "02:37",
+      "seconds": 13,
+      "units": 56,
+      "rate": 4.308,
+      "title": "两路汇向潼关"
+    },
+    {
+      "start": "02:37",
+      "end": "02:49",
+      "seconds": 12,
+      "units": 51,
+      "rate": 4.25,
+      "title": "潼关探路落点"
+    },
+    {
+      "start": "02:49",
+      "end": "03:02",
+      "seconds": 13,
+      "units": 59,
+      "rate": 4.538,
+      "title": "六点关卡途中截停"
+    },
+    {
+      "start": "03:02",
+      "end": "03:13",
+      "seconds": 11,
+      "units": 47,
+      "rate": 4.273,
+      "title": "蓝方办完任务离点"
+    },
+    {
+      "start": "03:13",
+      "end": "03:26",
+      "seconds": 13,
+      "units": 56,
+      "rate": 4.308,
+      "title": "关卡开始自然衰减"
+    },
+    {
+      "start": "03:26",
+      "end": "03:38",
+      "seconds": 12,
+      "units": 53,
+      "rate": 4.417,
+      "title": "路线差继续扩大"
+    },
+    {
+      "start": "03:38",
+      "end": "03:52",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286,
+      "title": "蓝方抵达朱雀门"
+    },
+    {
+      "start": "03:52",
+      "end": "04:06",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286,
+      "title": "朱雀门出发前封路"
+    },
+    {
+      "start": "04:06",
+      "end": "04:11",
+      "seconds": 5,
+      "units": 20,
+      "rate": 4.0,
+      "title": "蓝队送达"
+    },
+    {
+      "start": "04:11",
+      "end": "04:23",
+      "seconds": 12,
+      "units": 53,
+      "rate": 4.417,
+      "title": "两道关卡各自衰减"
+    },
+    {
+      "start": "04:23",
+      "end": "04:37",
+      "seconds": 14,
+      "units": 62,
+      "rate": 4.429,
+      "title": "潼关只剩一点防守"
+    },
+    {
+      "start": "04:37",
+      "end": "04:48",
+      "seconds": 11,
+      "units": 49,
+      "rate": 4.455,
+      "title": "第一道关卡自然消失"
+    },
+    {
+      "start": "04:48",
+      "end": "05:00",
+      "seconds": 12,
+      "units": 53,
+      "rate": 4.417,
+      "title": "红方过潼关再启程"
+    },
+    {
+      "start": "05:00",
+      "end": "05:14",
+      "seconds": 14,
+      "units": 64,
+      "rate": 4.571,
+      "title": "红方任务与冰鉴"
+    },
+    {
+      "start": "05:14",
+      "end": "05:20",
+      "seconds": 6,
+      "units": 25,
+      "rate": 4.167,
+      "title": "红方留在关中平原"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 32,
+      "rate": 3.2,
+      "title": "时间到与最终结算"
+    }
+  ]
+}

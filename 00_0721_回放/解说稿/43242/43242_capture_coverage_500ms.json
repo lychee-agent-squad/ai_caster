@@ -1,0 +1,23 @@
+{
+  "match_id": "43242",
+  "playback_speed": "2x",
+  "target_sampling_interval_ms": 500,
+  "main_capture": {
+    "screenshots": 1551,
+    "opening_captured": true,
+    "settlement_stable_detected": true,
+    "round_range": "R1-R593"
+  },
+  "targeted_terminal_capture": {
+    "screenshots": 181,
+    "round_range": "R466-R515",
+    "coverage": [
+      "red reaches Zhuque Gate",
+      "blue reaches Zhuque Gate",
+      "blue gate verification",
+      "blue palace entry and delivery"
+    ]
+  },
+  "timeline_policy": "UI capture wall-clock pauses are excluded; commentary uses 2x game-progress timing and ends at 05:30.",
+  "status": "complete"
+}

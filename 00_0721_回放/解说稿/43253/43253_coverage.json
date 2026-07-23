@@ -1,0 +1,14 @@
+{
+  "match_id": "43253",
+  "expected_rounds": [
+    1,
+    600
+  ],
+  "capture_interval_ms": 500,
+  "expected_frame_count": 600,
+  "actual_frame_count": 600,
+  "missing_rounds": [],
+  "unexpected_rounds": [],
+  "elapsed_label_errors": [],
+  "continuous": true
+}

@@ -1,0 +1,218 @@
+{
+  "match_id": 42179,
+  "start_offset_ms": 440000,
+  "count": 35,
+  "last_elapsed_ms": 523342,
+  "frames": [
+    {
+      "index": 1,
+      "elapsed_ms": 440000,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t440000.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 2,
+      "elapsed_ms": 442576,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t442576.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 3,
+      "elapsed_ms": 444973,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t444973.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 4,
+      "elapsed_ms": 447303,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t447303.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 5,
+      "elapsed_ms": 449615,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t449615.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 6,
+      "elapsed_ms": 451960,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t451960.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 7,
+      "elapsed_ms": 454359,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t454359.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 8,
+      "elapsed_ms": 456720,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t456720.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 9,
+      "elapsed_ms": 459043,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t459043.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 10,
+      "elapsed_ms": 461429,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t461429.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 11,
+      "elapsed_ms": 463768,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t463768.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 12,
+      "elapsed_ms": 466214,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t466214.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 13,
+      "elapsed_ms": 468612,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t468612.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 14,
+      "elapsed_ms": 470968,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t470968.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 15,
+      "elapsed_ms": 473371,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t473371.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 16,
+      "elapsed_ms": 475914,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t475914.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 17,
+      "elapsed_ms": 478533,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t478533.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 18,
+      "elapsed_ms": 480969,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t480969.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 19,
+      "elapsed_ms": 483524,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t483524.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 20,
+      "elapsed_ms": 486030,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t486030.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 21,
+      "elapsed_ms": 488723,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t488723.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 22,
+      "elapsed_ms": 491243,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t491243.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 23,
+      "elapsed_ms": 493662,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t493662.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 24,
+      "elapsed_ms": 496174,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t496174.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 25,
+      "elapsed_ms": 498875,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t498875.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 26,
+      "elapsed_ms": 501342,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t501342.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 27,
+      "elapsed_ms": 503773,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t503773.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 28,
+      "elapsed_ms": 506139,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t506139.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 29,
+      "elapsed_ms": 508714,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t508714.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 30,
+      "elapsed_ms": 511152,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t511152.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 31,
+      "elapsed_ms": 513641,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t513641.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 32,
+      "elapsed_ms": 516162,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t516162.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 33,
+      "elapsed_ms": 518547,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t518547.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 34,
+      "elapsed_ms": 520939,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t520939.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    },
+    {
+      "index": 35,
+      "elapsed_ms": 523342,
+      "file": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42179\\frames\\42179_t523342.png",
+      "sha256": "ca95c6aa0d5898eec4eb492f9e6fa13a56b8ba09aa409216f1abb1f42576f305"
+    }
+  ]
+}

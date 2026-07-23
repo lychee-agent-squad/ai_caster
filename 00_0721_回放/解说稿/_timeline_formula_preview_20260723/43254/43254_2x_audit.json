@@ -1,0 +1,236 @@
+{
+  "segments": 22,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 22,
+  "voice_spoken_units": 838,
+  "average_segment_rate": 2.539,
+  "max_segment_rate": 4.958,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 38,
+      "rate": 3.8
+    },
+    {
+      "start": "00:10",
+      "end": "00:34",
+      "seconds": 24,
+      "units": 119,
+      "rate": 4.958
+    },
+    {
+      "start": "00:34",
+      "end": "00:48",
+      "seconds": 14,
+      "units": 65,
+      "rate": 4.643
+    },
+    {
+      "start": "00:48",
+      "end": "00:57",
+      "seconds": 9,
+      "units": 14,
+      "rate": 1.556
+    },
+    {
+      "start": "00:57",
+      "end": "01:06",
+      "seconds": 9,
+      "units": 39,
+      "rate": 4.333
+    },
+    {
+      "start": "01:06",
+      "end": "01:10",
+      "seconds": 4,
+      "units": 17,
+      "rate": 4.25
+    },
+    {
+      "start": "01:10",
+      "end": "01:16",
+      "seconds": 6,
+      "units": 25,
+      "rate": 4.167
+    },
+    {
+      "start": "01:16",
+      "end": "01:45",
+      "seconds": 29,
+      "units": 89,
+      "rate": 3.069
+    },
+    {
+      "start": "01:45",
+      "end": "01:54",
+      "seconds": 9,
+      "units": 44,
+      "rate": 4.889
+    },
+    {
+      "start": "01:54",
+      "end": "02:10",
+      "seconds": 16,
+      "units": 68,
+      "rate": 4.25
+    },
+    {
+      "start": "02:10",
+      "end": "02:25",
+      "seconds": 15,
+      "units": 37,
+      "rate": 2.467
+    },
+    {
+      "start": "02:25",
+      "end": "02:49",
+      "seconds": 24,
+      "units": 37,
+      "rate": 1.542
+    },
+    {
+      "start": "02:49",
+      "end": "02:58",
+      "seconds": 9,
+      "units": 28,
+      "rate": 3.111
+    },
+    {
+      "start": "02:58",
+      "end": "03:01",
+      "seconds": 3,
+      "units": 14,
+      "rate": 4.667
+    },
+    {
+      "start": "03:01",
+      "end": "03:18",
+      "seconds": 17,
+      "units": 26,
+      "rate": 1.529
+    },
+    {
+      "start": "03:18",
+      "end": "03:31",
+      "seconds": 13,
+      "units": 19,
+      "rate": 1.462
+    },
+    {
+      "start": "03:31",
+      "end": "03:56",
+      "seconds": 25,
+      "units": 28,
+      "rate": 1.12
+    },
+    {
+      "start": "03:56",
+      "end": "04:12",
+      "seconds": 16,
+      "units": 17,
+      "rate": 1.062
+    },
+    {
+      "start": "04:12",
+      "end": "04:18",
+      "seconds": 6,
+      "units": 28,
+      "rate": 4.667
+    },
+    {
+      "start": "04:18",
+      "end": "04:44",
+      "seconds": 26,
+      "units": 18,
+      "rate": 0.692
+    },
+    {
+      "start": "04:44",
+      "end": "05:20",
+      "seconds": 36,
+      "units": 23,
+      "rate": 0.639
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 45,
+      "rate": 4.5
+    }
+  ],
+  "team_identity": {
+    "2621": {
+      "official_name": "一心想赢",
+      "spoken_pronunciation": "一心想赢"
+    },
+    "2749": {
+      "official_name": "让联看看哪个事",
+      "spoken_pronunciation": "让联看看哪个事"
+    }
+  },
+  "backup_results": [],
+  "live_style": {
+    "required": true,
+    "particle_count": 8,
+    "particle_types": [
+      "了",
+      "哎呀"
+    ],
+    "particle_type_count": 2,
+    "emotion_categories": [
+      "attention_suspense",
+      "praise_release",
+      "pressure_regret"
+    ],
+    "emotion_category_count": 3,
+    "particle_spam_segments": []
+  },
+  "failure_count": 0,
+  "match_id": "43254",
+  "passed": true,
+  "failures": [],
+  "term_override": {
+    "term": "宫门验核",
+    "authority": "《一骑红尘：荔枝争运战 参赛选手任务书》",
+    "skill_false_positive_filtered": true,
+    "filtered_failures": [
+      "forbidden phrase present: 验核"
+    ]
+  },
+  "detail_structure": {
+    "issues": [],
+    "expected_contest_count": 0,
+    "actual_contest_count": 0,
+    "contest_issues": [],
+    "missing_significant_event_count": 0,
+    "significant_event_issues": []
+  },
+  "spoken_style": {
+    "ai_pattern_hits": [],
+    "long_breath_sentences": [],
+    "subject_issues": [],
+    "particle_count": 6,
+    "particle_types": [
+      "哎呀",
+      "等等"
+    ],
+    "emotion_functions": [
+      "attention",
+      "pressure",
+      "release"
+    ],
+    "sentence_length_span": 19,
+    "humanizer_score": {
+      "directness": 10,
+      "rhythm": 10,
+      "trust": 10,
+      "authenticity": 9,
+      "concision": 10,
+      "total": 49
+    }
+  },
+  "special_rule_issues": []
+}

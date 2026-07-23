@@ -1,0 +1,235 @@
+{
+  "segments": 28,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 28,
+  "voice_spoken_units": 994,
+  "average_segment_rate": 3.012,
+  "max_segment_rate": 4.7,
+  "contest_segments": 1,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:11",
+      "seconds": 11,
+      "units": 34,
+      "rate": 3.091,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:11",
+      "end": "00:20",
+      "seconds": 9,
+      "units": 36,
+      "rate": 4.0,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:20",
+      "end": "00:29",
+      "seconds": 9,
+      "units": 42,
+      "rate": 4.667,
+      "title": "先遣出发"
+    },
+    {
+      "start": "00:29",
+      "end": "00:42",
+      "seconds": 13,
+      "units": 37,
+      "rate": 2.846,
+      "title": "两处清障"
+    },
+    {
+      "start": "00:42",
+      "end": "00:58",
+      "seconds": 16,
+      "units": 48,
+      "rate": 3.0,
+      "title": "红队扑空"
+    },
+    {
+      "start": "00:58",
+      "end": "01:12",
+      "seconds": 14,
+      "units": 41,
+      "rate": 2.929,
+      "title": "南岭驿并行"
+    },
+    {
+      "start": "01:12",
+      "end": "01:26",
+      "seconds": 14,
+      "units": 40,
+      "rate": 2.857,
+      "title": "探路未用"
+    },
+    {
+      "start": "01:26",
+      "end": "01:48",
+      "seconds": 22,
+      "units": 65,
+      "rate": 2.955,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "01:48",
+      "end": "01:55",
+      "seconds": 7,
+      "units": 16,
+      "rate": 2.286,
+      "title": "快马窗口将开"
+    },
+    {
+      "start": "01:55",
+      "end": "02:11",
+      "seconds": 16,
+      "units": 46,
+      "rate": 2.875,
+      "title": "快马兑现"
+    },
+    {
+      "start": "02:11",
+      "end": "02:27",
+      "seconds": 16,
+      "units": 45,
+      "rate": 2.812,
+      "title": "同路竞速"
+    },
+    {
+      "start": "02:27",
+      "end": "02:41",
+      "seconds": 14,
+      "units": 40,
+      "rate": 2.857,
+      "title": "酷暑压鲜度"
+    },
+    {
+      "start": "02:41",
+      "end": "02:48",
+      "seconds": 7,
+      "units": 17,
+      "rate": 2.429,
+      "title": "红队先到水驿"
+    },
+    {
+      "start": "02:48",
+      "end": "03:02",
+      "seconds": 14,
+      "units": 42,
+      "rate": 3.0,
+      "title": "蓝队转运完成"
+    },
+    {
+      "start": "03:02",
+      "end": "03:10",
+      "seconds": 8,
+      "units": 24,
+      "rate": 3.0,
+      "title": "红队守住差距"
+    },
+    {
+      "start": "03:10",
+      "end": "03:18",
+      "seconds": 8,
+      "units": 23,
+      "rate": 2.875,
+      "title": "洛阳驿先后到站"
+    },
+    {
+      "start": "03:18",
+      "end": "03:28",
+      "seconds": 10,
+      "units": 27,
+      "rate": 2.7,
+      "title": "山雾无碍"
+    },
+    {
+      "start": "03:28",
+      "end": "03:40",
+      "seconds": 12,
+      "units": 30,
+      "rate": 2.5,
+      "title": "红队先抵武关"
+    },
+    {
+      "start": "03:40",
+      "end": "03:45",
+      "seconds": 5,
+      "units": 14,
+      "rate": 2.8,
+      "title": "继续同线推进"
+    },
+    {
+      "start": "03:45",
+      "end": "03:56",
+      "seconds": 11,
+      "units": 34,
+      "rate": 3.091,
+      "title": "红队完成关口转运"
+    },
+    {
+      "start": "03:56",
+      "end": "04:04",
+      "seconds": 8,
+      "units": 24,
+      "rate": 3.0,
+      "title": "蓝队完成转运"
+    },
+    {
+      "start": "04:04",
+      "end": "04:18",
+      "seconds": 14,
+      "units": 42,
+      "rate": 3.0,
+      "title": "支路追逐"
+    },
+    {
+      "start": "04:18",
+      "end": "04:32",
+      "seconds": 14,
+      "units": 42,
+      "rate": 3.0,
+      "title": "第二轮折损"
+    },
+    {
+      "start": "04:32",
+      "end": "04:48",
+      "seconds": 16,
+      "units": 48,
+      "rate": 3.0,
+      "title": "朱雀门探路"
+    },
+    {
+      "start": "04:48",
+      "end": "05:02",
+      "seconds": 14,
+      "units": 43,
+      "rate": 3.071,
+      "title": "宫宴冲刺"
+    },
+    {
+      "start": "05:02",
+      "end": "05:12",
+      "seconds": 10,
+      "units": 27,
+      "rate": 2.7,
+      "title": "核验节奏分开"
+    },
+    {
+      "start": "05:12",
+      "end": "05:20",
+      "seconds": 8,
+      "units": 20,
+      "rate": 2.5,
+      "title": "红队送达"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 47,
+      "rate": 4.7,
+      "title": "蓝队送达与最终结算"
+    }
+  ]
+}

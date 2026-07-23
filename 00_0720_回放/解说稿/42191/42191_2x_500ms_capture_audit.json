@@ -1,0 +1,151 @@
+{
+  "match_id": 42191,
+  "status": "PASS",
+  "timeline_end_seconds": 321,
+  "sampling_definition": {
+    "target_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "screenshot_and_write_time_deducted_from_wait": true,
+    "overrun_policy": "start next immediately",
+    "actual_timestamps_preserved": true
+  },
+  "sampling_actual_start_gap_ms": {
+    "samples": 2435,
+    "median_ms": 669,
+    "p95_ms": 1145,
+    "max_ms": 2480,
+    "over_target_count": 2370,
+    "over_target_ratio": 0.973306,
+    "over_750ms_count": 882,
+    "setup_phase_excluded": true
+  },
+  "largest_start_gap": {
+    "gap_ms": 2480,
+    "from_file": "frame_0548_487354ms.jpg",
+    "to_file": "frame_0549_489834ms.jpg",
+    "from_elapsed_ms": 487354,
+    "to_elapsed_ms": 489834
+  },
+  "listed_frame_count": 2437,
+  "verified_capture_duration_ms": 1930843,
+  "frame_file_verification": {
+    "listed_frame_count": 2437,
+    "all_listed_frames_exist": true,
+    "missing_frames": [],
+    "final_settlement_exists": true,
+    "final_settlement_sha256": "332c363fe71d737f7f929300e82f3cd41a77cdf2ea2cbd06994a293b0a44501c"
+  },
+  "source_copy_verification": {
+    "status": "passed",
+    "files": {
+      "replay.txt": {
+        "source_exists": true,
+        "copy_exists": true,
+        "source_sha256": "6e0e040f8832cabc99b36f5d57d4626a3c6d15f56c901780ee5fba392c0dd681",
+        "copy_sha256": "6e0e040f8832cabc99b36f5d57d4626a3c6d15f56c901780ee5fba392c0dd681",
+        "hash_match": true
+      },
+      "data.csv": {
+        "source_exists": true,
+        "copy_exists": true,
+        "source_sha256": "0fe49f5430cff66f32a66c4434f1dba9499289f852bfaf31064efc0d398b405d",
+        "copy_sha256": "0fe49f5430cff66f32a66c4434f1dba9499289f852bfaf31064efc0d398b405d",
+        "hash_match": true
+      }
+    }
+  },
+  "terminal_visual_review": {
+    "status": "passed",
+    "reviewed_by": "codex_visual",
+    "proof": "frames/frame_final_settlement.jpg",
+    "proof_sha256": "332c363fe71d737f7f929300e82f3cd41a77cdf2ea2cbd06994a293b0a44501c",
+    "expected_result": {
+      "over_round": 582,
+      "over_reason": "SCORE_TIE",
+      "result_type": "DRAW",
+      "is_draw": false,
+      "score_tied": true,
+      "winner_player_id": 2751,
+      "winner_score": 345,
+      "winner_basis": "raw_freshness_tiebreak",
+      "scores": {
+        "2625": 345,
+        "2751": 345
+      },
+      "freshness": {
+        "2625": 66.38,
+        "2751": 66.6
+      },
+      "players": [
+        {
+          "player_id": 2625,
+          "camp": 1,
+          "score": 345,
+          "freshness": 66.38
+        },
+        {
+          "player_id": 2751,
+          "camp": 0,
+          "score": 345,
+          "freshness": 66.6
+        }
+      ]
+    },
+    "proof_replaced_after_wait": true,
+    "capture_extended_from_same_session": false,
+    "note": "双方整数总分同为345；终局按未取整鲜度子维度决胜。红方2751鲜度66.60，高于蓝方2625的66.38，终局UI正确显示红方获胜。"
+  },
+  "authoritative_replay_result": {
+    "over_round": 582,
+    "over_reason": "SCORE_TIE",
+    "result_type": "DRAW",
+    "is_draw": false,
+    "score_tied": true,
+    "winner_player_id": 2751,
+    "winner_score": 345,
+    "winner_basis": "raw_freshness_tiebreak",
+    "scores": {
+      "2625": 345,
+      "2751": 345
+    },
+    "freshness": {
+      "2625": 66.38,
+      "2751": 66.6
+    },
+    "players": [
+      {
+        "player_id": 2625,
+        "camp": 1,
+        "score": 345,
+        "freshness": 66.38
+      },
+      {
+        "player_id": 2751,
+        "camp": 0,
+        "score": 345,
+        "freshness": 66.6
+      }
+    ]
+  },
+  "deliverables": {
+    "required": {
+      "42191_2x_tts_ui_synced.md": true,
+      "42191_2x_tts_voice_only.md": true,
+      "replay.txt": true,
+      "data.csv": true,
+      "42191_capture_manifest.json": true
+    },
+    "all_required_present": true,
+    "obsolete_active_files": []
+  },
+  "criteria": {
+    "all_manifest_frames_exist": true,
+    "final_settlement_exists": true,
+    "source_copies_match": true,
+    "required_deliverables_present": true,
+    "obsolete_active_files_absent": true,
+    "tts_timeline_at_or_below_330s": true,
+    "tts_audit_passed": true,
+    "terminal_visual_reviewed": true
+  }
+}

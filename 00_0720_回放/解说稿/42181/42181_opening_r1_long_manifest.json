@@ -1,0 +1,1554 @@
+{
+  "match_id": "42181",
+  "playback_speed": "2x",
+  "capture_started_at": "2026-07-21T10:57:47.615Z",
+  "duration_ms": 80026,
+  "interval_target_ms": 250,
+  "frames": [
+    {
+      "index": 0,
+      "elapsed_ms": 0,
+      "file": "opening_000_00000ms.png"
+    },
+    {
+      "index": 1,
+      "elapsed_ms": 259,
+      "file": "opening_001_00259ms.png"
+    },
+    {
+      "index": 2,
+      "elapsed_ms": 516,
+      "file": "opening_002_00516ms.png"
+    },
+    {
+      "index": 3,
+      "elapsed_ms": 773,
+      "file": "opening_003_00773ms.png"
+    },
+    {
+      "index": 4,
+      "elapsed_ms": 1024,
+      "file": "opening_004_01024ms.png"
+    },
+    {
+      "index": 5,
+      "elapsed_ms": 1276,
+      "file": "opening_005_01276ms.png"
+    },
+    {
+      "index": 6,
+      "elapsed_ms": 1532,
+      "file": "opening_006_01532ms.png"
+    },
+    {
+      "index": 7,
+      "elapsed_ms": 1788,
+      "file": "opening_007_01788ms.png"
+    },
+    {
+      "index": 8,
+      "elapsed_ms": 2045,
+      "file": "opening_008_02045ms.png"
+    },
+    {
+      "index": 9,
+      "elapsed_ms": 2307,
+      "file": "opening_009_02307ms.png"
+    },
+    {
+      "index": 10,
+      "elapsed_ms": 2567,
+      "file": "opening_010_02567ms.png"
+    },
+    {
+      "index": 11,
+      "elapsed_ms": 2829,
+      "file": "opening_011_02829ms.png"
+    },
+    {
+      "index": 12,
+      "elapsed_ms": 3081,
+      "file": "opening_012_03081ms.png"
+    },
+    {
+      "index": 13,
+      "elapsed_ms": 3337,
+      "file": "opening_013_03337ms.png"
+    },
+    {
+      "index": 14,
+      "elapsed_ms": 3588,
+      "file": "opening_014_03588ms.png"
+    },
+    {
+      "index": 15,
+      "elapsed_ms": 3845,
+      "file": "opening_015_03845ms.png"
+    },
+    {
+      "index": 16,
+      "elapsed_ms": 4103,
+      "file": "opening_016_04103ms.png"
+    },
+    {
+      "index": 17,
+      "elapsed_ms": 4356,
+      "file": "opening_017_04356ms.png"
+    },
+    {
+      "index": 18,
+      "elapsed_ms": 4607,
+      "file": "opening_018_04607ms.png"
+    },
+    {
+      "index": 19,
+      "elapsed_ms": 4868,
+      "file": "opening_019_04868ms.png"
+    },
+    {
+      "index": 20,
+      "elapsed_ms": 5122,
+      "file": "opening_020_05122ms.png"
+    },
+    {
+      "index": 21,
+      "elapsed_ms": 5384,
+      "file": "opening_021_05384ms.png"
+    },
+    {
+      "index": 22,
+      "elapsed_ms": 5647,
+      "file": "opening_022_05647ms.png"
+    },
+    {
+      "index": 23,
+      "elapsed_ms": 5904,
+      "file": "opening_023_05904ms.png"
+    },
+    {
+      "index": 24,
+      "elapsed_ms": 6154,
+      "file": "opening_024_06154ms.png"
+    },
+    {
+      "index": 25,
+      "elapsed_ms": 6407,
+      "file": "opening_025_06407ms.png"
+    },
+    {
+      "index": 26,
+      "elapsed_ms": 6663,
+      "file": "opening_026_06663ms.png"
+    },
+    {
+      "index": 27,
+      "elapsed_ms": 6920,
+      "file": "opening_027_06920ms.png"
+    },
+    {
+      "index": 28,
+      "elapsed_ms": 7171,
+      "file": "opening_028_07171ms.png"
+    },
+    {
+      "index": 29,
+      "elapsed_ms": 7432,
+      "file": "opening_029_07432ms.png"
+    },
+    {
+      "index": 30,
+      "elapsed_ms": 7693,
+      "file": "opening_030_07693ms.png"
+    },
+    {
+      "index": 31,
+      "elapsed_ms": 7950,
+      "file": "opening_031_07950ms.png"
+    },
+    {
+      "index": 32,
+      "elapsed_ms": 8202,
+      "file": "opening_032_08202ms.png"
+    },
+    {
+      "index": 33,
+      "elapsed_ms": 8459,
+      "file": "opening_033_08459ms.png"
+    },
+    {
+      "index": 34,
+      "elapsed_ms": 8711,
+      "file": "opening_034_08711ms.png"
+    },
+    {
+      "index": 35,
+      "elapsed_ms": 8964,
+      "file": "opening_035_08964ms.png"
+    },
+    {
+      "index": 36,
+      "elapsed_ms": 9215,
+      "file": "opening_036_09215ms.png"
+    },
+    {
+      "index": 37,
+      "elapsed_ms": 9477,
+      "file": "opening_037_09477ms.png"
+    },
+    {
+      "index": 38,
+      "elapsed_ms": 9731,
+      "file": "opening_038_09731ms.png"
+    },
+    {
+      "index": 39,
+      "elapsed_ms": 9988,
+      "file": "opening_039_09988ms.png"
+    },
+    {
+      "index": 40,
+      "elapsed_ms": 10238,
+      "file": "opening_040_10238ms.png"
+    },
+    {
+      "index": 41,
+      "elapsed_ms": 10500,
+      "file": "opening_041_10500ms.png"
+    },
+    {
+      "index": 42,
+      "elapsed_ms": 10756,
+      "file": "opening_042_10756ms.png"
+    },
+    {
+      "index": 43,
+      "elapsed_ms": 11013,
+      "file": "opening_043_11013ms.png"
+    },
+    {
+      "index": 44,
+      "elapsed_ms": 11275,
+      "file": "opening_044_11275ms.png"
+    },
+    {
+      "index": 45,
+      "elapsed_ms": 11536,
+      "file": "opening_045_11536ms.png"
+    },
+    {
+      "index": 46,
+      "elapsed_ms": 11801,
+      "file": "opening_046_11801ms.png"
+    },
+    {
+      "index": 47,
+      "elapsed_ms": 12060,
+      "file": "opening_047_12060ms.png"
+    },
+    {
+      "index": 48,
+      "elapsed_ms": 12316,
+      "file": "opening_048_12316ms.png"
+    },
+    {
+      "index": 49,
+      "elapsed_ms": 12581,
+      "file": "opening_049_12581ms.png"
+    },
+    {
+      "index": 50,
+      "elapsed_ms": 12837,
+      "file": "opening_050_12837ms.png"
+    },
+    {
+      "index": 51,
+      "elapsed_ms": 13099,
+      "file": "opening_051_13099ms.png"
+    },
+    {
+      "index": 52,
+      "elapsed_ms": 13350,
+      "file": "opening_052_13350ms.png"
+    },
+    {
+      "index": 53,
+      "elapsed_ms": 13602,
+      "file": "opening_053_13602ms.png"
+    },
+    {
+      "index": 54,
+      "elapsed_ms": 13854,
+      "file": "opening_054_13854ms.png"
+    },
+    {
+      "index": 55,
+      "elapsed_ms": 14106,
+      "file": "opening_055_14106ms.png"
+    },
+    {
+      "index": 56,
+      "elapsed_ms": 14363,
+      "file": "opening_056_14363ms.png"
+    },
+    {
+      "index": 57,
+      "elapsed_ms": 14613,
+      "file": "opening_057_14613ms.png"
+    },
+    {
+      "index": 58,
+      "elapsed_ms": 14869,
+      "file": "opening_058_14869ms.png"
+    },
+    {
+      "index": 59,
+      "elapsed_ms": 15119,
+      "file": "opening_059_15119ms.png"
+    },
+    {
+      "index": 60,
+      "elapsed_ms": 15376,
+      "file": "opening_060_15376ms.png"
+    },
+    {
+      "index": 61,
+      "elapsed_ms": 15628,
+      "file": "opening_061_15628ms.png"
+    },
+    {
+      "index": 62,
+      "elapsed_ms": 15891,
+      "file": "opening_062_15891ms.png"
+    },
+    {
+      "index": 63,
+      "elapsed_ms": 16144,
+      "file": "opening_063_16144ms.png"
+    },
+    {
+      "index": 64,
+      "elapsed_ms": 16412,
+      "file": "opening_064_16412ms.png"
+    },
+    {
+      "index": 65,
+      "elapsed_ms": 16686,
+      "file": "opening_065_16686ms.png"
+    },
+    {
+      "index": 66,
+      "elapsed_ms": 16951,
+      "file": "opening_066_16951ms.png"
+    },
+    {
+      "index": 67,
+      "elapsed_ms": 17206,
+      "file": "opening_067_17206ms.png"
+    },
+    {
+      "index": 68,
+      "elapsed_ms": 17460,
+      "file": "opening_068_17460ms.png"
+    },
+    {
+      "index": 69,
+      "elapsed_ms": 17711,
+      "file": "opening_069_17711ms.png"
+    },
+    {
+      "index": 70,
+      "elapsed_ms": 18003,
+      "file": "opening_070_18003ms.png"
+    },
+    {
+      "index": 71,
+      "elapsed_ms": 18259,
+      "file": "opening_071_18259ms.png"
+    },
+    {
+      "index": 72,
+      "elapsed_ms": 18523,
+      "file": "opening_072_18523ms.png"
+    },
+    {
+      "index": 73,
+      "elapsed_ms": 18784,
+      "file": "opening_073_18784ms.png"
+    },
+    {
+      "index": 74,
+      "elapsed_ms": 19039,
+      "file": "opening_074_19039ms.png"
+    },
+    {
+      "index": 75,
+      "elapsed_ms": 19289,
+      "file": "opening_075_19289ms.png"
+    },
+    {
+      "index": 76,
+      "elapsed_ms": 19582,
+      "file": "opening_076_19582ms.png"
+    },
+    {
+      "index": 77,
+      "elapsed_ms": 19836,
+      "file": "opening_077_19836ms.png"
+    },
+    {
+      "index": 78,
+      "elapsed_ms": 20096,
+      "file": "opening_078_20096ms.png"
+    },
+    {
+      "index": 79,
+      "elapsed_ms": 20349,
+      "file": "opening_079_20349ms.png"
+    },
+    {
+      "index": 80,
+      "elapsed_ms": 20603,
+      "file": "opening_080_20603ms.png"
+    },
+    {
+      "index": 81,
+      "elapsed_ms": 20868,
+      "file": "opening_081_20868ms.png"
+    },
+    {
+      "index": 82,
+      "elapsed_ms": 21194,
+      "file": "opening_082_21194ms.png"
+    },
+    {
+      "index": 83,
+      "elapsed_ms": 21530,
+      "file": "opening_083_21530ms.png"
+    },
+    {
+      "index": 84,
+      "elapsed_ms": 21789,
+      "file": "opening_084_21789ms.png"
+    },
+    {
+      "index": 85,
+      "elapsed_ms": 22046,
+      "file": "opening_085_22046ms.png"
+    },
+    {
+      "index": 86,
+      "elapsed_ms": 22304,
+      "file": "opening_086_22304ms.png"
+    },
+    {
+      "index": 87,
+      "elapsed_ms": 22559,
+      "file": "opening_087_22559ms.png"
+    },
+    {
+      "index": 88,
+      "elapsed_ms": 22822,
+      "file": "opening_088_22822ms.png"
+    },
+    {
+      "index": 89,
+      "elapsed_ms": 23073,
+      "file": "opening_089_23073ms.png"
+    },
+    {
+      "index": 90,
+      "elapsed_ms": 23375,
+      "file": "opening_090_23375ms.png"
+    },
+    {
+      "index": 91,
+      "elapsed_ms": 23641,
+      "file": "opening_091_23641ms.png"
+    },
+    {
+      "index": 92,
+      "elapsed_ms": 23896,
+      "file": "opening_092_23896ms.png"
+    },
+    {
+      "index": 93,
+      "elapsed_ms": 24160,
+      "file": "opening_093_24160ms.png"
+    },
+    {
+      "index": 94,
+      "elapsed_ms": 24417,
+      "file": "opening_094_24417ms.png"
+    },
+    {
+      "index": 95,
+      "elapsed_ms": 24686,
+      "file": "opening_095_24686ms.png"
+    },
+    {
+      "index": 96,
+      "elapsed_ms": 24951,
+      "file": "opening_096_24951ms.png"
+    },
+    {
+      "index": 97,
+      "elapsed_ms": 25206,
+      "file": "opening_097_25206ms.png"
+    },
+    {
+      "index": 98,
+      "elapsed_ms": 25468,
+      "file": "opening_098_25468ms.png"
+    },
+    {
+      "index": 99,
+      "elapsed_ms": 25720,
+      "file": "opening_099_25720ms.png"
+    },
+    {
+      "index": 100,
+      "elapsed_ms": 26051,
+      "file": "opening_100_26051ms.png"
+    },
+    {
+      "index": 101,
+      "elapsed_ms": 26346,
+      "file": "opening_101_26346ms.png"
+    },
+    {
+      "index": 102,
+      "elapsed_ms": 26617,
+      "file": "opening_102_26617ms.png"
+    },
+    {
+      "index": 103,
+      "elapsed_ms": 26884,
+      "file": "opening_103_26884ms.png"
+    },
+    {
+      "index": 104,
+      "elapsed_ms": 27134,
+      "file": "opening_104_27134ms.png"
+    },
+    {
+      "index": 105,
+      "elapsed_ms": 27395,
+      "file": "opening_105_27395ms.png"
+    },
+    {
+      "index": 106,
+      "elapsed_ms": 27660,
+      "file": "opening_106_27660ms.png"
+    },
+    {
+      "index": 107,
+      "elapsed_ms": 27922,
+      "file": "opening_107_27922ms.png"
+    },
+    {
+      "index": 108,
+      "elapsed_ms": 28181,
+      "file": "opening_108_28181ms.png"
+    },
+    {
+      "index": 109,
+      "elapsed_ms": 28439,
+      "file": "opening_109_28439ms.png"
+    },
+    {
+      "index": 110,
+      "elapsed_ms": 28690,
+      "file": "opening_110_28690ms.png"
+    },
+    {
+      "index": 111,
+      "elapsed_ms": 28942,
+      "file": "opening_111_28942ms.png"
+    },
+    {
+      "index": 112,
+      "elapsed_ms": 29201,
+      "file": "opening_112_29201ms.png"
+    },
+    {
+      "index": 113,
+      "elapsed_ms": 29452,
+      "file": "opening_113_29452ms.png"
+    },
+    {
+      "index": 114,
+      "elapsed_ms": 29706,
+      "file": "opening_114_29706ms.png"
+    },
+    {
+      "index": 115,
+      "elapsed_ms": 29958,
+      "file": "opening_115_29958ms.png"
+    },
+    {
+      "index": 116,
+      "elapsed_ms": 30214,
+      "file": "opening_116_30214ms.png"
+    },
+    {
+      "index": 117,
+      "elapsed_ms": 30467,
+      "file": "opening_117_30467ms.png"
+    },
+    {
+      "index": 118,
+      "elapsed_ms": 30724,
+      "file": "opening_118_30724ms.png"
+    },
+    {
+      "index": 119,
+      "elapsed_ms": 30980,
+      "file": "opening_119_30980ms.png"
+    },
+    {
+      "index": 120,
+      "elapsed_ms": 31299,
+      "file": "opening_120_31299ms.png"
+    },
+    {
+      "index": 121,
+      "elapsed_ms": 31603,
+      "file": "opening_121_31603ms.png"
+    },
+    {
+      "index": 122,
+      "elapsed_ms": 31864,
+      "file": "opening_122_31864ms.png"
+    },
+    {
+      "index": 123,
+      "elapsed_ms": 32129,
+      "file": "opening_123_32129ms.png"
+    },
+    {
+      "index": 124,
+      "elapsed_ms": 32389,
+      "file": "opening_124_32389ms.png"
+    },
+    {
+      "index": 125,
+      "elapsed_ms": 32644,
+      "file": "opening_125_32644ms.png"
+    },
+    {
+      "index": 126,
+      "elapsed_ms": 32902,
+      "file": "opening_126_32902ms.png"
+    },
+    {
+      "index": 127,
+      "elapsed_ms": 33157,
+      "file": "opening_127_33157ms.png"
+    },
+    {
+      "index": 128,
+      "elapsed_ms": 33411,
+      "file": "opening_128_33411ms.png"
+    },
+    {
+      "index": 129,
+      "elapsed_ms": 33689,
+      "file": "opening_129_33689ms.png"
+    },
+    {
+      "index": 130,
+      "elapsed_ms": 33975,
+      "file": "opening_130_33975ms.png"
+    },
+    {
+      "index": 131,
+      "elapsed_ms": 34226,
+      "file": "opening_131_34226ms.png"
+    },
+    {
+      "index": 132,
+      "elapsed_ms": 34488,
+      "file": "opening_132_34488ms.png"
+    },
+    {
+      "index": 133,
+      "elapsed_ms": 34792,
+      "file": "opening_133_34792ms.png"
+    },
+    {
+      "index": 134,
+      "elapsed_ms": 35057,
+      "file": "opening_134_35057ms.png"
+    },
+    {
+      "index": 135,
+      "elapsed_ms": 35308,
+      "file": "opening_135_35308ms.png"
+    },
+    {
+      "index": 136,
+      "elapsed_ms": 35564,
+      "file": "opening_136_35564ms.png"
+    },
+    {
+      "index": 137,
+      "elapsed_ms": 35818,
+      "file": "opening_137_35818ms.png"
+    },
+    {
+      "index": 138,
+      "elapsed_ms": 36073,
+      "file": "opening_138_36073ms.png"
+    },
+    {
+      "index": 139,
+      "elapsed_ms": 36337,
+      "file": "opening_139_36337ms.png"
+    },
+    {
+      "index": 140,
+      "elapsed_ms": 36596,
+      "file": "opening_140_36596ms.png"
+    },
+    {
+      "index": 141,
+      "elapsed_ms": 36861,
+      "file": "opening_141_36861ms.png"
+    },
+    {
+      "index": 142,
+      "elapsed_ms": 37123,
+      "file": "opening_142_37123ms.png"
+    },
+    {
+      "index": 143,
+      "elapsed_ms": 37383,
+      "file": "opening_143_37383ms.png"
+    },
+    {
+      "index": 144,
+      "elapsed_ms": 37657,
+      "file": "opening_144_37657ms.png"
+    },
+    {
+      "index": 145,
+      "elapsed_ms": 37918,
+      "file": "opening_145_37918ms.png"
+    },
+    {
+      "index": 146,
+      "elapsed_ms": 38176,
+      "file": "opening_146_38176ms.png"
+    },
+    {
+      "index": 147,
+      "elapsed_ms": 38429,
+      "file": "opening_147_38429ms.png"
+    },
+    {
+      "index": 148,
+      "elapsed_ms": 38683,
+      "file": "opening_148_38683ms.png"
+    },
+    {
+      "index": 149,
+      "elapsed_ms": 38948,
+      "file": "opening_149_38948ms.png"
+    },
+    {
+      "index": 150,
+      "elapsed_ms": 39210,
+      "file": "opening_150_39210ms.png"
+    },
+    {
+      "index": 151,
+      "elapsed_ms": 39474,
+      "file": "opening_151_39474ms.png"
+    },
+    {
+      "index": 152,
+      "elapsed_ms": 39734,
+      "file": "opening_152_39734ms.png"
+    },
+    {
+      "index": 153,
+      "elapsed_ms": 39997,
+      "file": "opening_153_39997ms.png"
+    },
+    {
+      "index": 154,
+      "elapsed_ms": 40262,
+      "file": "opening_154_40262ms.png"
+    },
+    {
+      "index": 155,
+      "elapsed_ms": 40523,
+      "file": "opening_155_40523ms.png"
+    },
+    {
+      "index": 156,
+      "elapsed_ms": 40776,
+      "file": "opening_156_40776ms.png"
+    },
+    {
+      "index": 157,
+      "elapsed_ms": 41028,
+      "file": "opening_157_41028ms.png"
+    },
+    {
+      "index": 158,
+      "elapsed_ms": 41280,
+      "file": "opening_158_41280ms.png"
+    },
+    {
+      "index": 159,
+      "elapsed_ms": 41543,
+      "file": "opening_159_41543ms.png"
+    },
+    {
+      "index": 160,
+      "elapsed_ms": 41809,
+      "file": "opening_160_41809ms.png"
+    },
+    {
+      "index": 161,
+      "elapsed_ms": 42067,
+      "file": "opening_161_42067ms.png"
+    },
+    {
+      "index": 162,
+      "elapsed_ms": 42317,
+      "file": "opening_162_42317ms.png"
+    },
+    {
+      "index": 163,
+      "elapsed_ms": 42572,
+      "file": "opening_163_42572ms.png"
+    },
+    {
+      "index": 164,
+      "elapsed_ms": 42826,
+      "file": "opening_164_42826ms.png"
+    },
+    {
+      "index": 165,
+      "elapsed_ms": 43076,
+      "file": "opening_165_43076ms.png"
+    },
+    {
+      "index": 166,
+      "elapsed_ms": 43330,
+      "file": "opening_166_43330ms.png"
+    },
+    {
+      "index": 167,
+      "elapsed_ms": 43590,
+      "file": "opening_167_43590ms.png"
+    },
+    {
+      "index": 168,
+      "elapsed_ms": 43848,
+      "file": "opening_168_43848ms.png"
+    },
+    {
+      "index": 169,
+      "elapsed_ms": 44122,
+      "file": "opening_169_44122ms.png"
+    },
+    {
+      "index": 170,
+      "elapsed_ms": 44383,
+      "file": "opening_170_44383ms.png"
+    },
+    {
+      "index": 171,
+      "elapsed_ms": 44646,
+      "file": "opening_171_44646ms.png"
+    },
+    {
+      "index": 172,
+      "elapsed_ms": 44904,
+      "file": "opening_172_44904ms.png"
+    },
+    {
+      "index": 173,
+      "elapsed_ms": 45158,
+      "file": "opening_173_45158ms.png"
+    },
+    {
+      "index": 174,
+      "elapsed_ms": 45419,
+      "file": "opening_174_45419ms.png"
+    },
+    {
+      "index": 175,
+      "elapsed_ms": 45678,
+      "file": "opening_175_45678ms.png"
+    },
+    {
+      "index": 176,
+      "elapsed_ms": 45943,
+      "file": "opening_176_45943ms.png"
+    },
+    {
+      "index": 177,
+      "elapsed_ms": 46193,
+      "file": "opening_177_46193ms.png"
+    },
+    {
+      "index": 178,
+      "elapsed_ms": 46443,
+      "file": "opening_178_46443ms.png"
+    },
+    {
+      "index": 179,
+      "elapsed_ms": 46697,
+      "file": "opening_179_46697ms.png"
+    },
+    {
+      "index": 180,
+      "elapsed_ms": 46946,
+      "file": "opening_180_46946ms.png"
+    },
+    {
+      "index": 181,
+      "elapsed_ms": 47200,
+      "file": "opening_181_47200ms.png"
+    },
+    {
+      "index": 182,
+      "elapsed_ms": 47455,
+      "file": "opening_182_47455ms.png"
+    },
+    {
+      "index": 183,
+      "elapsed_ms": 47715,
+      "file": "opening_183_47715ms.png"
+    },
+    {
+      "index": 184,
+      "elapsed_ms": 47980,
+      "file": "opening_184_47980ms.png"
+    },
+    {
+      "index": 185,
+      "elapsed_ms": 48232,
+      "file": "opening_185_48232ms.png"
+    },
+    {
+      "index": 186,
+      "elapsed_ms": 48489,
+      "file": "opening_186_48489ms.png"
+    },
+    {
+      "index": 187,
+      "elapsed_ms": 48747,
+      "file": "opening_187_48747ms.png"
+    },
+    {
+      "index": 188,
+      "elapsed_ms": 49007,
+      "file": "opening_188_49007ms.png"
+    },
+    {
+      "index": 189,
+      "elapsed_ms": 49256,
+      "file": "opening_189_49256ms.png"
+    },
+    {
+      "index": 190,
+      "elapsed_ms": 49512,
+      "file": "opening_190_49512ms.png"
+    },
+    {
+      "index": 191,
+      "elapsed_ms": 49774,
+      "file": "opening_191_49774ms.png"
+    },
+    {
+      "index": 192,
+      "elapsed_ms": 50027,
+      "file": "opening_192_50027ms.png"
+    },
+    {
+      "index": 193,
+      "elapsed_ms": 50289,
+      "file": "opening_193_50289ms.png"
+    },
+    {
+      "index": 194,
+      "elapsed_ms": 50544,
+      "file": "opening_194_50544ms.png"
+    },
+    {
+      "index": 195,
+      "elapsed_ms": 50801,
+      "file": "opening_195_50801ms.png"
+    },
+    {
+      "index": 196,
+      "elapsed_ms": 51061,
+      "file": "opening_196_51061ms.png"
+    },
+    {
+      "index": 197,
+      "elapsed_ms": 51325,
+      "file": "opening_197_51325ms.png"
+    },
+    {
+      "index": 198,
+      "elapsed_ms": 51576,
+      "file": "opening_198_51576ms.png"
+    },
+    {
+      "index": 199,
+      "elapsed_ms": 51829,
+      "file": "opening_199_51829ms.png"
+    },
+    {
+      "index": 200,
+      "elapsed_ms": 52083,
+      "file": "opening_200_52083ms.png"
+    },
+    {
+      "index": 201,
+      "elapsed_ms": 52332,
+      "file": "opening_201_52332ms.png"
+    },
+    {
+      "index": 202,
+      "elapsed_ms": 52594,
+      "file": "opening_202_52594ms.png"
+    },
+    {
+      "index": 203,
+      "elapsed_ms": 52848,
+      "file": "opening_203_52848ms.png"
+    },
+    {
+      "index": 204,
+      "elapsed_ms": 53102,
+      "file": "opening_204_53102ms.png"
+    },
+    {
+      "index": 205,
+      "elapsed_ms": 53361,
+      "file": "opening_205_53361ms.png"
+    },
+    {
+      "index": 206,
+      "elapsed_ms": 53616,
+      "file": "opening_206_53616ms.png"
+    },
+    {
+      "index": 207,
+      "elapsed_ms": 53870,
+      "file": "opening_207_53870ms.png"
+    },
+    {
+      "index": 208,
+      "elapsed_ms": 54125,
+      "file": "opening_208_54125ms.png"
+    },
+    {
+      "index": 209,
+      "elapsed_ms": 54384,
+      "file": "opening_209_54384ms.png"
+    },
+    {
+      "index": 210,
+      "elapsed_ms": 54647,
+      "file": "opening_210_54647ms.png"
+    },
+    {
+      "index": 211,
+      "elapsed_ms": 54899,
+      "file": "opening_211_54899ms.png"
+    },
+    {
+      "index": 212,
+      "elapsed_ms": 55149,
+      "file": "opening_212_55149ms.png"
+    },
+    {
+      "index": 213,
+      "elapsed_ms": 55403,
+      "file": "opening_213_55403ms.png"
+    },
+    {
+      "index": 214,
+      "elapsed_ms": 55662,
+      "file": "opening_214_55662ms.png"
+    },
+    {
+      "index": 215,
+      "elapsed_ms": 55913,
+      "file": "opening_215_55913ms.png"
+    },
+    {
+      "index": 216,
+      "elapsed_ms": 56163,
+      "file": "opening_216_56163ms.png"
+    },
+    {
+      "index": 217,
+      "elapsed_ms": 56422,
+      "file": "opening_217_56422ms.png"
+    },
+    {
+      "index": 218,
+      "elapsed_ms": 56673,
+      "file": "opening_218_56673ms.png"
+    },
+    {
+      "index": 219,
+      "elapsed_ms": 56934,
+      "file": "opening_219_56934ms.png"
+    },
+    {
+      "index": 220,
+      "elapsed_ms": 57193,
+      "file": "opening_220_57193ms.png"
+    },
+    {
+      "index": 221,
+      "elapsed_ms": 57450,
+      "file": "opening_221_57450ms.png"
+    },
+    {
+      "index": 222,
+      "elapsed_ms": 57708,
+      "file": "opening_222_57708ms.png"
+    },
+    {
+      "index": 223,
+      "elapsed_ms": 57963,
+      "file": "opening_223_57963ms.png"
+    },
+    {
+      "index": 224,
+      "elapsed_ms": 58216,
+      "file": "opening_224_58216ms.png"
+    },
+    {
+      "index": 225,
+      "elapsed_ms": 58479,
+      "file": "opening_225_58479ms.png"
+    },
+    {
+      "index": 226,
+      "elapsed_ms": 58744,
+      "file": "opening_226_58744ms.png"
+    },
+    {
+      "index": 227,
+      "elapsed_ms": 59006,
+      "file": "opening_227_59006ms.png"
+    },
+    {
+      "index": 228,
+      "elapsed_ms": 59265,
+      "file": "opening_228_59265ms.png"
+    },
+    {
+      "index": 229,
+      "elapsed_ms": 59516,
+      "file": "opening_229_59516ms.png"
+    },
+    {
+      "index": 230,
+      "elapsed_ms": 59780,
+      "file": "opening_230_59780ms.png"
+    },
+    {
+      "index": 231,
+      "elapsed_ms": 60034,
+      "file": "opening_231_60034ms.png"
+    },
+    {
+      "index": 232,
+      "elapsed_ms": 60300,
+      "file": "opening_232_60300ms.png"
+    },
+    {
+      "index": 233,
+      "elapsed_ms": 60552,
+      "file": "opening_233_60552ms.png"
+    },
+    {
+      "index": 234,
+      "elapsed_ms": 60816,
+      "file": "opening_234_60816ms.png"
+    },
+    {
+      "index": 235,
+      "elapsed_ms": 61070,
+      "file": "opening_235_61070ms.png"
+    },
+    {
+      "index": 236,
+      "elapsed_ms": 61333,
+      "file": "opening_236_61333ms.png"
+    },
+    {
+      "index": 237,
+      "elapsed_ms": 61583,
+      "file": "opening_237_61583ms.png"
+    },
+    {
+      "index": 238,
+      "elapsed_ms": 61835,
+      "file": "opening_238_61835ms.png"
+    },
+    {
+      "index": 239,
+      "elapsed_ms": 62092,
+      "file": "opening_239_62092ms.png"
+    },
+    {
+      "index": 240,
+      "elapsed_ms": 62346,
+      "file": "opening_240_62346ms.png"
+    },
+    {
+      "index": 241,
+      "elapsed_ms": 62609,
+      "file": "opening_241_62609ms.png"
+    },
+    {
+      "index": 242,
+      "elapsed_ms": 62860,
+      "file": "opening_242_62860ms.png"
+    },
+    {
+      "index": 243,
+      "elapsed_ms": 63118,
+      "file": "opening_243_63118ms.png"
+    },
+    {
+      "index": 244,
+      "elapsed_ms": 63371,
+      "file": "opening_244_63371ms.png"
+    },
+    {
+      "index": 245,
+      "elapsed_ms": 63627,
+      "file": "opening_245_63627ms.png"
+    },
+    {
+      "index": 246,
+      "elapsed_ms": 63889,
+      "file": "opening_246_63889ms.png"
+    },
+    {
+      "index": 247,
+      "elapsed_ms": 64147,
+      "file": "opening_247_64147ms.png"
+    },
+    {
+      "index": 248,
+      "elapsed_ms": 64411,
+      "file": "opening_248_64411ms.png"
+    },
+    {
+      "index": 249,
+      "elapsed_ms": 64674,
+      "file": "opening_249_64674ms.png"
+    },
+    {
+      "index": 250,
+      "elapsed_ms": 64924,
+      "file": "opening_250_64924ms.png"
+    },
+    {
+      "index": 251,
+      "elapsed_ms": 65173,
+      "file": "opening_251_65173ms.png"
+    },
+    {
+      "index": 252,
+      "elapsed_ms": 65431,
+      "file": "opening_252_65431ms.png"
+    },
+    {
+      "index": 253,
+      "elapsed_ms": 65683,
+      "file": "opening_253_65683ms.png"
+    },
+    {
+      "index": 254,
+      "elapsed_ms": 65945,
+      "file": "opening_254_65945ms.png"
+    },
+    {
+      "index": 255,
+      "elapsed_ms": 66208,
+      "file": "opening_255_66208ms.png"
+    },
+    {
+      "index": 256,
+      "elapsed_ms": 66463,
+      "file": "opening_256_66463ms.png"
+    },
+    {
+      "index": 257,
+      "elapsed_ms": 66715,
+      "file": "opening_257_66715ms.png"
+    },
+    {
+      "index": 258,
+      "elapsed_ms": 66969,
+      "file": "opening_258_66969ms.png"
+    },
+    {
+      "index": 259,
+      "elapsed_ms": 67232,
+      "file": "opening_259_67232ms.png"
+    },
+    {
+      "index": 260,
+      "elapsed_ms": 67483,
+      "file": "opening_260_67483ms.png"
+    },
+    {
+      "index": 261,
+      "elapsed_ms": 67744,
+      "file": "opening_261_67744ms.png"
+    },
+    {
+      "index": 262,
+      "elapsed_ms": 68000,
+      "file": "opening_262_68000ms.png"
+    },
+    {
+      "index": 263,
+      "elapsed_ms": 68250,
+      "file": "opening_263_68250ms.png"
+    },
+    {
+      "index": 264,
+      "elapsed_ms": 68504,
+      "file": "opening_264_68504ms.png"
+    },
+    {
+      "index": 265,
+      "elapsed_ms": 68759,
+      "file": "opening_265_68759ms.png"
+    },
+    {
+      "index": 266,
+      "elapsed_ms": 69019,
+      "file": "opening_266_69019ms.png"
+    },
+    {
+      "index": 267,
+      "elapsed_ms": 69278,
+      "file": "opening_267_69278ms.png"
+    },
+    {
+      "index": 268,
+      "elapsed_ms": 69539,
+      "file": "opening_268_69539ms.png"
+    },
+    {
+      "index": 269,
+      "elapsed_ms": 69793,
+      "file": "opening_269_69793ms.png"
+    },
+    {
+      "index": 270,
+      "elapsed_ms": 70048,
+      "file": "opening_270_70048ms.png"
+    },
+    {
+      "index": 271,
+      "elapsed_ms": 70298,
+      "file": "opening_271_70298ms.png"
+    },
+    {
+      "index": 272,
+      "elapsed_ms": 70550,
+      "file": "opening_272_70550ms.png"
+    },
+    {
+      "index": 273,
+      "elapsed_ms": 70814,
+      "file": "opening_273_70814ms.png"
+    },
+    {
+      "index": 274,
+      "elapsed_ms": 71077,
+      "file": "opening_274_71077ms.png"
+    },
+    {
+      "index": 275,
+      "elapsed_ms": 71332,
+      "file": "opening_275_71332ms.png"
+    },
+    {
+      "index": 276,
+      "elapsed_ms": 71587,
+      "file": "opening_276_71587ms.png"
+    },
+    {
+      "index": 277,
+      "elapsed_ms": 71847,
+      "file": "opening_277_71847ms.png"
+    },
+    {
+      "index": 278,
+      "elapsed_ms": 72098,
+      "file": "opening_278_72098ms.png"
+    },
+    {
+      "index": 279,
+      "elapsed_ms": 72349,
+      "file": "opening_279_72349ms.png"
+    },
+    {
+      "index": 280,
+      "elapsed_ms": 72606,
+      "file": "opening_280_72606ms.png"
+    },
+    {
+      "index": 281,
+      "elapsed_ms": 72860,
+      "file": "opening_281_72860ms.png"
+    },
+    {
+      "index": 282,
+      "elapsed_ms": 73114,
+      "file": "opening_282_73114ms.png"
+    },
+    {
+      "index": 283,
+      "elapsed_ms": 73368,
+      "file": "opening_283_73368ms.png"
+    },
+    {
+      "index": 284,
+      "elapsed_ms": 73631,
+      "file": "opening_284_73631ms.png"
+    },
+    {
+      "index": 285,
+      "elapsed_ms": 73892,
+      "file": "opening_285_73892ms.png"
+    },
+    {
+      "index": 286,
+      "elapsed_ms": 74147,
+      "file": "opening_286_74147ms.png"
+    },
+    {
+      "index": 287,
+      "elapsed_ms": 74401,
+      "file": "opening_287_74401ms.png"
+    },
+    {
+      "index": 288,
+      "elapsed_ms": 74666,
+      "file": "opening_288_74666ms.png"
+    },
+    {
+      "index": 289,
+      "elapsed_ms": 74918,
+      "file": "opening_289_74918ms.png"
+    },
+    {
+      "index": 290,
+      "elapsed_ms": 75171,
+      "file": "opening_290_75171ms.png"
+    },
+    {
+      "index": 291,
+      "elapsed_ms": 75428,
+      "file": "opening_291_75428ms.png"
+    },
+    {
+      "index": 292,
+      "elapsed_ms": 75690,
+      "file": "opening_292_75690ms.png"
+    },
+    {
+      "index": 293,
+      "elapsed_ms": 75947,
+      "file": "opening_293_75947ms.png"
+    },
+    {
+      "index": 294,
+      "elapsed_ms": 76196,
+      "file": "opening_294_76196ms.png"
+    },
+    {
+      "index": 295,
+      "elapsed_ms": 76457,
+      "file": "opening_295_76457ms.png"
+    },
+    {
+      "index": 296,
+      "elapsed_ms": 76709,
+      "file": "opening_296_76709ms.png"
+    },
+    {
+      "index": 297,
+      "elapsed_ms": 76974,
+      "file": "opening_297_76974ms.png"
+    },
+    {
+      "index": 298,
+      "elapsed_ms": 77230,
+      "file": "opening_298_77230ms.png"
+    },
+    {
+      "index": 299,
+      "elapsed_ms": 77482,
+      "file": "opening_299_77482ms.png"
+    },
+    {
+      "index": 300,
+      "elapsed_ms": 77734,
+      "file": "opening_300_77734ms.png"
+    },
+    {
+      "index": 301,
+      "elapsed_ms": 77989,
+      "file": "opening_301_77989ms.png"
+    },
+    {
+      "index": 302,
+      "elapsed_ms": 78252,
+      "file": "opening_302_78252ms.png"
+    },
+    {
+      "index": 303,
+      "elapsed_ms": 78508,
+      "file": "opening_303_78508ms.png"
+    },
+    {
+      "index": 304,
+      "elapsed_ms": 78757,
+      "file": "opening_304_78757ms.png"
+    },
+    {
+      "index": 305,
+      "elapsed_ms": 79008,
+      "file": "opening_305_79008ms.png"
+    },
+    {
+      "index": 306,
+      "elapsed_ms": 79263,
+      "file": "opening_306_79263ms.png"
+    },
+    {
+      "index": 307,
+      "elapsed_ms": 79516,
+      "file": "opening_307_79516ms.png"
+    },
+    {
+      "index": 308,
+      "elapsed_ms": 79774,
+      "file": "opening_308_79774ms.png"
+    }
+  ]
+}

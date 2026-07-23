@@ -1,0 +1,8 @@
+{
+  "match_id": "42186",
+  "status": "invalidated_and_preserved",
+  "reason": "The page was still loading game assets when the 30-second guard expired, so speed and replay clicks were not accepted.",
+  "formal_output_eligible": false,
+  "preserved_frames_directory": "frames_invalid_loading_click_20260721",
+  "action": "The clean recapture uses a 90-second loading guard before selecting 2x and replaying."
+}

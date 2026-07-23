@@ -1,0 +1,9 @@
+{
+  "expected_speed": "2x",
+  "verified_speed": "2x",
+  "proof": "frames/frame_speed_2x_verified_visible.jpg",
+  "proof_sha256": "a435dabff0e71081ea725233628ba21ce5a0f3a4912d981c6be5e7204540c98b",
+  "reviewed_by": "agent_visual",
+  "note": "Top playback control visibly shows 2x before replay and during live rounds",
+  "verified_at": "2026-07-22T09:44:05.745Z"
+}

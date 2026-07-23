@@ -1,0 +1,267 @@
+{
+  "segments": 32,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 32,
+  "voice_spoken_units": 1157,
+  "average_segment_rate": 3.506,
+  "max_segment_rate": 4.833,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 35,
+      "rate": 3.5,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:24",
+      "seconds": 14,
+      "units": 66,
+      "rate": 4.714,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:24",
+      "end": "00:30",
+      "seconds": 6,
+      "units": 29,
+      "rate": 4.833,
+      "title": "红方远程清武关"
+    },
+    {
+      "start": "00:30",
+      "end": "00:41",
+      "seconds": 11,
+      "units": 36,
+      "rate": 3.273,
+      "title": "武关泥泞清除"
+    },
+    {
+      "start": "00:41",
+      "end": "00:56",
+      "seconds": 15,
+      "units": 51,
+      "rate": 3.4,
+      "title": "红方侦察梅关"
+    },
+    {
+      "start": "00:56",
+      "end": "01:06",
+      "seconds": 10,
+      "units": 33,
+      "rate": 3.3,
+      "title": "双方进入首个站点"
+    },
+    {
+      "start": "01:06",
+      "end": "01:07",
+      "seconds": 1,
+      "units": 4,
+      "rate": 4.0,
+      "title": "酷热覆盖全图"
+    },
+    {
+      "start": "01:07",
+      "end": "01:17",
+      "seconds": 10,
+      "units": 31,
+      "rate": 3.1,
+      "title": "蓝方出现果品折损"
+    },
+    {
+      "start": "01:17",
+      "end": "01:21",
+      "seconds": 4,
+      "units": 14,
+      "rate": 3.5,
+      "title": "红方完成荆襄转运"
+    },
+    {
+      "start": "01:21",
+      "end": "01:33",
+      "seconds": 12,
+      "units": 41,
+      "rate": 3.417,
+      "title": "蓝方侦察秦岭"
+    },
+    {
+      "start": "01:33",
+      "end": "01:45",
+      "seconds": 12,
+      "units": 40,
+      "rate": 3.333,
+      "title": "蓝方进入秦岭"
+    },
+    {
+      "start": "01:45",
+      "end": "01:56",
+      "seconds": 11,
+      "units": 37,
+      "rate": 3.364,
+      "title": "蓝方任务分到六十"
+    },
+    {
+      "start": "01:56",
+      "end": "02:05",
+      "seconds": 9,
+      "units": 34,
+      "rate": 3.778,
+      "title": "蓝方任务分到九十"
+    },
+    {
+      "start": "02:05",
+      "end": "02:16",
+      "seconds": 11,
+      "units": 35,
+      "rate": 3.182,
+      "title": "红方进入洛阳"
+    },
+    {
+      "start": "02:16",
+      "end": "02:21",
+      "seconds": 5,
+      "units": 19,
+      "rate": 3.8,
+      "title": "暴雨未命中路线"
+    },
+    {
+      "start": "02:21",
+      "end": "02:32",
+      "seconds": 11,
+      "units": 37,
+      "rate": 3.364,
+      "title": "红方通过武关"
+    },
+    {
+      "start": "02:32",
+      "end": "02:37",
+      "seconds": 5,
+      "units": 17,
+      "rate": 3.4,
+      "title": "红方先到潼关"
+    },
+    {
+      "start": "02:37",
+      "end": "02:45",
+      "seconds": 8,
+      "units": 29,
+      "rate": 3.625,
+      "title": "红方转入朱雀支线"
+    },
+    {
+      "start": "02:45",
+      "end": "03:01",
+      "seconds": 16,
+      "units": 55,
+      "rate": 3.438,
+      "title": "蓝方任务分到一百五十"
+    },
+    {
+      "start": "03:01",
+      "end": "03:12",
+      "seconds": 11,
+      "units": 37,
+      "rate": 3.364,
+      "title": "蓝方驶向关中平原"
+    },
+    {
+      "start": "03:12",
+      "end": "03:27",
+      "seconds": 15,
+      "units": 51,
+      "rate": 3.4,
+      "title": "蓝方任务分到一百八十"
+    },
+    {
+      "start": "03:27",
+      "end": "03:36",
+      "seconds": 9,
+      "units": 33,
+      "rate": 3.667,
+      "title": "蓝方使用冰鉴"
+    },
+    {
+      "start": "03:36",
+      "end": "03:47",
+      "seconds": 11,
+      "units": 38,
+      "rate": 3.455,
+      "title": "红方核验蓝方交接"
+    },
+    {
+      "start": "03:47",
+      "end": "03:59",
+      "seconds": 12,
+      "units": 42,
+      "rate": 3.5,
+      "title": "红方核验后等待"
+    },
+    {
+      "start": "03:59",
+      "end": "04:11",
+      "seconds": 12,
+      "units": 44,
+      "rate": 3.667,
+      "title": "第一道四点关卡落地"
+    },
+    {
+      "start": "04:11",
+      "end": "04:24",
+      "seconds": 13,
+      "units": 48,
+      "rate": 3.692,
+      "title": "蓝方反复尝试前进"
+    },
+    {
+      "start": "04:24",
+      "end": "04:35",
+      "seconds": 11,
+      "units": 39,
+      "rate": 3.545,
+      "title": "关卡继续自然消耗"
+    },
+    {
+      "start": "04:35",
+      "end": "04:46",
+      "seconds": 11,
+      "units": 38,
+      "rate": 3.455,
+      "title": "第一道关卡接近归零"
+    },
+    {
+      "start": "04:46",
+      "end": "04:59",
+      "seconds": 13,
+      "units": 45,
+      "rate": 3.462,
+      "title": "蓝方恢复至百分之五十一点七"
+    },
+    {
+      "start": "04:59",
+      "end": "05:14",
+      "seconds": 15,
+      "units": 53,
+      "rate": 3.533,
+      "title": "第二道四点关卡途中阻断"
+    },
+    {
+      "start": "05:14",
+      "end": "05:20",
+      "seconds": 6,
+      "units": 20,
+      "rate": 3.333,
+      "title": "红队送达"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 26,
+      "rate": 2.6,
+      "title": "时间到与最终结算"
+    }
+  ]
+}

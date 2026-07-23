@@ -1,0 +1,28 @@
+{
+  "match_id": "42184",
+  "playback_speed": "2x",
+  "capture_manifest": "42184_capture_manifest.json",
+  "frames_directory": "frames",
+  "contact_sheets": [
+    "contact_sheets/contact_01.jpg",
+    "contact_sheets/contact_02.jpg",
+    "contact_sheets/contact_03.jpg",
+    "contact_sheets/contact_04.jpg"
+  ],
+  "speed_proof": "frames/frame_0000_speed_2x.jpg",
+  "main_capture_manifest": "42184_capture_manifest.json",
+  "gap_capture_manifest": "42184_gap_recapture_manifest.json",
+  "main_frames_directory": "frames",
+  "main_contact_sheets": [
+    "contact_sheets/contact_01.jpg",
+    "contact_sheets/contact_02.jpg",
+    "contact_sheets/contact_03.jpg",
+    "contact_sheets/contact_04.jpg"
+  ],
+  "gap_contact_sheets": [
+    "contact_sheets_gap/contact_01.jpg",
+    "contact_sheets_gap/contact_02.jpg"
+  ],
+  "settlement_proof": "frames/frame_final_settlement.jpg",
+  "coverage": "Opening through displayed settlement; the middle capture gap was recaptured at 2x with overlap on both sides."
+}

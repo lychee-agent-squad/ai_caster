@@ -1,0 +1,9 @@
+{
+  "match_id": "42195",
+  "status": "review_required",
+  "started_at": "2026-07-22T14:57:30.219Z",
+  "completed_at": "2026-07-22T15:39:19.505Z",
+  "capture_duration_ms": 1818507,
+  "screenshots": 2229,
+  "settlement_stable_detected": false
+}

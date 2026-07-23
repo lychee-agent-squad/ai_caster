@@ -1,0 +1,225 @@
+{
+  "match_id": "43253",
+  "passed": true,
+  "issues": [],
+  "max_process_lag": 1.5,
+  "max_result_lead": -1.5,
+  "rows": [
+    {
+      "segment": 2,
+      "title": "红队清障完成",
+      "start": 10,
+      "end": 20,
+      "image_seconds": 8.5,
+      "lag": 1.5,
+      "process": true
+    },
+    {
+      "segment": 3,
+      "title": "首次选路",
+      "start": 20,
+      "end": 35,
+      "image_seconds": 24.0,
+      "lag": -4.0,
+      "process": true
+    },
+    {
+      "segment": 4,
+      "title": "红队派遣",
+      "start": 35,
+      "end": 49,
+      "image_seconds": 39.0,
+      "lag": -4.0,
+      "process": true
+    },
+    {
+      "segment": 5,
+      "title": "天气实际影响",
+      "start": 49,
+      "end": 59,
+      "image_seconds": 50.0,
+      "lag": -1.0,
+      "process": true
+    },
+    {
+      "segment": 6,
+      "title": "蓝队任务完成",
+      "start": 59,
+      "end": 65,
+      "image_seconds": 63.5,
+      "lag": -4.5,
+      "process": true
+    },
+    {
+      "segment": 7,
+      "title": "蓝队码头争船完成",
+      "start": 65,
+      "end": 69,
+      "image_seconds": 65.5,
+      "lag": -0.5,
+      "process": true
+    },
+    {
+      "segment": 8,
+      "title": "红队码头争船完成",
+      "start": 69,
+      "end": 73,
+      "image_seconds": 68.5,
+      "lag": 0.5,
+      "process": true
+    },
+    {
+      "segment": 9,
+      "title": "红队洞庭水驿设卡完成",
+      "start": 73,
+      "end": 81,
+      "image_seconds": 79.5,
+      "lag": -6.5,
+      "process": true
+    },
+    {
+      "segment": 10,
+      "title": "蓝队折返南岭驿，蓝队小分队削弱",
+      "start": 81,
+      "end": 102,
+      "image_seconds": 85.5,
+      "lag": -4.5,
+      "process": true
+    },
+    {
+      "segment": 11,
+      "title": "设卡风化，天气实际影响",
+      "start": 102,
+      "end": 118,
+      "image_seconds": 105.0,
+      "lag": -3.0,
+      "process": true
+    },
+    {
+      "segment": 12,
+      "title": "红队资源使用",
+      "start": 118,
+      "end": 135,
+      "image_seconds": 118.5,
+      "lag": -0.5,
+      "process": true
+    },
+    {
+      "segment": 13,
+      "title": "红队潼关驿探路标记",
+      "start": 135,
+      "end": 141,
+      "image_seconds": 139.5,
+      "lag": -4.5,
+      "process": true
+    },
+    {
+      "segment": 14,
+      "title": "红队任务完成",
+      "start": 141,
+      "end": 159,
+      "image_seconds": 146.0,
+      "lag": -5.0,
+      "process": true
+    },
+    {
+      "segment": 15,
+      "title": "天气实际影响",
+      "start": 159,
+      "end": 168,
+      "image_seconds": 160.0,
+      "lag": -1.0,
+      "process": true
+    },
+    {
+      "segment": 16,
+      "title": "红队进点",
+      "start": 168,
+      "end": 176,
+      "image_seconds": 174.5,
+      "lag": -6.5,
+      "process": true
+    },
+    {
+      "segment": 17,
+      "title": "蓝队折返洞庭水驿",
+      "start": 176,
+      "end": 189,
+      "image_seconds": 175.5,
+      "lag": 0.5,
+      "process": true
+    },
+    {
+      "segment": 18,
+      "title": "路线继续推进",
+      "start": 189,
+      "end": 198,
+      "image_seconds": 192.0,
+      "lag": -3.0,
+      "process": true
+    },
+    {
+      "segment": 19,
+      "title": "红队送达成功",
+      "start": 198,
+      "end": 220,
+      "image_seconds": 199.5,
+      "lag": -1.5,
+      "process": true
+    },
+    {
+      "segment": 20,
+      "title": "路线继续推进",
+      "start": 220,
+      "end": 235,
+      "image_seconds": 224.0,
+      "lag": -4.0,
+      "process": true
+    },
+    {
+      "segment": 21,
+      "title": "蓝队果品折损",
+      "start": 235,
+      "end": 241,
+      "image_seconds": 237.0,
+      "lag": -2.0,
+      "process": true
+    },
+    {
+      "segment": 22,
+      "title": "蓝队进点",
+      "start": 241,
+      "end": 268,
+      "image_seconds": 242.0,
+      "lag": -1.0,
+      "process": true
+    },
+    {
+      "segment": 23,
+      "title": "路线继续推进",
+      "start": 268,
+      "end": 282,
+      "image_seconds": 272.0,
+      "lag": -4.0,
+      "process": true
+    },
+    {
+      "segment": 24,
+      "title": "蓝队进点",
+      "start": 282,
+      "end": 297,
+      "image_seconds": 283.5,
+      "lag": -1.5,
+      "process": true
+    },
+    {
+      "segment": 25,
+      "title": "路线继续推进",
+      "start": 297,
+      "end": 320,
+      "image_seconds": 300.0,
+      "lag": -3.0,
+      "process": false
+    }
+  ]
+}

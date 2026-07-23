@@ -1,0 +1,251 @@
+{
+  "segments": 30,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 30,
+  "voice_spoken_units": 1254,
+  "average_segment_rate": 3.8,
+  "max_segment_rate": 4.75,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 36,
+      "rate": 3.6,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:24",
+      "seconds": 14,
+      "units": 66,
+      "rate": 4.714,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:24",
+      "end": "00:32",
+      "seconds": 8,
+      "units": 38,
+      "rate": 4.75,
+      "title": "红方抵驿侦察"
+    },
+    {
+      "start": "00:32",
+      "end": "00:44",
+      "seconds": 12,
+      "units": 49,
+      "rate": 4.083,
+      "title": "江南码头探路标记落下"
+    },
+    {
+      "start": "00:44",
+      "end": "00:53",
+      "seconds": 9,
+      "units": 33,
+      "rate": 3.667,
+      "title": "红方取马清障"
+    },
+    {
+      "start": "00:53",
+      "end": "01:04",
+      "seconds": 11,
+      "units": 40,
+      "rate": 3.636,
+      "title": "红方转入水路"
+    },
+    {
+      "start": "01:04",
+      "end": "01:14",
+      "seconds": 10,
+      "units": 36,
+      "rate": 3.6,
+      "title": "酷暑覆盖全图"
+    },
+    {
+      "start": "01:14",
+      "end": "01:23",
+      "seconds": 9,
+      "units": 30,
+      "rate": 3.333,
+      "title": "蓝方率先折损"
+    },
+    {
+      "start": "01:23",
+      "end": "01:32",
+      "seconds": 9,
+      "units": 34,
+      "rate": 3.778,
+      "title": "红方水路转运"
+    },
+    {
+      "start": "01:32",
+      "end": "01:45",
+      "seconds": 13,
+      "units": 46,
+      "rate": 3.538,
+      "title": "红方离驿蓝方近点"
+    },
+    {
+      "start": "01:45",
+      "end": "01:55",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9,
+      "title": "蓝方任务分到六十"
+    },
+    {
+      "start": "01:55",
+      "end": "02:04",
+      "seconds": 9,
+      "units": 30,
+      "rate": 3.333,
+      "title": "暴雨命中红方水路"
+    },
+    {
+      "start": "02:04",
+      "end": "02:15",
+      "seconds": 11,
+      "units": 42,
+      "rate": 3.818,
+      "title": "红方再取马清障"
+    },
+    {
+      "start": "02:15",
+      "end": "02:25",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7,
+      "title": "红方官道加速"
+    },
+    {
+      "start": "02:25",
+      "end": "02:36",
+      "seconds": 11,
+      "units": 43,
+      "rate": 3.909,
+      "title": "双方接近潼关区域"
+    },
+    {
+      "start": "02:36",
+      "end": "02:47",
+      "seconds": 11,
+      "units": 40,
+      "rate": 3.636,
+      "title": "红方进武关侦察"
+    },
+    {
+      "start": "02:47",
+      "end": "03:01",
+      "seconds": 14,
+      "units": 52,
+      "rate": 3.714,
+      "title": "蓝方率先进潼关"
+    },
+    {
+      "start": "03:01",
+      "end": "03:14",
+      "seconds": 13,
+      "units": 49,
+      "rate": 3.769,
+      "title": "潼关各自处理"
+    },
+    {
+      "start": "03:14",
+      "end": "03:24",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9,
+      "title": "蓝方任务分封顶"
+    },
+    {
+      "start": "03:24",
+      "end": "03:34",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7,
+      "title": "蓝方补鲜继续前进"
+    },
+    {
+      "start": "03:34",
+      "end": "03:47",
+      "seconds": 13,
+      "units": 47,
+      "rate": 3.615,
+      "title": "灞桥任务不再加分"
+    },
+    {
+      "start": "03:47",
+      "end": "04:00",
+      "seconds": 13,
+      "units": 47,
+      "rate": 3.615,
+      "title": "第一道两点关卡途中阻断"
+    },
+    {
+      "start": "04:00",
+      "end": "04:13",
+      "seconds": 13,
+      "units": 47,
+      "rate": 3.615,
+      "title": "蓝方持续普通推进"
+    },
+    {
+      "start": "04:13",
+      "end": "04:19",
+      "seconds": 6,
+      "units": 23,
+      "rate": 3.833,
+      "title": "第一道关卡风化"
+    },
+    {
+      "start": "04:19",
+      "end": "04:33",
+      "seconds": 14,
+      "units": 50,
+      "rate": 3.571,
+      "title": "第二道两点关卡途中阻断"
+    },
+    {
+      "start": "04:33",
+      "end": "04:46",
+      "seconds": 13,
+      "units": 47,
+      "rate": 3.615,
+      "title": "蓝方第二次持续受阻"
+    },
+    {
+      "start": "04:46",
+      "end": "04:58",
+      "seconds": 12,
+      "units": 46,
+      "rate": 3.833,
+      "title": "蓝方推进到七成七"
+    },
+    {
+      "start": "04:58",
+      "end": "05:10",
+      "seconds": 12,
+      "units": 49,
+      "rate": 4.083,
+      "title": "第三道关卡与进宫失败"
+    },
+    {
+      "start": "05:10",
+      "end": "05:20",
+      "seconds": 10,
+      "units": 36,
+      "rate": 3.6,
+      "title": "红方核验疾行"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 46,
+      "rate": 4.6,
+      "title": "红队送达与最终结算"
+    }
+  ]
+}

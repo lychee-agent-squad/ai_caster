@@ -1,0 +1,259 @@
+{
+  "segments": 31,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 31,
+  "voice_spoken_units": 1274,
+  "average_segment_rate": 3.861,
+  "max_segment_rate": 4.889,
+  "contest_segments": 3,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 35,
+      "rate": 3.5,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:18",
+      "seconds": 8,
+      "units": 39,
+      "rate": 4.875,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:18",
+      "end": "00:27",
+      "seconds": 9,
+      "units": 44,
+      "rate": 4.889,
+      "title": "接近五岭山道"
+    },
+    {
+      "start": "00:27",
+      "end": "00:36",
+      "seconds": 9,
+      "units": 30,
+      "rate": 3.333,
+      "title": "同步进站再出发"
+    },
+    {
+      "start": "00:36",
+      "end": "00:43",
+      "seconds": 7,
+      "units": 27,
+      "rate": 3.857,
+      "title": "暴雨覆盖水域"
+    },
+    {
+      "start": "00:43",
+      "end": "00:50",
+      "seconds": 7,
+      "units": 28,
+      "rate": 4.0,
+      "title": "双方各坏一篓"
+    },
+    {
+      "start": "00:50",
+      "end": "01:01",
+      "seconds": 11,
+      "units": 42,
+      "rate": 3.818,
+      "title": "小分队侦察秦岭"
+    },
+    {
+      "start": "01:01",
+      "end": "01:15",
+      "seconds": 14,
+      "units": 54,
+      "rate": 3.857,
+      "title": "秦岭探路标记落下"
+    },
+    {
+      "start": "01:15",
+      "end": "01:25",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:25",
+      "end": "01:44",
+      "seconds": 19,
+      "units": 77,
+      "rate": 4.053,
+      "title": "第二轮平局、冷却与分头处理"
+    },
+    {
+      "start": "01:44",
+      "end": "02:01",
+      "seconds": 17,
+      "units": 65,
+      "rate": 3.824,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "02:01",
+      "end": "02:11",
+      "seconds": 10,
+      "units": 38,
+      "rate": 3.8,
+      "title": "蓝方获得第二项处理权，红方离站"
+    },
+    {
+      "start": "02:11",
+      "end": "02:16",
+      "seconds": 5,
+      "units": 17,
+      "rate": 3.4,
+      "title": "蓝方完成第二项栈道复核"
+    },
+    {
+      "start": "02:16",
+      "end": "02:26",
+      "seconds": 10,
+      "units": 35,
+      "rate": 3.5,
+      "title": "蓝方任务分升至九十"
+    },
+    {
+      "start": "02:26",
+      "end": "02:36",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7,
+      "title": "酷热命中山路"
+    },
+    {
+      "start": "02:36",
+      "end": "02:43",
+      "seconds": 7,
+      "units": 27,
+      "rate": 3.857,
+      "title": "红蓝继续逼近潼关"
+    },
+    {
+      "start": "02:43",
+      "end": "02:59",
+      "seconds": 16,
+      "units": 63,
+      "rate": 3.938,
+      "title": "潼关前的侦察"
+    },
+    {
+      "start": "02:59",
+      "end": "03:09",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7,
+      "title": "六点关卡途中阻断"
+    },
+    {
+      "start": "03:09",
+      "end": "03:21",
+      "seconds": 12,
+      "units": 49,
+      "rate": 4.083,
+      "title": "两次削弱红方增援"
+    },
+    {
+      "start": "03:21",
+      "end": "03:35",
+      "seconds": 14,
+      "units": 50,
+      "rate": 3.571,
+      "title": "蓝方放弃原路线"
+    },
+    {
+      "start": "03:35",
+      "end": "03:46",
+      "seconds": 11,
+      "units": 44,
+      "rate": 4.0,
+      "title": "双方路线彻底分开"
+    },
+    {
+      "start": "03:46",
+      "end": "03:59",
+      "seconds": 13,
+      "units": 54,
+      "rate": 4.154,
+      "title": "蓝方任务分到一百二十"
+    },
+    {
+      "start": "03:59",
+      "end": "04:11",
+      "seconds": 12,
+      "units": 47,
+      "rate": 3.917,
+      "title": "蓝方转运红方启程"
+    },
+    {
+      "start": "04:11",
+      "end": "04:22",
+      "seconds": 11,
+      "units": 42,
+      "rate": 3.818,
+      "title": "酷热下各走一线"
+    },
+    {
+      "start": "04:22",
+      "end": "04:34",
+      "seconds": 12,
+      "units": 48,
+      "rate": 4.0,
+      "title": "蓝方任务分升至一百八十"
+    },
+    {
+      "start": "04:34",
+      "end": "04:47",
+      "seconds": 13,
+      "units": 54,
+      "rate": 4.154,
+      "title": "蓝方驶向关中平原"
+    },
+    {
+      "start": "04:47",
+      "end": "04:57",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7,
+      "title": "红方抵近朱雀门"
+    },
+    {
+      "start": "04:57",
+      "end": "05:09",
+      "seconds": 12,
+      "units": 47,
+      "rate": 3.917,
+      "title": "红方完成朱雀门核验"
+    },
+    {
+      "start": "05:09",
+      "end": "05:15",
+      "seconds": 6,
+      "units": 20,
+      "rate": 3.333,
+      "title": "红方驶向兴庆宫"
+    },
+    {
+      "start": "05:15",
+      "end": "05:20",
+      "seconds": 5,
+      "units": 19,
+      "rate": 3.8,
+      "title": "红队送达"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 29,
+      "rate": 2.9,
+      "title": "时间到与最终结算"
+    }
+  ]
+}

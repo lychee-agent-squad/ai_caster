@@ -1,0 +1,9 @@
+{
+  "expected_speed": "2x",
+  "verified_speed": "2x",
+  "proof": "frames/speed_2x_before_replay.jpg",
+  "proof_sha256": "b0635360a8565fd36436fcaffc1130138dd359ce8d3257986ff2b0bf564dc8ac",
+  "reviewed_by": "agent_visual",
+  "note": "Top playback control visibly shows 2x immediately before verified replay restart",
+  "verified_at": "2026-07-22T10:06:37.876Z"
+}

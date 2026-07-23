@@ -1,0 +1,243 @@
+{
+  "segments": 29,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 29,
+  "voice_spoken_units": 1367,
+  "average_segment_rate": 4.142,
+  "max_segment_rate": 4.909,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:24",
+      "seconds": 14,
+      "units": 66,
+      "rate": 4.714,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:24",
+      "end": "00:35",
+      "seconds": 11,
+      "units": 54,
+      "rate": 4.909,
+      "title": "红队侦察江南码头"
+    },
+    {
+      "start": "00:35",
+      "end": "00:46",
+      "seconds": 11,
+      "units": 40,
+      "rate": 3.636,
+      "title": "红队取马，蓝队进山"
+    },
+    {
+      "start": "00:46",
+      "end": "00:58",
+      "seconds": 12,
+      "units": 49,
+      "rate": 4.083,
+      "title": "红队主车清障"
+    },
+    {
+      "start": "00:58",
+      "end": "01:11",
+      "seconds": 13,
+      "units": 51,
+      "rate": 3.923,
+      "title": "暴雨命中水路"
+    },
+    {
+      "start": "01:11",
+      "end": "01:23",
+      "seconds": 12,
+      "units": 48,
+      "rate": 4.0,
+      "title": "蓝队先现果品折损"
+    },
+    {
+      "start": "01:23",
+      "end": "01:35",
+      "seconds": 12,
+      "units": 49,
+      "rate": 4.083,
+      "title": "红队完成洞庭转运"
+    },
+    {
+      "start": "01:35",
+      "end": "01:46",
+      "seconds": 11,
+      "units": 44,
+      "rate": 4.0,
+      "title": "蓝队进入秦岭"
+    },
+    {
+      "start": "01:46",
+      "end": "02:00",
+      "seconds": 14,
+      "units": 57,
+      "rate": 4.071,
+      "title": "蓝队连取两项复核"
+    },
+    {
+      "start": "02:00",
+      "end": "02:09",
+      "seconds": 9,
+      "units": 37,
+      "rate": 4.111,
+      "title": "酷暑覆盖全图"
+    },
+    {
+      "start": "02:09",
+      "end": "02:22",
+      "seconds": 13,
+      "units": 51,
+      "rate": 3.923,
+      "title": "红队洛阳取马"
+    },
+    {
+      "start": "02:22",
+      "end": "02:34",
+      "seconds": 12,
+      "units": 49,
+      "rate": 4.083,
+      "title": "武关通路打开"
+    },
+    {
+      "start": "02:34",
+      "end": "02:47",
+      "seconds": 13,
+      "units": 54,
+      "rate": 4.154,
+      "title": "双方同时侦察潼关"
+    },
+    {
+      "start": "02:47",
+      "end": "02:57",
+      "seconds": 10,
+      "units": 44,
+      "rate": 4.4,
+      "title": "蓝队先入潼关"
+    },
+    {
+      "start": "02:57",
+      "end": "03:07",
+      "seconds": 10,
+      "units": 44,
+      "rate": 4.4,
+      "title": "六点设卡挡住红队"
+    },
+    {
+      "start": "03:07",
+      "end": "03:21",
+      "seconds": 14,
+      "units": 59,
+      "rate": 4.214,
+      "title": "蓝队任务达到九十"
+    },
+    {
+      "start": "03:21",
+      "end": "03:34",
+      "seconds": 13,
+      "units": 52,
+      "rate": 4.0,
+      "title": "蓝队关中连得六十"
+    },
+    {
+      "start": "03:34",
+      "end": "03:46",
+      "seconds": 12,
+      "units": 49,
+      "rate": 4.083,
+      "title": "蓝队冰鉴保鲜后转向灞桥"
+    },
+    {
+      "start": "03:46",
+      "end": "03:56",
+      "seconds": 10,
+      "units": 41,
+      "rate": 4.1,
+      "title": "蓝队完成宫前转运"
+    },
+    {
+      "start": "03:56",
+      "end": "04:04",
+      "seconds": 8,
+      "units": 32,
+      "rate": 4.0,
+      "title": "蓝队进入朱雀门"
+    },
+    {
+      "start": "04:04",
+      "end": "04:17",
+      "seconds": 13,
+      "units": 53,
+      "rate": 4.077,
+      "title": "双方等待封锁变化"
+    },
+    {
+      "start": "04:17",
+      "end": "04:28",
+      "seconds": 11,
+      "units": 42,
+      "rate": 3.818,
+      "title": "蓝队准备宫门防守"
+    },
+    {
+      "start": "04:28",
+      "end": "04:40",
+      "seconds": 12,
+      "units": 48,
+      "rate": 4.0,
+      "title": "朱雀门四点设卡"
+    },
+    {
+      "start": "04:40",
+      "end": "04:52",
+      "seconds": 12,
+      "units": 48,
+      "rate": 4.0,
+      "title": "红队脱困并拿到三十分"
+    },
+    {
+      "start": "04:52",
+      "end": "05:00",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "红队开急策但未继续移动"
+    },
+    {
+      "start": "05:00",
+      "end": "05:10",
+      "seconds": 10,
+      "units": 41,
+      "rate": 4.1,
+      "title": "蓝队启动宫门核验"
+    },
+    {
+      "start": "05:10",
+      "end": "05:20",
+      "seconds": 10,
+      "units": 43,
+      "rate": 4.3,
+      "title": "蓝队核验完成并进宫"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 49,
+      "rate": 4.9,
+      "title": "蓝队送达与最终结算"
+    }
+  ]
+}

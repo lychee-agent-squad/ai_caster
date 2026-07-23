@@ -1,0 +1,265 @@
+{
+  "segments": 30,
+  "timeline_end_seconds": 397,
+  "voice_paragraphs": 30,
+  "voice_spoken_units": 1501,
+  "average_segment_rate": 3.781,
+  "max_segment_rate": 5.3,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:14",
+      "seconds": 14,
+      "units": 49,
+      "rate": 3.5
+    },
+    {
+      "start": "00:14",
+      "end": "00:29",
+      "seconds": 15,
+      "units": 52,
+      "rate": 3.467
+    },
+    {
+      "start": "00:29",
+      "end": "00:44",
+      "seconds": 15,
+      "units": 40,
+      "rate": 2.667
+    },
+    {
+      "start": "00:44",
+      "end": "00:59",
+      "seconds": 15,
+      "units": 38,
+      "rate": 2.533
+    },
+    {
+      "start": "00:59",
+      "end": "01:13",
+      "seconds": 14,
+      "units": 46,
+      "rate": 3.286
+    },
+    {
+      "start": "01:13",
+      "end": "01:28",
+      "seconds": 15,
+      "units": 50,
+      "rate": 3.333
+    },
+    {
+      "start": "01:28",
+      "end": "01:43",
+      "seconds": 15,
+      "units": 49,
+      "rate": 3.267
+    },
+    {
+      "start": "01:43",
+      "end": "01:55",
+      "seconds": 12,
+      "units": 48,
+      "rate": 4.0
+    },
+    {
+      "start": "01:55",
+      "end": "02:08",
+      "seconds": 13,
+      "units": 56,
+      "rate": 4.308
+    },
+    {
+      "start": "02:08",
+      "end": "02:21",
+      "seconds": 13,
+      "units": 62,
+      "rate": 4.769
+    },
+    {
+      "start": "02:21",
+      "end": "02:35",
+      "seconds": 14,
+      "units": 70,
+      "rate": 5.0
+    },
+    {
+      "start": "02:35",
+      "end": "02:49",
+      "seconds": 14,
+      "units": 53,
+      "rate": 3.786
+    },
+    {
+      "start": "02:49",
+      "end": "03:04",
+      "seconds": 15,
+      "units": 48,
+      "rate": 3.2
+    },
+    {
+      "start": "03:04",
+      "end": "03:19",
+      "seconds": 15,
+      "units": 47,
+      "rate": 3.133
+    },
+    {
+      "start": "03:19",
+      "end": "03:33",
+      "seconds": 14,
+      "units": 57,
+      "rate": 4.071
+    },
+    {
+      "start": "03:33",
+      "end": "03:47",
+      "seconds": 14,
+      "units": 65,
+      "rate": 4.643
+    },
+    {
+      "start": "03:47",
+      "end": "04:01",
+      "seconds": 14,
+      "units": 56,
+      "rate": 4.0
+    },
+    {
+      "start": "04:01",
+      "end": "04:15",
+      "seconds": 14,
+      "units": 51,
+      "rate": 3.643
+    },
+    {
+      "start": "04:15",
+      "end": "04:29",
+      "seconds": 14,
+      "units": 54,
+      "rate": 3.857
+    },
+    {
+      "start": "04:29",
+      "end": "04:42",
+      "seconds": 13,
+      "units": 47,
+      "rate": 3.615
+    },
+    {
+      "start": "04:42",
+      "end": "04:56",
+      "seconds": 14,
+      "units": 48,
+      "rate": 3.429
+    },
+    {
+      "start": "04:56",
+      "end": "05:10",
+      "seconds": 14,
+      "units": 56,
+      "rate": 4.0
+    },
+    {
+      "start": "05:10",
+      "end": "05:23",
+      "seconds": 13,
+      "units": 46,
+      "rate": 3.538
+    },
+    {
+      "start": "05:23",
+      "end": "05:36",
+      "seconds": 13,
+      "units": 45,
+      "rate": 3.462
+    },
+    {
+      "start": "05:36",
+      "end": "05:48",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5
+    },
+    {
+      "start": "05:48",
+      "end": "06:00",
+      "seconds": 12,
+      "units": 51,
+      "rate": 4.25
+    },
+    {
+      "start": "06:00",
+      "end": "06:10",
+      "seconds": 10,
+      "units": 41,
+      "rate": 4.1
+    },
+    {
+      "start": "06:10",
+      "end": "06:20",
+      "seconds": 10,
+      "units": 53,
+      "rate": 5.3
+    },
+    {
+      "start": "06:20",
+      "end": "06:28",
+      "seconds": 8,
+      "units": 38,
+      "rate": 4.75
+    },
+    {
+      "start": "06:28",
+      "end": "06:37",
+      "seconds": 9,
+      "units": 31,
+      "rate": 3.444
+    }
+  ],
+  "team_identity": {
+    "2621": {
+      "official_name": "一心想赢",
+      "spoken_pronunciation": "一心想赢"
+    },
+    "2707": {
+      "official_name": "神经突触突击队",
+      "spoken_pronunciation": "神经突触突击队"
+    }
+  },
+  "backup_results": [],
+  "failure_count": 0,
+  "failures": [],
+  "process_exit_code": 0,
+  "source_identity": {
+    "teams": [
+      "2621",
+      "2707"
+    ],
+    "winner": "2621",
+    "is_draw": false,
+    "aliases": [
+      "lycheer",
+      "AAAA"
+    ]
+  },
+  "export_checks": {
+    "segments": 30,
+    "voice_parity": true,
+    "ssml_parity": true,
+    "director_parity": true,
+    "xml_valid": true,
+    "allowed_tags_only": true,
+    "tags": [
+      "break",
+      "emphasis",
+      "p",
+      "prosody",
+      "s",
+      "speak"
+    ],
+    "ai_pattern_hits": [],
+    "ambiguous_pronoun_hits": [],
+    "long_sentence_review": []
+  }
+}

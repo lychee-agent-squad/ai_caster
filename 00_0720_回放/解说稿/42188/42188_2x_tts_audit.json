@@ -1,0 +1,243 @@
+{
+  "segments": 29,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 29,
+  "voice_spoken_units": 1446,
+  "average_segment_rate": 4.382,
+  "max_segment_rate": 4.9,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 36,
+      "rate": 3.6,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:18",
+      "seconds": 8,
+      "units": 36,
+      "rate": 4.5,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:18",
+      "end": "00:24",
+      "seconds": 6,
+      "units": 28,
+      "rate": 4.667,
+      "title": "同路起步与远程清障"
+    },
+    {
+      "start": "00:24",
+      "end": "00:33",
+      "seconds": 9,
+      "units": 37,
+      "rate": 4.111,
+      "title": "武关通路提前打开"
+    },
+    {
+      "start": "00:33",
+      "end": "00:38",
+      "seconds": 5,
+      "units": 24,
+      "rate": 4.8,
+      "title": "南岭驿分路"
+    },
+    {
+      "start": "00:38",
+      "end": "00:46",
+      "seconds": 8,
+      "units": 33,
+      "rate": 4.125,
+      "title": "酷暑压低鲜度"
+    },
+    {
+      "start": "00:46",
+      "end": "00:58",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "红方先损一篓好果"
+    },
+    {
+      "start": "00:58",
+      "end": "01:11",
+      "seconds": 13,
+      "units": 58,
+      "rate": 4.462,
+      "title": "转运完成后再度分路"
+    },
+    {
+      "start": "01:11",
+      "end": "01:24",
+      "seconds": 13,
+      "units": 58,
+      "rate": 4.462,
+      "title": "山雾命中红方山路"
+    },
+    {
+      "start": "01:24",
+      "end": "01:38",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286,
+      "title": "两队分别进站拿分"
+    },
+    {
+      "start": "01:38",
+      "end": "01:52",
+      "seconds": 14,
+      "units": 63,
+      "rate": 4.5,
+      "title": "蓝方连续得分，红方恢复鲜度"
+    },
+    {
+      "start": "01:52",
+      "end": "02:06",
+      "seconds": 14,
+      "units": 61,
+      "rate": 4.357,
+      "title": "蓝方在武关补到一百五十"
+    },
+    {
+      "start": "02:06",
+      "end": "02:17",
+      "seconds": 11,
+      "units": 47,
+      "rate": 4.273,
+      "title": "蓝方完成交接并开始设卡"
+    },
+    {
+      "start": "02:17",
+      "end": "02:32",
+      "seconds": 15,
+      "units": 66,
+      "rate": 4.4,
+      "title": "潼关途中设卡生效"
+    },
+    {
+      "start": "02:32",
+      "end": "02:45",
+      "seconds": 13,
+      "units": 58,
+      "rate": 4.462,
+      "title": "蓝方离场，红方派出削弱队"
+    },
+    {
+      "start": "02:45",
+      "end": "02:59",
+      "seconds": 14,
+      "units": 64,
+      "rate": 4.571,
+      "title": "第二支削弱队压到一点"
+    },
+    {
+      "start": "02:59",
+      "end": "03:14",
+      "seconds": 15,
+      "units": 67,
+      "rate": 4.467,
+      "title": "红方等待最后一次风化"
+    },
+    {
+      "start": "03:14",
+      "end": "03:28",
+      "seconds": 14,
+      "units": 61,
+      "rate": 4.357,
+      "title": "潼关关卡自然消失"
+    },
+    {
+      "start": "03:28",
+      "end": "03:41",
+      "seconds": 13,
+      "units": 58,
+      "rate": 4.462,
+      "title": "蓝方推进宫前流程"
+    },
+    {
+      "start": "03:41",
+      "end": "03:49",
+      "seconds": 8,
+      "units": 37,
+      "rate": 4.625,
+      "title": "红方完成潼关交接"
+    },
+    {
+      "start": "03:49",
+      "end": "04:02",
+      "seconds": 13,
+      "units": 56,
+      "rate": 4.308,
+      "title": "朱雀门出发前封路"
+    },
+    {
+      "start": "04:02",
+      "end": "04:07",
+      "seconds": 5,
+      "units": 20,
+      "rate": 4.0,
+      "title": "蓝队送达"
+    },
+    {
+      "start": "04:07",
+      "end": "04:21",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286,
+      "title": "红方抵达关中平原补分"
+    },
+    {
+      "start": "04:21",
+      "end": "04:35",
+      "seconds": 14,
+      "units": 61,
+      "rate": 4.357,
+      "title": "红方任务分追到一百五十"
+    },
+    {
+      "start": "04:35",
+      "end": "04:45",
+      "seconds": 10,
+      "units": 40,
+      "rate": 4.0,
+      "title": "宫门防守继续风化"
+    },
+    {
+      "start": "04:45",
+      "end": "04:58",
+      "seconds": 13,
+      "units": 59,
+      "rate": 4.538,
+      "title": "红方完成宫前交接"
+    },
+    {
+      "start": "04:58",
+      "end": "05:10",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "攻坚破卡拿到悬赏"
+    },
+    {
+      "start": "05:10",
+      "end": "05:20",
+      "seconds": 10,
+      "units": 41,
+      "rate": 4.1,
+      "title": "红方通过朱雀门核验"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 49,
+      "rate": 4.9,
+      "title": "红队送达与最终结算"
+    }
+  ]
+}

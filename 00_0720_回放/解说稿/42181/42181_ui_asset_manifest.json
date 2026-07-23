@@ -1,0 +1,37 @@
+{
+  "playback_speed": "2x",
+  "capture_manifest": "42181_capture_manifest.json",
+  "frames_directory": "frames",
+  "contact_sheets": [
+    "contact_sheets/42181_sheet_01.jpg",
+    "contact_sheets/42181_sheet_02.jpg",
+    "contact_sheets/42181_sheet_03.jpg",
+    "contact_sheets/42181_sheet_04.jpg",
+    "contact_sheets/42181_sheet_05.jpg",
+    "contact_sheets/42181_sheet_06.jpg",
+    "contact_sheets/42181_sheet_07.jpg",
+    "contact_sheets/42181_sheet_08.jpg"
+  ],
+  "speed_proof": "frames/42181_t000163.png",
+  "settlement_proof": "frames/42181_t364614.png",
+  "coverage": "Primary 2x capture plus opening recapture through displayed settlement.",
+  "match_id": "42181",
+  "deployed_at": "2026-07-21",
+  "source_directory": "C:/Users/Administrator/Documents/AI解说/00_0720_回放/C地图对战结果/output_c_071805/LitchiDelivery_C/42181/server",
+  "ui_streaming_assets": "C:/Users/Administrator/Documents/AI解说/00_0720_回放/LycheeReplay_WebGL_20260720_181945_Linux/LycheeReplay_WebGL_20260720_181945_Linux/StreamingAssets",
+  "files": {
+    "replay.txt": {
+      "sha256": "FE6532D2B03A3933D24874B709C14AA13282B8479E5BF274BABCE18B1382A285",
+      "verified": true
+    },
+    "data.csv": {
+      "sha256": "E816F3E14C0EBDAB3C0838B15D752C54E91EBF23D27B8F8B6AA95F05F1D72524",
+      "verified": true
+    }
+  },
+  "participants": {
+    "red": {"team_id": 2621, "official_name": "一心想赢", "ui_alias": "lycheer"},
+    "blue": {"team_id": 2707, "official_name": "神经突触突击队", "ui_alias": "AAAA"}
+  },
+  "displayed_winner_id": 2621
+}

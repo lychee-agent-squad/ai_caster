@@ -1,0 +1,247 @@
+{
+  "segments": 23,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 23,
+  "voice_spoken_units": 1292,
+  "average_segment_rate": 3.915,
+  "max_segment_rate": 4.944,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 36,
+      "rate": 3.6
+    },
+    {
+      "start": "00:10",
+      "end": "00:25",
+      "seconds": 15,
+      "units": 70,
+      "rate": 4.667
+    },
+    {
+      "start": "00:25",
+      "end": "00:41",
+      "seconds": 16,
+      "units": 78,
+      "rate": 4.875
+    },
+    {
+      "start": "00:41",
+      "end": "00:58",
+      "seconds": 17,
+      "units": 57,
+      "rate": 3.353
+    },
+    {
+      "start": "00:58",
+      "end": "01:01",
+      "seconds": 3,
+      "units": 14,
+      "rate": 4.667
+    },
+    {
+      "start": "01:01",
+      "end": "01:14",
+      "seconds": 13,
+      "units": 63,
+      "rate": 4.846
+    },
+    {
+      "start": "01:14",
+      "end": "01:44",
+      "seconds": 30,
+      "units": 129,
+      "rate": 4.3
+    },
+    {
+      "start": "01:44",
+      "end": "01:55",
+      "seconds": 11,
+      "units": 50,
+      "rate": 4.545
+    },
+    {
+      "start": "01:55",
+      "end": "02:08",
+      "seconds": 13,
+      "units": 61,
+      "rate": 4.692
+    },
+    {
+      "start": "02:08",
+      "end": "02:15",
+      "seconds": 7,
+      "units": 31,
+      "rate": 4.429
+    },
+    {
+      "start": "02:15",
+      "end": "02:22",
+      "seconds": 7,
+      "units": 31,
+      "rate": 4.429
+    },
+    {
+      "start": "02:22",
+      "end": "02:29",
+      "seconds": 7,
+      "units": 31,
+      "rate": 4.429
+    },
+    {
+      "start": "02:29",
+      "end": "02:36",
+      "seconds": 7,
+      "units": 31,
+      "rate": 4.429
+    },
+    {
+      "start": "02:36",
+      "end": "02:43",
+      "seconds": 7,
+      "units": 31,
+      "rate": 4.429
+    },
+    {
+      "start": "02:43",
+      "end": "02:50",
+      "seconds": 7,
+      "units": 31,
+      "rate": 4.429
+    },
+    {
+      "start": "02:50",
+      "end": "02:53",
+      "seconds": 3,
+      "units": 14,
+      "rate": 4.667
+    },
+    {
+      "start": "02:53",
+      "end": "03:19",
+      "seconds": 26,
+      "units": 127,
+      "rate": 4.885
+    },
+    {
+      "start": "03:19",
+      "end": "03:37",
+      "seconds": 18,
+      "units": 89,
+      "rate": 4.944
+    },
+    {
+      "start": "03:37",
+      "end": "04:00",
+      "seconds": 23,
+      "units": 55,
+      "rate": 2.391
+    },
+    {
+      "start": "04:00",
+      "end": "04:14",
+      "seconds": 14,
+      "units": 67,
+      "rate": 4.786
+    },
+    {
+      "start": "04:14",
+      "end": "04:45",
+      "seconds": 31,
+      "units": 108,
+      "rate": 3.484
+    },
+    {
+      "start": "04:45",
+      "end": "05:20",
+      "seconds": 35,
+      "units": 51,
+      "rate": 1.457
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7
+    }
+  ],
+  "team_identity": {
+    "2625": {
+      "official_name": "我想见贵妃",
+      "spoken_pronunciation": "我想见贵妃"
+    },
+    "2621": {
+      "official_name": "一心想赢",
+      "spoken_pronunciation": "一心想赢"
+    }
+  },
+  "backup_results": [],
+  "live_style": {
+    "required": true,
+    "particle_count": 8,
+    "particle_types": [
+      "了",
+      "哎呀",
+      "啊"
+    ],
+    "particle_type_count": 3,
+    "emotion_categories": [
+      "attention_suspense",
+      "praise_release",
+      "pressure_regret",
+      "surprise_turn"
+    ],
+    "emotion_category_count": 4,
+    "particle_spam_segments": []
+  },
+  "failure_count": 0,
+  "match_id": "43242",
+  "passed": true,
+  "failures": [],
+  "term_override": {
+    "term": "宫门验核",
+    "authority": "《一骑红尘：荔枝争运战 参赛选手任务书》",
+    "skill_false_positive_filtered": true,
+    "filtered_failures": [
+      "forbidden phrase present: 验核"
+    ]
+  },
+  "detail_structure": {
+    "issues": [],
+    "expected_contest_count": 10,
+    "actual_contest_count": 10,
+    "contest_issues": [],
+    "missing_significant_event_count": 0,
+    "significant_event_issues": []
+  },
+  "spoken_style": {
+    "ai_pattern_hits": [],
+    "long_breath_sentences": [],
+    "subject_issues": [],
+    "particle_count": 4,
+    "particle_types": [
+      "哎呀",
+      "啊",
+      "终于"
+    ],
+    "emotion_functions": [
+      "attention",
+      "pressure",
+      "release",
+      "surprise"
+    ],
+    "sentence_length_span": 26,
+    "humanizer_score": {
+      "directness": 10,
+      "rhythm": 10,
+      "trust": 10,
+      "authenticity": 10,
+      "concision": 10,
+      "total": 50
+    }
+  },
+  "special_rule_issues": []
+}

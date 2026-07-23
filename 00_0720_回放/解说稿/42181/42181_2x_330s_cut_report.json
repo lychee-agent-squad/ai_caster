@@ -1,0 +1,127 @@
+{
+  "target_program_seconds": 330,
+  "old_segments": 30,
+  "new_segments": 24,
+  "spoken_units": 1239,
+  "average_rate": 3.755,
+  "max_segment_rate": 4.222,
+  "retained_source_segments": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "dropped": [
+    {
+      "source_segment": 2,
+      "source_range": "00:14-00:29",
+      "title": "双方同走山路"
+    },
+    {
+      "source_segment": 3,
+      "source_range": "00:29-00:44",
+      "title": "皇榜任务开放"
+    },
+    {
+      "source_segment": 4,
+      "source_range": "00:44-00:59",
+      "title": "同时通过五岭"
+    },
+    {
+      "source_segment": 13,
+      "source_range": "02:49-03:04",
+      "title": "蓝队完成荆襄交接"
+    },
+    {
+      "source_segment": 17,
+      "source_range": "03:47-04:01",
+      "title": "红队连续动作无效"
+    },
+    {
+      "source_segment": 20,
+      "source_range": "04:29-04:42",
+      "title": "宫宴冲刺开启"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42181\\42181_capture_manifest.json",
+    "frames": 151,
+    "median_actual_start_gap_ms": 2425.0,
+    "max_actual_start_gap_ms": 2585,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      14000,
+      59000,
+      73000,
+      88000,
+      103000,
+      115000,
+      141000,
+      199000,
+      227000,
+      241000,
+      255000,
+      269000,
+      282000,
+      296000,
+      310000,
+      323000,
+      336000,
+      348000,
+      370000,
+      380000,
+      388000,
+      397000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42181",
+  "program_end_seconds": 330,
+  "ui_sha256": "0035b107dd36631be7a3d2e93e95b64651488d51294ad3b6359a07032788d888",
+  "voice_sha256": "f68e26e8c24e2b613c149d5cb35f2b970238859fd391c1cba78430140ad1e2e9",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42181\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42181\\replay.txt",
+      "source_sha256": "fe6532d2b03a3933d24874b709c14aa13282b8479e5bf274babce18b1382a285",
+      "target_sha256": "fe6532d2b03a3933d24874b709c14aa13282b8479e5bf274babce18b1382a285",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42181\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42181\\data.csv",
+      "source_sha256": "e816f3e14c0ebdab3c0838b15d752c54e91ebf23d27b8f8b6aa95f05f1d72524",
+      "target_sha256": "e816f3e14c0ebdab3c0838b15d752c54e91ebf23d27b8f8b6aa95f05f1d72524",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

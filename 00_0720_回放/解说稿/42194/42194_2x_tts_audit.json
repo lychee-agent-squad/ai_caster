@@ -1,0 +1,251 @@
+{
+  "segments": 30,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 30,
+  "voice_spoken_units": 1378,
+  "average_segment_rate": 4.176,
+  "max_segment_rate": 4.833,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 34,
+      "rate": 3.4,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:24",
+      "seconds": 14,
+      "units": 66,
+      "rate": 4.714,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:24",
+      "end": "00:36",
+      "seconds": 12,
+      "units": 58,
+      "rate": 4.833,
+      "title": "蓝方连续派队"
+    },
+    {
+      "start": "00:36",
+      "end": "00:47",
+      "seconds": 11,
+      "units": 46,
+      "rate": 4.182,
+      "title": "洞庭先遣清障完成"
+    },
+    {
+      "start": "00:47",
+      "end": "00:59",
+      "seconds": 12,
+      "units": 52,
+      "rate": 4.333,
+      "title": "武关同步开放"
+    },
+    {
+      "start": "00:59",
+      "end": "01:05",
+      "seconds": 6,
+      "units": 20,
+      "rate": 3.333,
+      "title": "蓝方抵达南岭驿"
+    },
+    {
+      "start": "01:05",
+      "end": "01:17",
+      "seconds": 12,
+      "units": 52,
+      "rate": 4.333,
+      "title": "蓝方转向江南码头"
+    },
+    {
+      "start": "01:17",
+      "end": "01:26",
+      "seconds": 9,
+      "units": 35,
+      "rate": 3.889,
+      "title": "快马入手"
+    },
+    {
+      "start": "01:26",
+      "end": "01:34",
+      "seconds": 8,
+      "units": 32,
+      "rate": 4.0,
+      "title": "红方深入山路"
+    },
+    {
+      "start": "01:34",
+      "end": "01:47",
+      "seconds": 13,
+      "units": 55,
+      "rate": 4.231,
+      "title": "酷暑带来果品压力"
+    },
+    {
+      "start": "01:47",
+      "end": "01:58",
+      "seconds": 11,
+      "units": 45,
+      "rate": 4.091,
+      "title": "蓝方完成水路转运"
+    },
+    {
+      "start": "01:58",
+      "end": "02:13",
+      "seconds": 15,
+      "units": 64,
+      "rate": 4.267,
+      "title": "红方连续拿到任务分"
+    },
+    {
+      "start": "02:13",
+      "end": "02:24",
+      "seconds": 11,
+      "units": 46,
+      "rate": 4.182,
+      "title": "红方使用冰鉴"
+    },
+    {
+      "start": "02:24",
+      "end": "02:33",
+      "seconds": 9,
+      "units": 38,
+      "rate": 4.222,
+      "title": "暴雨命中蓝方水路"
+    },
+    {
+      "start": "02:33",
+      "end": "02:39",
+      "seconds": 6,
+      "units": 23,
+      "rate": 3.833,
+      "title": "蓝方转回官道"
+    },
+    {
+      "start": "02:39",
+      "end": "02:48",
+      "seconds": 9,
+      "units": 36,
+      "rate": 4.0,
+      "title": "红方连续探查潼关"
+    },
+    {
+      "start": "02:48",
+      "end": "02:59",
+      "seconds": 11,
+      "units": 47,
+      "rate": 4.273,
+      "title": "双方潼关错峰处理"
+    },
+    {
+      "start": "02:59",
+      "end": "03:12",
+      "seconds": 13,
+      "units": 58,
+      "rate": 4.462,
+      "title": "红方转运追赶"
+    },
+    {
+      "start": "03:12",
+      "end": "03:22",
+      "seconds": 10,
+      "units": 40,
+      "rate": 4.0,
+      "title": "三项任务推到一百八十"
+    },
+    {
+      "start": "03:22",
+      "end": "03:35",
+      "seconds": 13,
+      "units": 57,
+      "rate": 4.385,
+      "title": "封顶后再用冰鉴"
+    },
+    {
+      "start": "03:35",
+      "end": "03:50",
+      "seconds": 15,
+      "units": 65,
+      "rate": 4.333,
+      "title": "蓝方先到朱雀门"
+    },
+    {
+      "start": "03:50",
+      "end": "03:58",
+      "seconds": 8,
+      "units": 32,
+      "rate": 4.0,
+      "title": "灞桥失效任务没有得分"
+    },
+    {
+      "start": "03:58",
+      "end": "04:11",
+      "seconds": 13,
+      "units": 55,
+      "rate": 4.231,
+      "title": "两项完成仍然零分"
+    },
+    {
+      "start": "04:11",
+      "end": "04:25",
+      "seconds": 14,
+      "units": 62,
+      "rate": 4.429,
+      "title": "第一道四点关卡途中生效"
+    },
+    {
+      "start": "04:25",
+      "end": "04:39",
+      "seconds": 14,
+      "units": 61,
+      "rate": 4.357,
+      "title": "红方持续普通推进被挡"
+    },
+    {
+      "start": "04:39",
+      "end": "04:52",
+      "seconds": 13,
+      "units": 58,
+      "rate": 4.462,
+      "title": "第一道关卡持续风化"
+    },
+    {
+      "start": "04:52",
+      "end": "05:04",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "关卡清零后短暂恢复推进"
+    },
+    {
+      "start": "05:04",
+      "end": "05:14",
+      "seconds": 10,
+      "units": 40,
+      "rate": 4.0,
+      "title": "第二道四点关卡再次途中阻断"
+    },
+    {
+      "start": "05:14",
+      "end": "05:20",
+      "seconds": 6,
+      "units": 20,
+      "rate": 3.333,
+      "title": "蓝队送达"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 27,
+      "rate": 2.7,
+      "title": "时间到与最终结算"
+    }
+  ]
+}

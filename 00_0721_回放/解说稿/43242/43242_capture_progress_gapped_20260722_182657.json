@@ -1,0 +1,13 @@
+{
+  "match_id": "43242",
+  "status": "captured",
+  "started_at": "2026-07-22T08:54:23.795Z",
+  "completed_at": "2026-07-22T09:04:44.346Z",
+  "capture_duration_ms": 603262,
+  "screenshots": 170,
+  "settlement_stable_detected": true,
+  "state": "complete",
+  "speed": "2x",
+  "map_key": "map_3",
+  "over_round": 593
+}

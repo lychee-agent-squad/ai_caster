@@ -1,0 +1,9 @@
+{
+  "expected_speed": "2x",
+  "verified_speed": "2x",
+  "proof": "frames/speed_2x_before_replay.jpg",
+  "proof_sha256": "0915175ce44ce48eb0f7d7f7a627544135776ecd5fa40341a085c6fe870b160d",
+  "reviewed_by": "codex_visual",
+  "note": "Visible top-left control verified at 2x",
+  "verified_at": "2026-07-22T11:59:55.990Z"
+}

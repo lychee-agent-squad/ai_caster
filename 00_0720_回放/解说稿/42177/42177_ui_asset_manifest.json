@@ -1,0 +1,27 @@
+{
+  "match_id": "42177",
+  "playback_speed": "2x",
+  "capture_manifest": "42177_capture_manifest.json",
+  "capture_sets": [
+    {
+      "directory": "captures",
+      "screenshots": 62,
+      "coverage": "Primary opening-through-settlement capture."
+    },
+    {
+      "directory": "captures/ui_recalibration_2x",
+      "screenshots": 47,
+      "coverage": "Continuous 2x timing recalibration."
+    }
+  ],
+  "contact_sheets": [
+    "captures/ui_recalibration_2x/contact_1.jpg",
+    "captures/ui_recalibration_2x/contact_2.jpg",
+    "captures/ui_recalibration_2x/contact_3.jpg",
+    "captures/ui_recalibration_2x/contact_4.jpg",
+    "captures/ui_recalibration_2x/contact_5.jpg"
+  ],
+  "speed_proof": "captures/ui_recalibration_2x/000s.png",
+  "settlement_proof": "captures/settlement_12.png",
+  "coverage": "Opening through displayed settlement at user-confirmed 2x."
+}

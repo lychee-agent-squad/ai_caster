@@ -1,0 +1,187 @@
+{
+  "segments": 21,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 21,
+  "voice_spoken_units": 888,
+  "average_segment_rate": 2.691,
+  "max_segment_rate": 4.333,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:15",
+      "seconds": 15,
+      "units": 65,
+      "rate": 4.333
+    },
+    {
+      "start": "00:15",
+      "end": "00:31",
+      "seconds": 16,
+      "units": 64,
+      "rate": 4.0
+    },
+    {
+      "start": "00:31",
+      "end": "00:47",
+      "seconds": 16,
+      "units": 11,
+      "rate": 0.688
+    },
+    {
+      "start": "00:47",
+      "end": "01:03",
+      "seconds": 16,
+      "units": 66,
+      "rate": 4.125
+    },
+    {
+      "start": "01:03",
+      "end": "01:19",
+      "seconds": 16,
+      "units": 31,
+      "rate": 1.938
+    },
+    {
+      "start": "01:19",
+      "end": "01:35",
+      "seconds": 16,
+      "units": 19,
+      "rate": 1.188
+    },
+    {
+      "start": "01:35",
+      "end": "01:51",
+      "seconds": 16,
+      "units": 36,
+      "rate": 2.25
+    },
+    {
+      "start": "01:51",
+      "end": "02:07",
+      "seconds": 16,
+      "units": 44,
+      "rate": 2.75
+    },
+    {
+      "start": "02:07",
+      "end": "02:23",
+      "seconds": 16,
+      "units": 64,
+      "rate": 4.0
+    },
+    {
+      "start": "02:23",
+      "end": "02:39",
+      "seconds": 16,
+      "units": 34,
+      "rate": 2.125
+    },
+    {
+      "start": "02:39",
+      "end": "02:55",
+      "seconds": 16,
+      "units": 62,
+      "rate": 3.875
+    },
+    {
+      "start": "02:55",
+      "end": "03:11",
+      "seconds": 16,
+      "units": 46,
+      "rate": 2.875
+    },
+    {
+      "start": "03:11",
+      "end": "03:27",
+      "seconds": 16,
+      "units": 30,
+      "rate": 1.875
+    },
+    {
+      "start": "03:27",
+      "end": "03:43",
+      "seconds": 16,
+      "units": 27,
+      "rate": 1.688
+    },
+    {
+      "start": "03:43",
+      "end": "03:59",
+      "seconds": 16,
+      "units": 62,
+      "rate": 3.875
+    },
+    {
+      "start": "03:59",
+      "end": "04:15",
+      "seconds": 16,
+      "units": 39,
+      "rate": 2.438
+    },
+    {
+      "start": "04:15",
+      "end": "04:31",
+      "seconds": 16,
+      "units": 43,
+      "rate": 2.688
+    },
+    {
+      "start": "04:31",
+      "end": "04:47",
+      "seconds": 16,
+      "units": 23,
+      "rate": 1.438
+    },
+    {
+      "start": "04:47",
+      "end": "05:02",
+      "seconds": 15,
+      "units": 49,
+      "rate": 3.267
+    },
+    {
+      "start": "05:02",
+      "end": "05:15",
+      "seconds": 13,
+      "units": 21,
+      "rate": 1.615
+    },
+    {
+      "start": "05:15",
+      "end": "05:30",
+      "seconds": 15,
+      "units": 52,
+      "rate": 3.467
+    }
+  ],
+  "team_identity": {
+    "2804": {
+      "official_name": "���뼴��",
+      "spoken_pronunciation": "���뼴��"
+    },
+    "2749": {
+      "official_name": "���������ĸ���",
+      "spoken_pronunciation": "���������ĸ���"
+    }
+  },
+  "backup_results": [],
+  "live_style": {
+    "required": true,
+    "particle_count": 7,
+    "particle_types": [
+      "��",
+      "��ѽ",
+      "��"
+    ],
+    "particle_type_count": 3,
+    "emotion_categories": [
+      "attention_suspense",
+      "praise_release",
+      "pressure_regret"
+    ],
+    "emotion_category_count": 3,
+    "particle_spam_segments": []
+  },
+  "failure_count": 0,
+  "failures": []
+}

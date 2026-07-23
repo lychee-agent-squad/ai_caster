@@ -1,0 +1,34 @@
+{
+  "match_id": "42182",
+  "deployed_at": "2026-07-21",
+  "source_directory": "C:/Users/Administrator/Documents/AI解说/00_0720_回放/C地图对战结果/output_c_071805/LitchiDelivery_C/42182/server",
+  "ui_streaming_assets": "C:/Users/Administrator/Documents/AI解说/00_0720_回放/LycheeReplay_WebGL_20260720_181945_Linux/LycheeReplay_WebGL_20260720_181945_Linux/StreamingAssets",
+  "files": {
+    "replay.txt": {
+      "sha256": "D0798D1D331ADC5864B3D909B9AABB7F3B0B553D60C236AD31154F6A3C8D8E91",
+      "verified": true
+    },
+    "data.csv": {
+      "sha256": "55319BDBA337F0DDFB598CFB7072540CEC92196B6AF6D60E796B893456589FB0",
+      "verified": true
+    }
+  },
+  "participants": {
+    "red": {"team_id": 2744, "official_name": "荔挽狂澜", "ui_alias": "team-2744"},
+    "blue": {"team_id": 2707, "official_name": "神经突触突击队", "ui_alias": "AAAA"}
+  },
+  "playback_speed": "2x",
+  "capture_manifest": "42182_capture_manifest.json",
+  "frames_directory": "frames",
+  "contact_sheets": [
+    "contact_sheets/contact_1.jpg",
+    "contact_sheets/contact_2.jpg",
+    "contact_sheets/contact_3.jpg"
+  ],
+  "speed_proof": "frames/frame_0000_000000ms_preclick.png",
+  "settlement_proof": "frames/frame_0289_429954ms.png",
+  "coverage": "Opening through displayed settlement at user-confirmed 2x.",
+  "capture_frames": 290,
+  "capture_terminal_ms": 429954,
+  "displayed_winner_id": 2744
+}

@@ -1,0 +1,20 @@
+{
+  "segments": 28,
+  "timeline_end_seconds": 330,
+  "opening_seconds": 11,
+  "ending_seconds": 10,
+  "voice_parity": true,
+  "average_segment_rate": 3.012,
+  "max_segment_rate": 4.7,
+  "contest_segments": 1,
+  "expected_contests": 1,
+  "expected_deliveries": 2,
+  "structure_issues": [],
+  "ai_pattern_hits": [],
+  "ambiguous_pronoun_hits": [],
+  "unqualified_main_vehicle_hits": [],
+  "unqualified_squad_lead_hits": [],
+  "middle_team_name_hits": [],
+  "repeated_window_connector_issues": [],
+  "abstain_window_context_issues": []
+}

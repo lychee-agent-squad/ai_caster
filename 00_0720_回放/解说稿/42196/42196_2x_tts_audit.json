@@ -1,0 +1,251 @@
+{
+  "segments": 30,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 30,
+  "voice_spoken_units": 1325,
+  "average_segment_rate": 4.015,
+  "max_segment_rate": 4.9,
+  "contest_segments": 4,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 38,
+      "rate": 3.8,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:18",
+      "seconds": 8,
+      "units": 39,
+      "rate": 4.875,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:18",
+      "end": "00:23",
+      "seconds": 5,
+      "units": 20,
+      "rate": 4.0,
+      "title": "山路持续同步"
+    },
+    {
+      "start": "00:23",
+      "end": "00:36",
+      "seconds": 13,
+      "units": 51,
+      "rate": 3.923,
+      "title": "同时抵达五岭"
+    },
+    {
+      "start": "00:36",
+      "end": "00:50",
+      "seconds": 14,
+      "units": 57,
+      "rate": 4.071,
+      "title": "继续同路同速"
+    },
+    {
+      "start": "00:50",
+      "end": "01:00",
+      "seconds": 10,
+      "units": 36,
+      "rate": 3.6,
+      "title": "酷暑压低鲜度"
+    },
+    {
+      "start": "01:00",
+      "end": "01:10",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:10",
+      "end": "01:18",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:18",
+      "end": "01:28",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7,
+      "title": "高温下保持并行"
+    },
+    {
+      "start": "01:28",
+      "end": "01:40",
+      "seconds": 12,
+      "units": 45,
+      "rate": 3.75,
+      "title": "蓝方派队探路"
+    },
+    {
+      "start": "01:40",
+      "end": "01:53",
+      "seconds": 13,
+      "units": 54,
+      "rate": 4.154,
+      "title": "探路标记落点"
+    },
+    {
+      "start": "01:53",
+      "end": "02:09",
+      "seconds": 16,
+      "units": 68,
+      "rate": 4.25,
+      "title": "潼关驿的官道关验任务争夺"
+    },
+    {
+      "start": "02:09",
+      "end": "02:19",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9,
+      "title": "三个独立任务落分"
+    },
+    {
+      "start": "02:19",
+      "end": "02:34",
+      "seconds": 15,
+      "units": 62,
+      "rate": 4.133,
+      "title": "蓝方补鲜离站"
+    },
+    {
+      "start": "02:34",
+      "end": "02:47",
+      "seconds": 13,
+      "units": 52,
+      "rate": 4.0,
+      "title": "山雾同时减速"
+    },
+    {
+      "start": "02:47",
+      "end": "03:01",
+      "seconds": 14,
+      "units": 56,
+      "rate": 4.0,
+      "title": "红方再损一篓"
+    },
+    {
+      "start": "03:01",
+      "end": "03:15",
+      "seconds": 14,
+      "units": 55,
+      "rate": 3.929,
+      "title": "山雾结束追平线"
+    },
+    {
+      "start": "03:15",
+      "end": "03:28",
+      "seconds": 13,
+      "units": 52,
+      "rate": 4.0,
+      "title": "蓝方再做探路"
+    },
+    {
+      "start": "03:28",
+      "end": "03:35",
+      "seconds": 7,
+      "units": 28,
+      "rate": 4.0,
+      "title": "蓝方得分红方先交接"
+    },
+    {
+      "start": "03:35",
+      "end": "03:46",
+      "seconds": 11,
+      "units": 44,
+      "rate": 4.0,
+      "title": "红方提前离开潼关"
+    },
+    {
+      "start": "03:46",
+      "end": "04:00",
+      "seconds": 14,
+      "units": 57,
+      "rate": 4.071,
+      "title": "酷暑再伤果品"
+    },
+    {
+      "start": "04:00",
+      "end": "04:14",
+      "seconds": 14,
+      "units": 57,
+      "rate": 4.071,
+      "title": "支路冲向宫门"
+    },
+    {
+      "start": "04:14",
+      "end": "04:22",
+      "seconds": 8,
+      "units": 31,
+      "rate": 3.875,
+      "title": "红方先到朱雀门"
+    },
+    {
+      "start": "04:22",
+      "end": "04:40",
+      "seconds": 18,
+      "units": 70,
+      "rate": 3.889,
+      "title": "朱雀门的宫门核验争夺"
+    },
+    {
+      "start": "04:40",
+      "end": "04:51",
+      "seconds": 11,
+      "units": 41,
+      "rate": 3.727,
+      "title": "关卡没有堵住蓝方"
+    },
+    {
+      "start": "04:51",
+      "end": "04:58",
+      "seconds": 7,
+      "units": 27,
+      "rate": 3.857,
+      "title": "蓝队开始宫门核验"
+    },
+    {
+      "start": "04:58",
+      "end": "05:06",
+      "seconds": 8,
+      "units": 33,
+      "rate": 4.125,
+      "title": "红方破关令核验"
+    },
+    {
+      "start": "05:06",
+      "end": "05:15",
+      "seconds": 9,
+      "units": 35,
+      "rate": 3.889,
+      "title": "蓝方五百三十先显示"
+    },
+    {
+      "start": "05:15",
+      "end": "05:20",
+      "seconds": 5,
+      "units": 19,
+      "rate": 3.8,
+      "title": "蓝队送达"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 49,
+      "rate": 4.9,
+      "title": "红队送达与最终结算"
+    }
+  ]
+}

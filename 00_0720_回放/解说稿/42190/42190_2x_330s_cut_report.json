@@ -1,0 +1,137 @@
+{
+  "target_program_seconds": 330,
+  "old_segments": 32,
+  "new_segments": 24,
+  "spoken_units": 1233,
+  "average_rate": 3.736,
+  "max_segment_rate": 4.364,
+  "retained_source_segments": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "dropped": [
+    {
+      "source_segment": 2,
+      "source_range": "00:15-00:29",
+      "title": "路线分开"
+    },
+    {
+      "source_segment": 3,
+      "source_range": "00:29-00:45",
+      "title": "红方先遣清障"
+    },
+    {
+      "source_segment": 9,
+      "source_range": "01:55-02:09",
+      "title": "洞庭转运"
+    },
+    {
+      "source_segment": 19,
+      "source_range": "04:10-04:24",
+      "title": "关卡消失后的选择"
+    },
+    {
+      "source_segment": 22,
+      "source_range": "04:52-05:08",
+      "title": "蓝方第二次折损"
+    },
+    {
+      "source_segment": 23,
+      "source_range": "05:08-05:26",
+      "title": "酷暑再次覆盖"
+    },
+    {
+      "source_segment": 24,
+      "source_range": "05:26-05:44",
+      "title": "分数与位置分离"
+    },
+    {
+      "source_segment": 25,
+      "source_range": "05:44-06:02",
+      "title": "红方第三次折损"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42190\\42190_capture_manifest.json",
+    "frames": 218,
+    "median_actual_start_gap_ms": 2170,
+    "max_actual_start_gap_ms": 2752,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      15000,
+      45000,
+      59000,
+      73000,
+      87000,
+      101000,
+      115000,
+      129000,
+      143000,
+      157000,
+      185000,
+      224000,
+      236000,
+      250000,
+      264000,
+      292000,
+      362000,
+      378000,
+      404000,
+      430000,
+      439000,
+      449000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42190",
+  "program_end_seconds": 330,
+  "ui_sha256": "9b26f77a3b12f1c3cbbd7bf22fc802aab6b59bc409fd61080a0252ebceeebe77",
+  "voice_sha256": "24d1b5fe086e0d69235cf310323733f967d9c2922c6eb0c4739f9e6753034806",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42190\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42190\\replay.txt",
+      "source_sha256": "a76b176382634caad65f68d4ead3c8ebfd7d9ac640c3eb7e4be3f657432550df",
+      "target_sha256": "a76b176382634caad65f68d4ead3c8ebfd7d9ac640c3eb7e4be3f657432550df",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42190\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42190\\data.csv",
+      "source_sha256": "0d59f130b3c129fe8e2a86fc5496ab3d07f474343eb6edfa3f9ad87b6bcb2417",
+      "target_sha256": "0d59f130b3c129fe8e2a86fc5496ab3d07f474343eb6edfa3f9ad87b6bcb2417",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

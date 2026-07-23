@@ -1,0 +1,283 @@
+{
+  "segments": 34,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 34,
+  "voice_spoken_units": 1350,
+  "average_segment_rate": 4.091,
+  "max_segment_rate": 4.9,
+  "contest_segments": 12,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 38,
+      "rate": 3.8,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:18",
+      "seconds": 8,
+      "units": 39,
+      "rate": 4.875,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:18",
+      "end": "00:28",
+      "seconds": 10,
+      "units": 49,
+      "rate": 4.9,
+      "title": "同时抵达五岭山道"
+    },
+    {
+      "start": "00:28",
+      "end": "00:34",
+      "seconds": 6,
+      "units": 23,
+      "rate": 3.833,
+      "title": "酷暑压上山路"
+    },
+    {
+      "start": "00:34",
+      "end": "00:47",
+      "seconds": 13,
+      "units": 54,
+      "rate": 4.154,
+      "title": "双方各有好果转坏"
+    },
+    {
+      "start": "00:47",
+      "end": "00:59",
+      "seconds": 12,
+      "units": 45,
+      "rate": 3.75,
+      "title": "蓝方派队探路"
+    },
+    {
+      "start": "00:59",
+      "end": "01:04",
+      "seconds": 5,
+      "units": 16,
+      "rate": 3.2,
+      "title": "探路标记就位"
+    },
+    {
+      "start": "01:04",
+      "end": "01:13",
+      "seconds": 9,
+      "units": 39,
+      "rate": 4.333,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:13",
+      "end": "01:21",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:21",
+      "end": "01:29",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:29",
+      "end": "01:37",
+      "seconds": 8,
+      "units": 33,
+      "rate": 4.125,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:37",
+      "end": "01:42",
+      "seconds": 5,
+      "units": 16,
+      "rate": 3.2,
+      "title": "双方各取一项三十分"
+    },
+    {
+      "start": "01:42",
+      "end": "01:50",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:50",
+      "end": "01:58",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:58",
+      "end": "02:06",
+      "seconds": 8,
+      "units": 33,
+      "rate": 4.125,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "02:06",
+      "end": "02:14",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "02:14",
+      "end": "02:24",
+      "seconds": 10,
+      "units": 42,
+      "rate": 4.2,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "02:24",
+      "end": "02:36",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "02:36",
+      "end": "02:46",
+      "seconds": 10,
+      "units": 41,
+      "rate": 4.1,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "02:46",
+      "end": "02:56",
+      "seconds": 10,
+      "units": 41,
+      "rate": 4.1,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "02:56",
+      "end": "03:07",
+      "seconds": 11,
+      "units": 46,
+      "rate": 4.182,
+      "title": "蓝方独立得分红方取冰鉴"
+    },
+    {
+      "start": "03:07",
+      "end": "03:18",
+      "seconds": 11,
+      "units": 45,
+      "rate": 4.091,
+      "title": "红方先离站一个节拍"
+    },
+    {
+      "start": "03:18",
+      "end": "03:27",
+      "seconds": 9,
+      "units": 35,
+      "rate": 3.889,
+      "title": "暴雨没有命中山路"
+    },
+    {
+      "start": "03:27",
+      "end": "03:36",
+      "seconds": 9,
+      "units": 37,
+      "rate": 4.111,
+      "title": "山路鲜度继续承压"
+    },
+    {
+      "start": "03:36",
+      "end": "03:49",
+      "seconds": 13,
+      "units": 52,
+      "rate": 4.0,
+      "title": "红方开启疾行令"
+    },
+    {
+      "start": "03:49",
+      "end": "04:03",
+      "seconds": 14,
+      "units": 59,
+      "rate": 4.214,
+      "title": "红方先到潼关并占用交接"
+    },
+    {
+      "start": "04:03",
+      "end": "04:13",
+      "seconds": 10,
+      "units": 40,
+      "rate": 4.0,
+      "title": "交接结束后路线分叉"
+    },
+    {
+      "start": "04:13",
+      "end": "04:22",
+      "seconds": 9,
+      "units": 37,
+      "rate": 4.111,
+      "title": "蓝方任务基础分到九十"
+    },
+    {
+      "start": "04:22",
+      "end": "04:31",
+      "seconds": 9,
+      "units": 36,
+      "rate": 4.0,
+      "title": "蓝方领取并使用冰鉴"
+    },
+    {
+      "start": "04:31",
+      "end": "04:46",
+      "seconds": 15,
+      "units": 62,
+      "rate": 4.133,
+      "title": "蓝方转向灞桥"
+    },
+    {
+      "start": "04:46",
+      "end": "05:04",
+      "seconds": 18,
+      "units": 75,
+      "rate": 4.167,
+      "title": "四点关卡完成途中阻断"
+    },
+    {
+      "start": "05:04",
+      "end": "05:14",
+      "seconds": 10,
+      "units": 41,
+      "rate": 4.1,
+      "title": "红方完成核验"
+    },
+    {
+      "start": "05:14",
+      "end": "05:20",
+      "seconds": 6,
+      "units": 20,
+      "rate": 3.333,
+      "title": "红队送达"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 32,
+      "rate": 3.2,
+      "title": "时间到与最终结算"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "segments": 30,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 30,
+  "voice_spoken_units": 1235,
+  "average_segment_rate": 3.742,
+  "max_segment_rate": 4.714,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 38,
+      "rate": 3.8,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:24",
+      "seconds": 14,
+      "units": 66,
+      "rate": 4.714,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:24",
+      "end": "00:30",
+      "seconds": 6,
+      "units": 25,
+      "rate": 4.167,
+      "title": "开局分路"
+    },
+    {
+      "start": "00:30",
+      "end": "00:44",
+      "seconds": 14,
+      "units": 53,
+      "rate": 3.786,
+      "title": "武关远程清障"
+    },
+    {
+      "start": "00:44",
+      "end": "00:55",
+      "seconds": 11,
+      "units": 43,
+      "rate": 3.909,
+      "title": "红队先过南岭"
+    },
+    {
+      "start": "00:55",
+      "end": "01:07",
+      "seconds": 12,
+      "units": 41,
+      "rate": 3.417,
+      "title": "小分队探查梅关"
+    },
+    {
+      "start": "01:07",
+      "end": "01:20",
+      "seconds": 13,
+      "units": 49,
+      "rate": 3.769,
+      "title": "同时进入关键站点"
+    },
+    {
+      "start": "01:20",
+      "end": "01:25",
+      "seconds": 5,
+      "units": 15,
+      "rate": 3.0,
+      "title": "山雾压住蓝队"
+    },
+    {
+      "start": "01:25",
+      "end": "01:38",
+      "seconds": 13,
+      "units": 49,
+      "rate": 3.769,
+      "title": "蓝队先掉一篓好果"
+    },
+    {
+      "start": "01:38",
+      "end": "01:51",
+      "seconds": 13,
+      "units": 47,
+      "rate": 3.615,
+      "title": "红队完成荆襄交接"
+    },
+    {
+      "start": "01:51",
+      "end": "02:04",
+      "seconds": 13,
+      "units": 48,
+      "rate": 3.692,
+      "title": "蓝队抵达秦岭"
+    },
+    {
+      "start": "02:04",
+      "end": "02:18",
+      "seconds": 14,
+      "units": 54,
+      "rate": 3.857,
+      "title": "蓝队任务直上九十"
+    },
+    {
+      "start": "02:18",
+      "end": "02:31",
+      "seconds": 13,
+      "units": 46,
+      "rate": 3.538,
+      "title": "蓝队中途改线"
+    },
+    {
+      "start": "02:31",
+      "end": "02:37",
+      "seconds": 6,
+      "units": 21,
+      "rate": 3.5,
+      "title": "两队反向接近荆襄与潼关"
+    },
+    {
+      "start": "02:37",
+      "end": "02:51",
+      "seconds": 14,
+      "units": 52,
+      "rate": 3.714,
+      "title": "双方同时派出侦察队"
+    },
+    {
+      "start": "02:51",
+      "end": "03:04",
+      "seconds": 13,
+      "units": 45,
+      "rate": 3.462,
+      "title": "红队留在潼关"
+    },
+    {
+      "start": "03:04",
+      "end": "03:19",
+      "seconds": 15,
+      "units": 56,
+      "rate": 3.733,
+      "title": "蓝队在荆襄拿到三十分"
+    },
+    {
+      "start": "03:19",
+      "end": "03:26",
+      "seconds": 7,
+      "units": 29,
+      "rate": 4.143,
+      "title": "红队主动等待"
+    },
+    {
+      "start": "03:26",
+      "end": "03:36",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9,
+      "title": "蓝队任务升到一百五十"
+    },
+    {
+      "start": "03:36",
+      "end": "03:49",
+      "seconds": 13,
+      "units": 45,
+      "rate": 3.462,
+      "title": "宫宴冲刺开启"
+    },
+    {
+      "start": "03:49",
+      "end": "03:58",
+      "seconds": 9,
+      "units": 33,
+      "rate": 3.667,
+      "title": "蓝队冲到武关"
+    },
+    {
+      "start": "03:58",
+      "end": "04:09",
+      "seconds": 11,
+      "units": 43,
+      "rate": 3.909,
+      "title": "蓝队驶入潼关官道"
+    },
+    {
+      "start": "04:09",
+      "end": "04:17",
+      "seconds": 8,
+      "units": 26,
+      "rate": 3.25,
+      "title": "红队卡在半路设防"
+    },
+    {
+      "start": "04:17",
+      "end": "04:30",
+      "seconds": 13,
+      "units": 49,
+      "rate": 3.769,
+      "title": "蓝队放弃进度，红队冲宫门"
+    },
+    {
+      "start": "04:30",
+      "end": "04:44",
+      "seconds": 14,
+      "units": 54,
+      "rate": 3.857,
+      "title": "红队加速拉开"
+    },
+    {
+      "start": "04:44",
+      "end": "04:56",
+      "seconds": 12,
+      "units": 49,
+      "rate": 4.083,
+      "title": "蓝队改走关中支路"
+    },
+    {
+      "start": "04:56",
+      "end": "05:02",
+      "seconds": 6,
+      "units": 24,
+      "rate": 4.0,
+      "title": "红队抵近朱雀门"
+    },
+    {
+      "start": "05:02",
+      "end": "05:14",
+      "seconds": 12,
+      "units": 48,
+      "rate": 4.0,
+      "title": "红队完成宫门核验"
+    },
+    {
+      "start": "05:14",
+      "end": "05:20",
+      "seconds": 6,
+      "units": 20,
+      "rate": 3.333,
+      "title": "红队送达"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 28,
+      "rate": 2.8,
+      "title": "时间到与最终结算"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "target_program_seconds": 330,
+  "old_segments": 34,
+  "new_segments": 24,
+  "spoken_units": 1339,
+  "average_rate": 4.058,
+  "max_segment_rate": 4.4,
+  "retained_source_segments": [
+    1,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    27,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "dropped": [
+    {
+      "source_segment": 2,
+      "source_range": "00:14-00:28",
+      "title": "开局路线分开"
+    },
+    {
+      "source_segment": 3,
+      "source_range": "00:28-00:42",
+      "title": "两路同步推进"
+    },
+    {
+      "source_segment": 4,
+      "source_range": "00:42-00:56",
+      "title": "红方探查码头"
+    },
+    {
+      "source_segment": 5,
+      "source_range": "00:56-01:10",
+      "title": "双方互探前路"
+    },
+    {
+      "source_segment": 6,
+      "source_range": "01:10-01:24",
+      "title": "快马进入红方手中"
+    },
+    {
+      "source_segment": 7,
+      "source_range": "01:24-01:38",
+      "title": "洞庭障碍只开通路"
+    },
+    {
+      "source_segment": 17,
+      "source_range": "03:44-03:58",
+      "title": "红方探查潼关"
+    },
+    {
+      "source_segment": 24,
+      "source_range": "05:22-05:36",
+      "title": "第一道两点关卡途中生效"
+    },
+    {
+      "source_segment": 26,
+      "source_range": "05:50-06:04",
+      "title": "第二道关卡锁住半程"
+    },
+    {
+      "source_segment": 28,
+      "source_range": "06:18-06:32",
+      "title": "等待转为推进受阻"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42199\\42199_capture_manifest.json",
+    "frames": 224,
+    "median_actual_start_gap_ms": 2188,
+    "max_actual_start_gap_ms": 2387,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      14000,
+      98000,
+      112000,
+      140000,
+      154000,
+      168000,
+      196000,
+      210000,
+      238000,
+      252000,
+      280000,
+      294000,
+      322000,
+      336000,
+      364000,
+      392000,
+      402000,
+      412000,
+      432000,
+      451000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42199",
+  "program_end_seconds": 330,
+  "ui_sha256": "63385d6cbf808015435a8c242cf118132d5be7ee2887c0f404da50ec3f2658bf",
+  "voice_sha256": "610941a19c27ac96c4ab93caab9f06a34cba0208965570230589c88801f48507",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42199\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42199\\replay.txt",
+      "source_sha256": "f67a074377d2a9e2284577ed65992c26f0c5bfc276e898a9be1704b80e58d811",
+      "target_sha256": "f67a074377d2a9e2284577ed65992c26f0c5bfc276e898a9be1704b80e58d811",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42199\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42199\\data.csv",
+      "source_sha256": "49a3f5658aa6b989b0f5c80128dc8fb9421ed0857894c54cc969c54196a8b68f",
+      "target_sha256": "49a3f5658aa6b989b0f5c80128dc8fb9421ed0857894c54cc969c54196a8b68f",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

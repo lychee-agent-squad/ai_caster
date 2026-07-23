@@ -1,0 +1,135 @@
+{
+  "target_program_seconds": 321,
+  "old_segments": 32,
+  "new_segments": 24,
+  "spoken_units": 1145,
+  "average_rate": 3.567,
+  "max_segment_rate": 4.583,
+  "retained_source_segments": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "dropped": [
+    {
+      "source_segment": 7,
+      "source_range": "01:22-02:10",
+      "title": "前两次窗口"
+    },
+    {
+      "source_segment": 8,
+      "source_range": "02:10-02:58",
+      "title": "争夺延续"
+    },
+    {
+      "source_segment": 17,
+      "source_range": "07:10-07:24",
+      "title": "水路领先"
+    },
+    {
+      "source_segment": 20,
+      "source_range": "07:52-08:05",
+      "title": "武关与侦察"
+    },
+    {
+      "source_segment": 21,
+      "source_range": "08:05-08:18",
+      "title": "冲刺开启"
+    },
+    {
+      "source_segment": 22,
+      "source_range": "08:18-08:32",
+      "title": "红方先到潼关驿"
+    },
+    {
+      "source_segment": 23,
+      "source_range": "08:32-08:44",
+      "title": "蓝方到站追赶"
+    },
+    {
+      "source_segment": 24,
+      "source_range": "08:44-08:56",
+      "title": "蓝方使用疾行令"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42191\\42191_capture_manifest.json",
+    "frames": 301,
+    "median_actual_start_gap_ms": 2165.0,
+    "max_actual_start_gap_ms": 2346,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      10000,
+      21000,
+      52000,
+      67000,
+      82000,
+      178000,
+      226000,
+      274000,
+      322000,
+      400000,
+      415000,
+      430000,
+      444000,
+      458000,
+      472000,
+      536000,
+      560000,
+      582000,
+      592000,
+      605000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42191",
+  "program_end_seconds": 321,
+  "ui_sha256": "d861ac1852a91259899689ea81a4325aaee998d948bc4125f1aff9abd145e23b",
+  "voice_sha256": "32f8bad8e92cbe41a0a01a70f35b6a64017a07637f3ecf0d23a4d31959990df3",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42191\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42191\\replay.txt",
+      "source_sha256": "6e0e040f8832cabc99b36f5d57d4626a3c6d15f56c901780ee5fba392c0dd681",
+      "target_sha256": "6e0e040f8832cabc99b36f5d57d4626a3c6d15f56c901780ee5fba392c0dd681",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42191\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42191\\data.csv",
+      "source_sha256": "0fe49f5430cff66f32a66c4434f1dba9499289f852bfaf31064efc0d398b405d",
+      "target_sha256": "0fe49f5430cff66f32a66c4434f1dba9499289f852bfaf31064efc0d398b405d",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

@@ -1,0 +1,149 @@
+{
+  "target_program_seconds": 315,
+  "old_segments": 35,
+  "new_segments": 24,
+  "spoken_units": 1187,
+  "average_rate": 3.768,
+  "max_segment_rate": 4.273,
+  "retained_source_segments": [
+    1,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "dropped": [
+    {
+      "source_segment": 2,
+      "source_range": "00:14-00:28",
+      "title": "开局分路"
+    },
+    {
+      "source_segment": 3,
+      "source_range": "00:28-00:42",
+      "title": "红方先行"
+    },
+    {
+      "source_segment": 4,
+      "source_range": "00:42-00:56",
+      "title": "各自进站"
+    },
+    {
+      "source_segment": 5,
+      "source_range": "00:56-01:10",
+      "title": "江南清障"
+    },
+    {
+      "source_segment": 6,
+      "source_range": "01:10-01:24",
+      "title": "清障兑现"
+    },
+    {
+      "source_segment": 7,
+      "source_range": "01:24-01:38",
+      "title": "酷暑压鲜"
+    },
+    {
+      "source_segment": 8,
+      "source_range": "01:38-01:52",
+      "title": "双线赶路"
+    },
+    {
+      "source_segment": 9,
+      "source_range": "01:52-02:06",
+      "title": "洞庭交接"
+    },
+    {
+      "source_segment": 17,
+      "source_range": "03:44-03:58",
+      "title": "潼关侦察"
+    },
+    {
+      "source_segment": 18,
+      "source_range": "03:58-04:12",
+      "title": "强化设卡"
+    },
+    {
+      "source_segment": 22,
+      "source_range": "04:54-05:08",
+      "title": "冰鉴保鲜"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42189\\42189_capture_manifest.json",
+    "frames": 225,
+    "median_actual_start_gap_ms": 2205.5,
+    "max_actual_start_gap_ms": 3106,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      126000,
+      140000,
+      168000,
+      182000,
+      196000,
+      210000,
+      224000,
+      252000,
+      280000,
+      294000,
+      322000,
+      336000,
+      350000,
+      364000,
+      378000,
+      392000,
+      440000,
+      458000,
+      466000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42189",
+  "program_end_seconds": 315,
+  "ui_sha256": "0a667211a5db9e95a96f59f4f6fab0d6502fb53fc6b9f3826b87c371122ecaac",
+  "voice_sha256": "b004b757368ea26fa70c950687cf78ed9fa730175685a3597b6cb8a9def863c3",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42189\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42189\\replay.txt",
+      "source_sha256": "cfece8ea40f54f0c8d308e245c153f73bf5fde2e9f1c730339a99eca6770e9b6",
+      "target_sha256": "cfece8ea40f54f0c8d308e245c153f73bf5fde2e9f1c730339a99eca6770e9b6",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42189\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42189\\data.csv",
+      "source_sha256": "03afe115ce1fcad96f0f0e92d1a6bf70ac2b4882328a4de304bdc161b0c31e67",
+      "target_sha256": "03afe115ce1fcad96f0f0e92d1a6bf70ac2b4882328a4de304bdc161b0c31e67",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

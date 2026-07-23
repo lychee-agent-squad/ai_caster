@@ -1,0 +1,171 @@
+{
+  "match_id": "43255",
+  "passed": true,
+  "issues": [],
+  "max_process_lag": 0.5,
+  "max_result_lead": -1.5,
+  "rows": [
+    {
+      "segment": 2,
+      "title": "首次选路",
+      "start": 10,
+      "end": 23,
+      "image_seconds": 24.5,
+      "lag": -14.5,
+      "process": true
+    },
+    {
+      "segment": 3,
+      "title": "蓝队进点",
+      "start": 23,
+      "end": 39,
+      "image_seconds": 23.5,
+      "lag": -0.5,
+      "process": true
+    },
+    {
+      "segment": 4,
+      "title": "天气实际影响",
+      "start": 39,
+      "end": 43,
+      "image_seconds": 41.5,
+      "lag": -2.5,
+      "process": true
+    },
+    {
+      "segment": 5,
+      "title": "红队任务完成",
+      "start": 43,
+      "end": 59,
+      "image_seconds": 42.5,
+      "lag": 0.5,
+      "process": true
+    },
+    {
+      "segment": 6,
+      "title": "蓝队进点",
+      "start": 59,
+      "end": 69,
+      "image_seconds": 62.0,
+      "lag": -3.0,
+      "process": true
+    },
+    {
+      "segment": 7,
+      "title": "红队任务完成",
+      "start": 69,
+      "end": 81,
+      "image_seconds": 79.5,
+      "lag": -10.5,
+      "process": true
+    },
+    {
+      "segment": 8,
+      "title": "蓝队果品折损",
+      "start": 81,
+      "end": 107,
+      "image_seconds": 81.5,
+      "lag": -0.5,
+      "process": true
+    },
+    {
+      "segment": 9,
+      "title": "蓝队洛阳驿设卡完成",
+      "start": 107,
+      "end": 114,
+      "image_seconds": 112.0,
+      "lag": -5.0,
+      "process": true
+    },
+    {
+      "segment": 10,
+      "title": "蓝队洛阳驿设卡完成",
+      "start": 114,
+      "end": 137,
+      "image_seconds": 117.5,
+      "lag": -3.5,
+      "process": true
+    },
+    {
+      "segment": 11,
+      "title": "蓝队进点",
+      "start": 137,
+      "end": 156,
+      "image_seconds": 140.0,
+      "lag": -3.0,
+      "process": true
+    },
+    {
+      "segment": 12,
+      "title": "蓝队进点",
+      "start": 156,
+      "end": 171,
+      "image_seconds": 159.5,
+      "lag": -3.5,
+      "process": true
+    },
+    {
+      "segment": 13,
+      "title": "天气实际影响",
+      "start": 171,
+      "end": 174,
+      "image_seconds": 172.0,
+      "lag": -1.0,
+      "process": true
+    },
+    {
+      "segment": 14,
+      "title": "红队果品折损",
+      "start": 174,
+      "end": 185,
+      "image_seconds": 175.5,
+      "lag": -1.5,
+      "process": true
+    },
+    {
+      "segment": 15,
+      "title": "红队任务完成",
+      "start": 185,
+      "end": 198,
+      "image_seconds": 190.0,
+      "lag": -5.0,
+      "process": true
+    },
+    {
+      "segment": 16,
+      "title": "蓝队宫门验核完成",
+      "start": 198,
+      "end": 209,
+      "image_seconds": 207.5,
+      "lag": -9.5,
+      "process": true
+    },
+    {
+      "segment": 17,
+      "title": "红队官道关验完成",
+      "start": 209,
+      "end": 213,
+      "image_seconds": 208.5,
+      "lag": 0.5,
+      "process": true
+    },
+    {
+      "segment": 18,
+      "title": "朱雀门窗口争夺",
+      "start": 213,
+      "end": 220,
+      "image_seconds": 215.0,
+      "lag": -2.0,
+      "process": true
+    },
+    {
+      "segment": 19,
+      "title": "朱雀门再次争夺，蓝队送达成功",
+      "start": 220,
+      "end": 320,
+      "image_seconds": 240.0,
+      "lag": -20.0,
+      "process": true
+    }
+  ]
+}

@@ -1,0 +1,1274 @@
+{
+  "map": "B",
+  "speed": "2x",
+  "capture_interval_ms": 500,
+  "timeline_limit_seconds": 330,
+  "match_count": 28,
+  "complete_count": 28,
+  "incomplete_count": 0,
+  "complete_matches": [
+    "43241",
+    "43242",
+    "43243",
+    "43244",
+    "43245",
+    "43246",
+    "43247",
+    "43248",
+    "43249",
+    "43250",
+    "43251",
+    "43252",
+    "43253",
+    "43254",
+    "43255",
+    "43256",
+    "43257",
+    "43258",
+    "43259",
+    "43260",
+    "43261",
+    "43262",
+    "43263",
+    "43264",
+    "43265",
+    "43266",
+    "43267",
+    "43268"
+  ],
+  "incomplete_matches": [],
+  "matches": [
+    {
+      "match_id": "43241",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 593,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2751,
+      "players": [
+        {
+          "team_id": 2625,
+          "ui_alias": "EasySDD666",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 409
+        },
+        {
+          "team_id": 2751,
+          "ui_alias": "codex-py",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 427
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:51.551419+00:00"
+    },
+    {
+      "match_id": "43242",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 593,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2621,
+      "players": [
+        {
+          "team_id": 2625,
+          "ui_alias": "EasySDD666",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 361
+        },
+        {
+          "team_id": 2621,
+          "ui_alias": "lycheer",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 627
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:51.650805+00:00"
+    },
+    {
+      "match_id": "43243",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2625,
+      "players": [
+        {
+          "team_id": 2625,
+          "ui_alias": "EasySDD666",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 398
+        },
+        {
+          "team_id": 2749,
+          "ui_alias": "litchi-runner",
+          "camp": 1,
+          "delivered": false,
+          "total_score": 60
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:51.690648+00:00"
+    },
+    {
+      "match_id": "43244",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2625,
+      "players": [
+        {
+          "team_id": 2625,
+          "ui_alias": "EasySDD666",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 404
+        },
+        {
+          "team_id": 2744,
+          "ui_alias": "team-2744",
+          "camp": 1,
+          "delivered": false,
+          "total_score": 80
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:51.732026+00:00"
+    },
+    {
+      "match_id": "43245",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2625,
+      "players": [
+        {
+          "team_id": 2625,
+          "ui_alias": "EasySDD666",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 399
+        },
+        {
+          "team_id": 2735,
+          "ui_alias": "路人女主队",
+          "camp": 1,
+          "delivered": false,
+          "total_score": 60
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:51.778429+00:00"
+    },
+    {
+      "match_id": "43246",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 593,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2707,
+      "players": [
+        {
+          "team_id": 2707,
+          "ui_alias": "AAAA",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 665
+        },
+        {
+          "team_id": 2625,
+          "ui_alias": "EasySDD666",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 403
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:51.808442+00:00"
+    },
+    {
+      "match_id": "43247",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2625,
+      "players": [
+        {
+          "team_id": 2625,
+          "ui_alias": "EasySDD666",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 395
+        },
+        {
+          "team_id": 2804,
+          "ui_alias": "litchi-runner",
+          "camp": 1,
+          "delivered": false,
+          "total_score": 80
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:51.853331+00:00"
+    },
+    {
+      "match_id": "43248",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2751,
+      "players": [
+        {
+          "team_id": 2751,
+          "ui_alias": "codex-py",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 692
+        },
+        {
+          "team_id": 2621,
+          "ui_alias": "lycheer",
+          "camp": 1,
+          "delivered": false,
+          "total_score": 80
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:51.895120+00:00"
+    },
+    {
+      "match_id": "43249",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2751,
+      "players": [
+        {
+          "team_id": 2749,
+          "ui_alias": "litchi-runner",
+          "camp": 0,
+          "delivered": false,
+          "total_score": 60
+        },
+        {
+          "team_id": 2751,
+          "ui_alias": "codex-py",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 480
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:51.949588+00:00"
+    },
+    {
+      "match_id": "43250",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2751,
+      "players": [
+        {
+          "team_id": 2744,
+          "ui_alias": "team-2744",
+          "camp": 0,
+          "delivered": false,
+          "total_score": 60
+        },
+        {
+          "team_id": 2751,
+          "ui_alias": "codex-py",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 559
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.004660+00:00"
+    },
+    {
+      "match_id": "43251",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 594,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2735,
+      "players": [
+        {
+          "team_id": 2751,
+          "ui_alias": "codex-py",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 427
+        },
+        {
+          "team_id": 2735,
+          "ui_alias": "路人女主队",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 568
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.029977+00:00"
+    },
+    {
+      "match_id": "43252",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2751,
+      "players": [
+        {
+          "team_id": 2751,
+          "ui_alias": "codex-py",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 578
+        },
+        {
+          "team_id": 2707,
+          "ui_alias": "AAAA",
+          "camp": 1,
+          "delivered": false,
+          "total_score": 80
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.080958+00:00"
+    },
+    {
+      "match_id": "43253",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2751,
+      "players": [
+        {
+          "team_id": 2751,
+          "ui_alias": "codex-py",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 692
+        },
+        {
+          "team_id": 2804,
+          "ui_alias": "litchi-runner",
+          "camp": 1,
+          "delivered": false,
+          "total_score": 60
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.136411+00:00"
+    },
+    {
+      "match_id": "43254",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2621,
+      "players": [
+        {
+          "team_id": 2621,
+          "ui_alias": "lycheer",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 565
+        },
+        {
+          "team_id": 2749,
+          "ui_alias": "litchi-runner",
+          "camp": 1,
+          "delivered": false,
+          "total_score": 80
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.194875+00:00"
+    },
+    {
+      "match_id": "43255",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 487,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2621,
+      "players": [
+        {
+          "team_id": 2621,
+          "ui_alias": "lycheer",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 676
+        },
+        {
+          "team_id": 2744,
+          "ui_alias": "team-2744",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 418
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.263166+00:00"
+    },
+    {
+      "match_id": "43256",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 414,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2621,
+      "players": [
+        {
+          "team_id": 2621,
+          "ui_alias": "lycheer",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 740
+        },
+        {
+          "team_id": 2735,
+          "ui_alias": "路人女主队",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 606
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.305261+00:00"
+    },
+    {
+      "match_id": "43257",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 529,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2621,
+      "players": [
+        {
+          "team_id": 2621,
+          "ui_alias": "lycheer",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 733
+        },
+        {
+          "team_id": 2707,
+          "ui_alias": "AAAA",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 676
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.352918+00:00"
+    },
+    {
+      "match_id": "43258",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2621,
+      "players": [
+        {
+          "team_id": 2804,
+          "ui_alias": "litchi-runner",
+          "camp": 0,
+          "delivered": false,
+          "total_score": 80
+        },
+        {
+          "team_id": 2621,
+          "ui_alias": "lycheer",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 568
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.408562+00:00"
+    },
+    {
+      "match_id": "43259",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 571,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2749,
+      "players": [
+        {
+          "team_id": 2749,
+          "ui_alias": "litchi-runner",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 695
+        },
+        {
+          "team_id": 2744,
+          "ui_alias": "team-2744",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 658
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.477522+00:00"
+    },
+    {
+      "match_id": "43260",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2735,
+      "players": [
+        {
+          "team_id": 2749,
+          "ui_alias": "litchi-runner",
+          "camp": 0,
+          "delivered": false,
+          "total_score": 80
+        },
+        {
+          "team_id": 2735,
+          "ui_alias": "路人女主队",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 608
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.526119+00:00"
+    },
+    {
+      "match_id": "43261",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2707,
+      "players": [
+        {
+          "team_id": 2749,
+          "ui_alias": "litchi-runner",
+          "camp": 0,
+          "delivered": false,
+          "total_score": 80
+        },
+        {
+          "team_id": 2707,
+          "ui_alias": "AAAA",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 661
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.592927+00:00"
+    },
+    {
+      "match_id": "43262",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 550,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2749,
+      "players": [
+        {
+          "team_id": 2749,
+          "ui_alias": "litchi-runner",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 723
+        },
+        {
+          "team_id": 2804,
+          "ui_alias": "litchi-runner",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 519
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.673325+00:00"
+    },
+    {
+      "match_id": "43263",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2744,
+      "players": [
+        {
+          "team_id": 2735,
+          "ui_alias": "路人女主队",
+          "camp": 0,
+          "delivered": false,
+          "total_score": 60
+        },
+        {
+          "team_id": 2744,
+          "ui_alias": "team-2744",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 402
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.754227+00:00"
+    },
+    {
+      "match_id": "43264",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2744,
+      "players": [
+        {
+          "team_id": 2744,
+          "ui_alias": "team-2744",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 408
+        },
+        {
+          "team_id": 2707,
+          "ui_alias": "AAAA",
+          "camp": 1,
+          "delivered": false,
+          "total_score": 80
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.833629+00:00"
+    },
+    {
+      "match_id": "43265",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 515,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2744,
+      "players": [
+        {
+          "team_id": 2744,
+          "ui_alias": "team-2744",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 738
+        },
+        {
+          "team_id": 2804,
+          "ui_alias": "litchi-runner",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 719
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:52.910954+00:00"
+    },
+    {
+      "match_id": "43266",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2735,
+      "players": [
+        {
+          "team_id": 2707,
+          "ui_alias": "AAAA",
+          "camp": 0,
+          "delivered": false,
+          "total_score": 60
+        },
+        {
+          "team_id": 2735,
+          "ui_alias": "路人女主队",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 612
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:53.004664+00:00"
+    },
+    {
+      "match_id": "43267",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 461,
+      "over_reason": "ALL_DELIVERED",
+      "winner_player_id": 2804,
+      "players": [
+        {
+          "team_id": 2735,
+          "ui_alias": "路人女主队",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 608
+        },
+        {
+          "team_id": 2804,
+          "ui_alias": "litchi-runner",
+          "camp": 1,
+          "delivered": true,
+          "total_score": 732
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:53.087534+00:00"
+    },
+    {
+      "match_id": "43268",
+      "status": "complete",
+      "speed": "2x",
+      "capture_interval_ms": 500,
+      "timeline_limit_seconds": 330,
+      "over_round": 600,
+      "over_reason": "TIME_LIMIT",
+      "winner_player_id": 2804,
+      "players": [
+        {
+          "team_id": 2804,
+          "ui_alias": "litchi-runner",
+          "camp": 0,
+          "delivered": true,
+          "total_score": 730
+        },
+        {
+          "team_id": 2707,
+          "ui_alias": "AAAA",
+          "camp": 1,
+          "delivered": false,
+          "total_score": 80
+        }
+      ],
+      "checks": {
+        "replay_present": true,
+        "data_present": true,
+        "ui_script_present": true,
+        "voice_script_present": true,
+        "audit_present": true,
+        "audit_passed": true,
+        "timeline_within_330_seconds": true,
+        "speed_2x_proof_present": true,
+        "speed_proof_min_900x600": true,
+        "settlement_present": true,
+        "settlement_min_900x600": true,
+        "settlement_visual_review": true,
+        "frame_count_matches_over_round": true,
+        "rounds_continuous": true,
+        "elapsed_step_is_500ms": true
+      },
+      "generated_at": "2026-07-22T18:55:53.167560+00:00"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "segments": 31,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 31,
+  "voice_spoken_units": 1450,
+  "average_segment_rate": 4.394,
+  "max_segment_rate": 4.8,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:18",
+      "seconds": 8,
+      "units": 36,
+      "rate": 4.5,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:18",
+      "end": "00:28",
+      "seconds": 10,
+      "units": 47,
+      "rate": 4.7,
+      "title": "南岭驿侦察"
+    },
+    {
+      "start": "00:28",
+      "end": "00:37",
+      "seconds": 9,
+      "units": 43,
+      "rate": 4.778,
+      "title": "探路标记落下"
+    },
+    {
+      "start": "00:37",
+      "end": "00:46",
+      "seconds": 9,
+      "units": 42,
+      "rate": 4.667,
+      "title": "江南码头抢先处理"
+    },
+    {
+      "start": "00:46",
+      "end": "00:58",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "蓝方拿下首项任务"
+    },
+    {
+      "start": "00:58",
+      "end": "01:09",
+      "seconds": 11,
+      "units": 49,
+      "rate": 4.455,
+      "title": "酷暑进入水路"
+    },
+    {
+      "start": "01:09",
+      "end": "01:22",
+      "seconds": 13,
+      "units": 55,
+      "rate": 4.231,
+      "title": "水路差距收紧"
+    },
+    {
+      "start": "01:22",
+      "end": "01:33",
+      "seconds": 11,
+      "units": 49,
+      "rate": 4.455,
+      "title": "洞庭转运与首轮折损"
+    },
+    {
+      "start": "01:33",
+      "end": "01:46",
+      "seconds": 13,
+      "units": 55,
+      "rate": 4.231,
+      "title": "暴雨命中水域"
+    },
+    {
+      "start": "01:46",
+      "end": "01:57",
+      "seconds": 11,
+      "units": 45,
+      "rate": 4.091,
+      "title": "红方先到洛阳驿"
+    },
+    {
+      "start": "01:57",
+      "end": "02:09",
+      "seconds": 12,
+      "units": 50,
+      "rate": 4.167,
+      "title": "普通清障的取舍"
+    },
+    {
+      "start": "02:09",
+      "end": "02:22",
+      "seconds": 13,
+      "units": 58,
+      "rate": 4.462,
+      "title": "蓝方任务分到九十"
+    },
+    {
+      "start": "02:22",
+      "end": "02:32",
+      "seconds": 10,
+      "units": 45,
+      "rate": 4.5,
+      "title": "短程马拉开身位"
+    },
+    {
+      "start": "02:32",
+      "end": "02:42",
+      "seconds": 10,
+      "units": 48,
+      "rate": 4.8,
+      "title": "武关第一次设卡"
+    },
+    {
+      "start": "02:42",
+      "end": "02:54",
+      "seconds": 12,
+      "units": 51,
+      "rate": 4.25,
+      "title": "三波小分队拆卡"
+    },
+    {
+      "start": "02:54",
+      "end": "03:06",
+      "seconds": 12,
+      "units": 53,
+      "rate": 4.417,
+      "title": "武关重新开放"
+    },
+    {
+      "start": "03:06",
+      "end": "03:20",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286,
+      "title": "潼关设卡与双方应对"
+    },
+    {
+      "start": "03:20",
+      "end": "03:33",
+      "seconds": 13,
+      "units": 57,
+      "rate": 4.385,
+      "title": "第一次改路的代价"
+    },
+    {
+      "start": "03:33",
+      "end": "03:41",
+      "seconds": 8,
+      "units": 35,
+      "rate": 4.375,
+      "title": "山雾未命中路线"
+    },
+    {
+      "start": "03:41",
+      "end": "03:50",
+      "seconds": 9,
+      "units": 41,
+      "rate": 4.556,
+      "title": "宫宴冲刺开启"
+    },
+    {
+      "start": "03:50",
+      "end": "04:02",
+      "seconds": 12,
+      "units": 51,
+      "rate": 4.25,
+      "title": "护果令与潼关开路"
+    },
+    {
+      "start": "04:02",
+      "end": "04:07",
+      "seconds": 5,
+      "units": 21,
+      "rate": 4.2,
+      "title": "蓝方重走潼关官道"
+    },
+    {
+      "start": "04:07",
+      "end": "04:11",
+      "seconds": 4,
+      "units": 16,
+      "rate": 4.0,
+      "title": "蓝方通过潼关驿"
+    },
+    {
+      "start": "04:11",
+      "end": "04:24",
+      "seconds": 13,
+      "units": 59,
+      "rate": 4.538,
+      "title": "红方第三篓果转坏"
+    },
+    {
+      "start": "04:24",
+      "end": "04:36",
+      "seconds": 12,
+      "units": 50,
+      "rate": 4.167,
+      "title": "朱雀门第三次设卡"
+    },
+    {
+      "start": "04:36",
+      "end": "04:49",
+      "seconds": 13,
+      "units": 58,
+      "rate": 4.462,
+      "title": "第二次实际改路"
+    },
+    {
+      "start": "04:49",
+      "end": "05:01",
+      "seconds": 12,
+      "units": 50,
+      "rate": 4.167,
+      "title": "朱雀门核验启动"
+    },
+    {
+      "start": "05:01",
+      "end": "05:10",
+      "seconds": 9,
+      "units": 43,
+      "rate": 4.778,
+      "title": "蓝方破卡过晚"
+    },
+    {
+      "start": "05:10",
+      "end": "05:20",
+      "seconds": 10,
+      "units": 45,
+      "rate": 4.5,
+      "title": "终场未完成事项"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 47,
+      "rate": 4.7,
+      "title": "红队送达与最终结算"
+    }
+  ]
+}

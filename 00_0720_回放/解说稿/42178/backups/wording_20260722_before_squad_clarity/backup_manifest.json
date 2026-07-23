@@ -1,0 +1,47 @@
+﻿[
+    {
+        "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\42178_2x_tts_ui_synced.md",
+        "backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\backups\\wording_20260722_before_squad_clarity\\42178_2x_tts_ui_synced.md",
+        "sha256":  "41A9EBFDED248072956A00B6C9DDAC134C9CA26D711FF29AFEE8E3037F72578C"
+    },
+    {
+        "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\42178_2x_tts_voice_only.md",
+        "backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\backups\\wording_20260722_before_squad_clarity\\42178_2x_tts_voice_only.md",
+        "sha256":  "505857AE179EC521ADE41479237ED34AFE721883FF3105D7D6F0C3426E9A8662"
+    },
+    {
+        "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\42178_2x_tts_ssml.xml",
+        "backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\backups\\wording_20260722_before_squad_clarity\\42178_2x_tts_ssml.xml",
+        "sha256":  "316575A4782AE6B700BAEE975CEA89EFA9AA0A1351E64839E56BCDB3E7F02C7A"
+    },
+    {
+        "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\42178_2x_tts_director.md",
+        "backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\backups\\wording_20260722_before_squad_clarity\\42178_2x_tts_director.md",
+        "sha256":  "3B65C72C0D5EADF2A491E68557E34A48D2F68D0E414E1D4EC1E623D7702EA9E5"
+    },
+    {
+        "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\42178_2x_tts_export_checks.json",
+        "backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\backups\\wording_20260722_before_squad_clarity\\42178_2x_tts_export_checks.json",
+        "sha256":  "C666228191573B79DF4FFA81E216B51783369873245F58B776C3D252AD1497DC"
+    },
+    {
+        "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\42178_2x_tts_audit.json",
+        "backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\backups\\wording_20260722_before_squad_clarity\\42178_2x_tts_audit.json",
+        "sha256":  "0B3EA1CE8DA0A557230363AC52E92987A449CAFFF648EE5126774D380F386E07"
+    },
+    {
+        "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\42178_2x_ui_synced.md",
+        "backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\backups\\wording_20260722_before_squad_clarity\\42178_2x_ui_synced.md",
+        "sha256":  "41A9EBFDED248072956A00B6C9DDAC134C9CA26D711FF29AFEE8E3037F72578C"
+    },
+    {
+        "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\42178_2x_voice_only.md",
+        "backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\backups\\wording_20260722_before_squad_clarity\\42178_2x_voice_only.md",
+        "sha256":  "505857AE179EC521ADE41479237ED34AFE721883FF3105D7D6F0C3426E9A8662"
+    },
+    {
+        "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\42178_2x_audit.json",
+        "backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42178\\backups\\wording_20260722_before_squad_clarity\\42178_2x_audit.json",
+        "sha256":  "0B3EA1CE8DA0A557230363AC52E92987A449CAFFF648EE5126774D380F386E07"
+    }
+]

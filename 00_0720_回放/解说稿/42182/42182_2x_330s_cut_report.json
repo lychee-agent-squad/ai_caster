@@ -1,0 +1,145 @@
+{
+  "target_program_seconds": 330,
+  "old_segments": 33,
+  "new_segments": 24,
+  "spoken_units": 1213,
+  "average_rate": 3.676,
+  "max_segment_rate": 3.929,
+  "retained_source_segments": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    15,
+    17,
+    18,
+    20,
+    21,
+    25,
+    26,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "dropped": [
+    {
+      "source_segment": 6,
+      "source_range": "01:07-01:21",
+      "title": "两线持续推进"
+    },
+    {
+      "source_segment": 10,
+      "source_range": "02:02-02:16",
+      "title": "红队完成荆襄交接"
+    },
+    {
+      "source_segment": 14,
+      "source_range": "02:54-03:08",
+      "title": "蓝队中途改线"
+    },
+    {
+      "source_segment": 16,
+      "source_range": "03:22-03:36",
+      "title": "双方同时派出侦察队"
+    },
+    {
+      "source_segment": 19,
+      "source_range": "04:04-04:18",
+      "title": "红队主动等待"
+    },
+    {
+      "source_segment": 22,
+      "source_range": "04:46-04:56",
+      "title": "宫宴冲刺开启"
+    },
+    {
+      "source_segment": 23,
+      "source_range": "04:56-05:08",
+      "title": "蓝队冲到武关"
+    },
+    {
+      "source_segment": 24,
+      "source_range": "05:08-05:18",
+      "title": "蓝队驶入潼关官道"
+    },
+    {
+      "source_segment": 27,
+      "source_range": "05:35-05:47",
+      "title": "红队加速拉开"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42182\\42182_capture_manifest.json",
+    "frames": 290,
+    "median_actual_start_gap_ms": 2003,
+    "max_actual_start_gap_ms": 2028,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      54000,
+      67000,
+      81000,
+      94000,
+      108000,
+      122000,
+      136000,
+      160000,
+      174000,
+      188000,
+      202000,
+      216000,
+      230000,
+      244000,
+      258000,
+      272000,
+      286000,
+      318000,
+      324000,
+      335000,
+      347000,
+      359000,
+      371000,
+      395000,
+      407000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42182",
+  "program_end_seconds": 330,
+  "ui_sha256": "66d91d1a39dda8f8464a44c657bdbc84e57fbaa71a8d347be5f128730207ed5b",
+  "voice_sha256": "25062ce249b0db6f74308c5802de6a2e1972cf7f9a1feff9206eeb1c27da85ad",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42182\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42182\\replay.txt",
+      "source_sha256": "d0798d1d331adc5864b3d909b9aabb7f3b0b553d60c236ad31154f6a3c8d8e91",
+      "target_sha256": "d0798d1d331adc5864b3d909b9aabb7f3b0b553d60c236ad31154f6a3c8d8e91",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42182\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42182\\data.csv",
+      "source_sha256": "55319bdba337f0ddfb598cfb7072540cec92196b6af6d60e796b893456589fb0",
+      "target_sha256": "55319bdba337f0ddfb598cfb7072540cec92196b6af6d60e796b893456589fb0",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

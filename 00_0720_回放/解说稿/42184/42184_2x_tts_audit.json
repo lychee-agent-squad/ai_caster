@@ -1,0 +1,267 @@
+{
+  "segments": 32,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 32,
+  "voice_spoken_units": 1420,
+  "average_segment_rate": 4.303,
+  "max_segment_rate": 4.857,
+  "contest_segments": 4,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 35,
+      "rate": 3.5,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:18",
+      "seconds": 8,
+      "units": 36,
+      "rate": 4.5,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:18",
+      "end": "00:30",
+      "seconds": 12,
+      "units": 57,
+      "rate": 4.75,
+      "title": "蓝队两次分兵"
+    },
+    {
+      "start": "00:30",
+      "end": "00:42",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "两处障碍先后清除"
+    },
+    {
+      "start": "00:42",
+      "end": "00:48",
+      "seconds": 6,
+      "units": 26,
+      "rate": 4.333,
+      "title": "同进南岭驿"
+    },
+    {
+      "start": "00:48",
+      "end": "00:57",
+      "seconds": 9,
+      "units": 35,
+      "rate": 3.889,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "00:57",
+      "end": "01:04",
+      "seconds": 7,
+      "units": 34,
+      "rate": 4.857,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "01:04",
+      "end": "01:11",
+      "seconds": 7,
+      "units": 32,
+      "rate": 4.571,
+      "title": "窗口仍在冷却"
+    },
+    {
+      "start": "01:11",
+      "end": "01:25",
+      "seconds": 14,
+      "units": 64,
+      "rate": 4.571,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "01:25",
+      "end": "01:40",
+      "seconds": 15,
+      "units": 67,
+      "rate": 4.467,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "01:40",
+      "end": "01:52",
+      "seconds": 12,
+      "units": 53,
+      "rate": 4.417,
+      "title": "快马拉开水路先手"
+    },
+    {
+      "start": "01:52",
+      "end": "01:58",
+      "seconds": 6,
+      "units": 27,
+      "rate": 4.5,
+      "title": "山雾没有命中路线"
+    },
+    {
+      "start": "01:58",
+      "end": "02:05",
+      "seconds": 7,
+      "units": 30,
+      "rate": 4.286,
+      "title": "洞庭水驿先后转运"
+    },
+    {
+      "start": "02:05",
+      "end": "02:17",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "酷暑压低鲜度"
+    },
+    {
+      "start": "02:17",
+      "end": "02:25",
+      "seconds": 8,
+      "units": 35,
+      "rate": 4.375,
+      "title": "红队拿到首项洛阳任务"
+    },
+    {
+      "start": "02:25",
+      "end": "02:37",
+      "seconds": 12,
+      "units": 52,
+      "rate": 4.333,
+      "title": "红队再拿三十分"
+    },
+    {
+      "start": "02:37",
+      "end": "02:47",
+      "seconds": 10,
+      "units": 42,
+      "rate": 4.2,
+      "title": "蓝队先入武关"
+    },
+    {
+      "start": "02:47",
+      "end": "03:01",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286,
+      "title": "武关途中阻断"
+    },
+    {
+      "start": "03:01",
+      "end": "03:15",
+      "seconds": 14,
+      "units": 61,
+      "rate": 4.357,
+      "title": "削弱与增援四波对冲"
+    },
+    {
+      "start": "03:15",
+      "end": "03:26",
+      "seconds": 11,
+      "units": 46,
+      "rate": 4.182,
+      "title": "蓝队离场，关卡开始风化"
+    },
+    {
+      "start": "03:26",
+      "end": "03:38",
+      "seconds": 12,
+      "units": 51,
+      "rate": 4.25,
+      "title": "蓝队在潼关再得十五分"
+    },
+    {
+      "start": "03:38",
+      "end": "03:49",
+      "seconds": 11,
+      "units": 45,
+      "rate": 4.091,
+      "title": "暴雨落空，封锁继续"
+    },
+    {
+      "start": "03:49",
+      "end": "04:02",
+      "seconds": 13,
+      "units": 58,
+      "rate": 4.462,
+      "title": "两队各自等待"
+    },
+    {
+      "start": "04:02",
+      "end": "04:14",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "宫宴冲刺开启"
+    },
+    {
+      "start": "04:14",
+      "end": "04:25",
+      "seconds": 11,
+      "units": 48,
+      "rate": 4.364,
+      "title": "蓝队疾行，关卡剩一点"
+    },
+    {
+      "start": "04:25",
+      "end": "04:36",
+      "seconds": 11,
+      "units": 46,
+      "rate": 4.182,
+      "title": "关卡自然消失"
+    },
+    {
+      "start": "04:36",
+      "end": "04:48",
+      "seconds": 12,
+      "units": 51,
+      "rate": 4.25,
+      "title": "红队护果追赶"
+    },
+    {
+      "start": "04:48",
+      "end": "04:54",
+      "seconds": 6,
+      "units": 29,
+      "rate": 4.833,
+      "title": "蓝队逼近朱雀门"
+    },
+    {
+      "start": "04:54",
+      "end": "05:07",
+      "seconds": 13,
+      "units": 55,
+      "rate": 4.231,
+      "title": "双方各做终局流程"
+    },
+    {
+      "start": "05:07",
+      "end": "05:12",
+      "seconds": 5,
+      "units": 20,
+      "rate": 4.0,
+      "title": "蓝队送达"
+    },
+    {
+      "start": "05:12",
+      "end": "05:20",
+      "seconds": 8,
+      "units": 35,
+      "rate": 4.375,
+      "title": "红队继续赶路"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 28,
+      "rate": 2.8,
+      "title": "时间到与最终结算"
+    }
+  ]
+}

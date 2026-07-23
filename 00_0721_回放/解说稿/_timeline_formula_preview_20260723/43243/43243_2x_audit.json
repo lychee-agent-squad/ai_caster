@@ -1,0 +1,211 @@
+{
+  "segments": 18,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 18,
+  "voice_spoken_units": 838,
+  "average_segment_rate": 2.539,
+  "max_segment_rate": 4.923,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9
+    },
+    {
+      "start": "00:10",
+      "end": "00:44",
+      "seconds": 34,
+      "units": 61,
+      "rate": 1.794
+    },
+    {
+      "start": "00:44",
+      "end": "00:56",
+      "seconds": 12,
+      "units": 14,
+      "rate": 1.167
+    },
+    {
+      "start": "00:56",
+      "end": "01:03",
+      "seconds": 7,
+      "units": 31,
+      "rate": 4.429
+    },
+    {
+      "start": "01:03",
+      "end": "01:16",
+      "seconds": 13,
+      "units": 64,
+      "rate": 4.923
+    },
+    {
+      "start": "01:16",
+      "end": "01:25",
+      "seconds": 9,
+      "units": 42,
+      "rate": 4.667
+    },
+    {
+      "start": "01:25",
+      "end": "01:36",
+      "seconds": 11,
+      "units": 50,
+      "rate": 4.545
+    },
+    {
+      "start": "01:36",
+      "end": "01:52",
+      "seconds": 16,
+      "units": 59,
+      "rate": 3.688
+    },
+    {
+      "start": "01:52",
+      "end": "02:10",
+      "seconds": 18,
+      "units": 60,
+      "rate": 3.333
+    },
+    {
+      "start": "02:10",
+      "end": "02:26",
+      "seconds": 16,
+      "units": 32,
+      "rate": 2.0
+    },
+    {
+      "start": "02:26",
+      "end": "02:42",
+      "seconds": 16,
+      "units": 31,
+      "rate": 1.938
+    },
+    {
+      "start": "02:42",
+      "end": "02:54",
+      "seconds": 12,
+      "units": 47,
+      "rate": 3.917
+    },
+    {
+      "start": "02:54",
+      "end": "03:06",
+      "seconds": 12,
+      "units": 14,
+      "rate": 1.167
+    },
+    {
+      "start": "03:06",
+      "end": "03:23",
+      "seconds": 17,
+      "units": 60,
+      "rate": 3.529
+    },
+    {
+      "start": "03:23",
+      "end": "04:15",
+      "seconds": 52,
+      "units": 66,
+      "rate": 1.269
+    },
+    {
+      "start": "04:15",
+      "end": "04:46",
+      "seconds": 31,
+      "units": 65,
+      "rate": 2.097
+    },
+    {
+      "start": "04:46",
+      "end": "05:20",
+      "seconds": 34,
+      "units": 59,
+      "rate": 1.735
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 44,
+      "rate": 4.4
+    }
+  ],
+  "team_identity": {
+    "2625": {
+      "official_name": "我想见贵妃",
+      "spoken_pronunciation": "我想见贵妃"
+    },
+    "2749": {
+      "official_name": "让联看看哪个事",
+      "spoken_pronunciation": "让联看看哪个事"
+    }
+  },
+  "backup_results": [],
+  "live_style": {
+    "required": true,
+    "particle_count": 7,
+    "particle_types": [
+      "了",
+      "哎呀",
+      "啦"
+    ],
+    "particle_type_count": 3,
+    "emotion_categories": [
+      "attention_suspense",
+      "praise_release",
+      "pressure_regret"
+    ],
+    "emotion_category_count": 3,
+    "particle_spam_segments": []
+  },
+  "failure_count": 0,
+  "match_id": "43243",
+  "passed": true,
+  "failures": [],
+  "term_override": {
+    "term": "宫门验核",
+    "authority": "《一骑红尘：荔枝争运战 参赛选手任务书》",
+    "skill_false_positive_filtered": true,
+    "filtered_failures": [
+      "forbidden phrase present: 验核"
+    ]
+  },
+  "detail_structure": {
+    "issues": [],
+    "expected_contest_count": 0,
+    "actual_contest_count": 0,
+    "contest_issues": [],
+    "missing_significant_event_count": 0,
+    "significant_event_issues": []
+  },
+  "spoken_style": {
+    "ai_pattern_hits": [],
+    "long_breath_sentences": [],
+    "subject_issues": [],
+    "particle_count": 5,
+    "particle_types": [
+      "哎呀",
+      "啦",
+      "等等",
+      "终于"
+    ],
+    "emotion_functions": [
+      "attention",
+      "pressure",
+      "release"
+    ],
+    "sentence_length_span": 24,
+    "humanizer_score": {
+      "directness": 10,
+      "rhythm": 10,
+      "trust": 10,
+      "authenticity": 9,
+      "concision": 10,
+      "total": 49
+    }
+  },
+  "special_rule_issues": []
+}

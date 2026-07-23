@@ -1,0 +1,126 @@
+{
+  "target_program_seconds": 330,
+  "old_segments": 32,
+  "new_segments": 23,
+  "spoken_units": 1571,
+  "average_rate": 4.761,
+  "max_segment_rate": 5.077,
+  "retained_source_segments": [
+    1,
+    6,
+    8,
+    9,
+    10,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "dropped": [
+    {
+      "source_segment": 2,
+      "source_range": "00:14-00:30",
+      "title": "同走山路"
+    },
+    {
+      "source_segment": 3,
+      "source_range": "00:30-00:46",
+      "title": "山路并行"
+    },
+    {
+      "source_segment": 4,
+      "source_range": "00:46-01:02",
+      "title": "同进五岭"
+    },
+    {
+      "source_segment": 5,
+      "source_range": "01:02-01:17",
+      "title": "酷暑加压"
+    },
+    {
+      "source_segment": 7,
+      "source_range": "01:31-01:47",
+      "title": "红队先行侦察"
+    },
+    {
+      "source_segment": 11,
+      "source_range": "02:32-02:48",
+      "title": "冷却仍在继续争抢"
+    },
+    {
+      "source_segment": 12,
+      "source_range": "02:48-03:04",
+      "title": "第三第四次仍是平局"
+    },
+    {
+      "source_segment": 21,
+      "source_range": "05:10-05:26",
+      "title": "双方先后侦察潼关"
+    },
+    {
+      "source_segment": 25,
+      "source_range": "06:10-06:24",
+      "title": "蓝队加速追赶"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42183\\42183_capture_manifest.json",
+    "frames": 301,
+    "median_actual_start_gap_ms": 1995.0,
+    "max_actual_start_gap_ms": 43651,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      77000,
+      91000,
+      107000,
+      137000,
+      341000,
+      454000,
+      466000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42183",
+  "program_end_seconds": 330,
+  "ui_sha256": "ce58a8a484a49c08aa0c166dc96bc89fa1e31a9bdb9d0c24092546c21da97afd",
+  "voice_sha256": "20625a36d4be851a216d197e52eeb1119a93aec2e0476ffde8ba66985451e1c4",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42183\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42183\\replay.txt",
+      "source_sha256": "2be5c815bc83027e504f6f09fa886af180cc2f72721dae23167144f58cc4dcee",
+      "target_sha256": "2be5c815bc83027e504f6f09fa886af180cc2f72721dae23167144f58cc4dcee",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42183\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42183\\data.csv",
+      "source_sha256": "d750e868409c3efaebef2752288ef92de9d821a3c33111fed9d096b3482bde84",
+      "target_sha256": "d750e868409c3efaebef2752288ef92de9d821a3c33111fed9d096b3482bde84",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

@@ -1,0 +1,279 @@
+{
+  "segments": 32,
+  "timeline_end_seconds": 410,
+  "voice_paragraphs": 32,
+  "voice_spoken_units": 1775,
+  "average_segment_rate": 4.329,
+  "max_segment_rate": 5.5,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:14",
+      "seconds": 14,
+      "units": 64,
+      "rate": 4.571
+    },
+    {
+      "start": "00:14",
+      "end": "00:32",
+      "seconds": 18,
+      "units": 63,
+      "rate": 3.5
+    },
+    {
+      "start": "00:32",
+      "end": "00:48",
+      "seconds": 16,
+      "units": 72,
+      "rate": 4.5
+    },
+    {
+      "start": "00:48",
+      "end": "01:04",
+      "seconds": 16,
+      "units": 63,
+      "rate": 3.938
+    },
+    {
+      "start": "01:04",
+      "end": "01:18",
+      "seconds": 14,
+      "units": 61,
+      "rate": 4.357
+    },
+    {
+      "start": "01:18",
+      "end": "01:32",
+      "seconds": 14,
+      "units": 58,
+      "rate": 4.143
+    },
+    {
+      "start": "01:32",
+      "end": "01:46",
+      "seconds": 14,
+      "units": 64,
+      "rate": 4.571
+    },
+    {
+      "start": "01:46",
+      "end": "01:58",
+      "seconds": 12,
+      "units": 66,
+      "rate": 5.5
+    },
+    {
+      "start": "01:58",
+      "end": "02:08",
+      "seconds": 10,
+      "units": 50,
+      "rate": 5.0
+    },
+    {
+      "start": "02:08",
+      "end": "02:20",
+      "seconds": 12,
+      "units": 63,
+      "rate": 5.25
+    },
+    {
+      "start": "02:20",
+      "end": "02:32",
+      "seconds": 12,
+      "units": 64,
+      "rate": 5.333
+    },
+    {
+      "start": "02:32",
+      "end": "02:46",
+      "seconds": 14,
+      "units": 57,
+      "rate": 4.071
+    },
+    {
+      "start": "02:46",
+      "end": "03:00",
+      "seconds": 14,
+      "units": 56,
+      "rate": 4.0
+    },
+    {
+      "start": "03:00",
+      "end": "03:14",
+      "seconds": 14,
+      "units": 62,
+      "rate": 4.429
+    },
+    {
+      "start": "03:14",
+      "end": "03:28",
+      "seconds": 14,
+      "units": 59,
+      "rate": 4.214
+    },
+    {
+      "start": "03:28",
+      "end": "03:40",
+      "seconds": 12,
+      "units": 57,
+      "rate": 4.75
+    },
+    {
+      "start": "03:40",
+      "end": "03:52",
+      "seconds": 12,
+      "units": 62,
+      "rate": 5.167
+    },
+    {
+      "start": "03:52",
+      "end": "04:04",
+      "seconds": 12,
+      "units": 59,
+      "rate": 4.917
+    },
+    {
+      "start": "04:04",
+      "end": "04:18",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286
+    },
+    {
+      "start": "04:18",
+      "end": "04:30",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5
+    },
+    {
+      "start": "04:30",
+      "end": "04:42",
+      "seconds": 12,
+      "units": 47,
+      "rate": 3.917
+    },
+    {
+      "start": "04:42",
+      "end": "04:52",
+      "seconds": 10,
+      "units": 52,
+      "rate": 5.2
+    },
+    {
+      "start": "04:52",
+      "end": "05:06",
+      "seconds": 14,
+      "units": 67,
+      "rate": 4.786
+    },
+    {
+      "start": "05:06",
+      "end": "05:22",
+      "seconds": 16,
+      "units": 51,
+      "rate": 3.188
+    },
+    {
+      "start": "05:22",
+      "end": "05:38",
+      "seconds": 16,
+      "units": 52,
+      "rate": 3.25
+    },
+    {
+      "start": "05:38",
+      "end": "05:52",
+      "seconds": 14,
+      "units": 49,
+      "rate": 3.5
+    },
+    {
+      "start": "05:52",
+      "end": "06:08",
+      "seconds": 16,
+      "units": 57,
+      "rate": 3.562
+    },
+    {
+      "start": "06:08",
+      "end": "06:22",
+      "seconds": 14,
+      "units": 50,
+      "rate": 3.571
+    },
+    {
+      "start": "06:22",
+      "end": "06:30",
+      "seconds": 8,
+      "units": 41,
+      "rate": 5.125
+    },
+    {
+      "start": "06:30",
+      "end": "06:36",
+      "seconds": 6,
+      "units": 32,
+      "rate": 5.333
+    },
+    {
+      "start": "06:36",
+      "end": "06:44",
+      "seconds": 8,
+      "units": 38,
+      "rate": 4.75
+    },
+    {
+      "start": "06:44",
+      "end": "06:50",
+      "seconds": 6,
+      "units": 25,
+      "rate": 4.167
+    }
+  ],
+  "team_identity": {
+    "2707": {
+      "official_name": "神经突触突击队",
+      "spoken_pronunciation": "神经突触突击队"
+    },
+    "2751": {
+      "official_name": "虎先锋",
+      "spoken_pronunciation": "虎先锋"
+    }
+  },
+  "backup_results": [],
+  "failure_count": 0,
+  "failures": [],
+  "process_exit_code": 0,
+  "source_identity": {
+    "teams": [
+      "2707",
+      "2751"
+    ],
+    "winner": "2751",
+    "is_draw": false,
+    "aliases": [
+      "AAAA",
+      "codex-py"
+    ]
+  },
+  "export_checks": {
+    "segments": 32,
+    "voice_parity": true,
+    "ssml_parity": true,
+    "director_parity": true,
+    "xml_valid": true,
+    "allowed_tags_only": true,
+    "tags": [
+      "break",
+      "emphasis",
+      "p",
+      "prosody",
+      "s",
+      "speak"
+    ],
+    "ai_pattern_hits": [],
+    "ambiguous_pronoun_hits": [],
+    "long_sentence_review": []
+  }
+}

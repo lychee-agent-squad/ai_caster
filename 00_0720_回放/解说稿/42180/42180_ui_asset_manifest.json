@@ -1,0 +1,43 @@
+{
+    "playback_speed":  "2x",
+    "capture_manifest":  "42180_capture_manifest.json",
+    "frames_directory":  "frames",
+    "contact_sheets":  [
+                            "contact_sheets/42180_sheet_01.jpg",
+                            "contact_sheets/42180_sheet_02.jpg",
+                            "contact_sheets/42180_sheet_03.jpg",
+                            "contact_sheets/42180_sheet_04.jpg",
+                            "contact_sheets/42180_sheet_05.jpg",
+                            "contact_sheets/42180_sheet_06.jpg",
+                            "contact_sheets/42180_sheet_07.jpg",
+                            "contact_sheets/42180_sheet_08.jpg",
+                            "contact_sheets/42180_sheet_09.jpg",
+                            "contact_sheets/42180_sheet_10.jpg",
+                            "contact_sheets/42180_sheet_11.jpg",
+                            "contact_sheets/42180_sheet_12.jpg"
+                        ],
+    "speed_proof":  "frames/42180_t000000.png",
+    "settlement_proof":  "frames/42180_t572300.png",
+    "coverage":  "Opening through displayed settlement at user-confirmed 2x.",
+    "match_id":  42180,
+    "previous_assets_backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\UI_asset_backups\\before_42180_after_42179_20260721_151500",
+    "deployed_at":  "2026-07-21T14:53:56",
+    "files":  [
+                  {
+                      "file":  "replay.txt",
+                      "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42180\\server\\replay.txt",
+                      "deployed":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\LycheeReplay_WebGL_20260720_181945_Linux\\LycheeReplay_WebGL_20260720_181945_Linux\\StreamingAssets\\replay.txt",
+                      "source_sha256":  "58B24652486D370B544BBED3FB8ACD7D4581424FD2BD4E9CEC1622DDC8C2DC80",
+                      "deployed_sha256":  "58B24652486D370B544BBED3FB8ACD7D4581424FD2BD4E9CEC1622DDC8C2DC80",
+                      "match":  true
+                  },
+                  {
+                      "file":  "data.csv",
+                      "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42180\\server\\data.csv",
+                      "deployed":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\LycheeReplay_WebGL_20260720_181945_Linux\\LycheeReplay_WebGL_20260720_181945_Linux\\StreamingAssets\\data.csv",
+                      "source_sha256":  "C02682EEFDC9C74501BC8A8B7B40F1D9DCD3AFF6B7496DB1270A7D9B0BBB3292",
+                      "deployed_sha256":  "C02682EEFDC9C74501BC8A8B7B40F1D9DCD3AFF6B7496DB1270A7D9B0BBB3292",
+                      "match":  true
+                  }
+              ]
+}

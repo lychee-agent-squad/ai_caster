@@ -1,0 +1,729 @@
+{
+  "requested_speed": "2x",
+  "start_ms": 1784624536890,
+  "end_ms": 1784624622666,
+  "frames": [
+    {
+      "index": 0,
+      "elapsed_ms": 178,
+      "file": "42181_stand_t000178.png",
+      "sha256": "e042402a825ac63e0b0e851a7e6859dc968f0af3b23e20284755689399af0e91"
+    },
+    {
+      "index": 1,
+      "elapsed_ms": 819,
+      "file": "42181_stand_t000819.png",
+      "sha256": "afffe92ef002402bdb656999fd4d72b7447ccf1fb97ff3199dadeba8ff6f1724"
+    },
+    {
+      "index": 2,
+      "elapsed_ms": 1475,
+      "file": "42181_stand_t001475.png",
+      "sha256": "fd6fb00a183b9586e69cd759d455c0d0b25b2bb46919b5f31b76608bd994cbb4"
+    },
+    {
+      "index": 3,
+      "elapsed_ms": 2126,
+      "file": "42181_stand_t002126.png",
+      "sha256": "c901e89b47efe9efb0ebcdd0750b28f01e2f70f72aace93cce4606678107e6a2"
+    },
+    {
+      "index": 4,
+      "elapsed_ms": 2796,
+      "file": "42181_stand_t002796.png",
+      "sha256": "5321db2f96a03ed91e22a1eefb49ae577718314ea19461a5b61304707cbe07cf"
+    },
+    {
+      "index": 5,
+      "elapsed_ms": 3468,
+      "file": "42181_stand_t003468.png",
+      "sha256": "6f09bc07ac097bc0bbc9c3fad9d23c8cbc7f0d4d4843d3bb82c6eef9fd40bfe8"
+    },
+    {
+      "index": 6,
+      "elapsed_ms": 4154,
+      "file": "42181_stand_t004154.png",
+      "sha256": "ebdd775a5956418e4aab90c46defe004ec052546baded4d3f335139854479a60"
+    },
+    {
+      "index": 7,
+      "elapsed_ms": 4819,
+      "file": "42181_stand_t004819.png",
+      "sha256": "d42718cb70dba2b60c83712f92440c109543bb702b44c1d407a5356c09e128cc"
+    },
+    {
+      "index": 8,
+      "elapsed_ms": 5492,
+      "file": "42181_stand_t005492.png",
+      "sha256": "7d7dd516f5afe20997e856a4371e4f493a381454d33fec52df4006748fe0207f"
+    },
+    {
+      "index": 9,
+      "elapsed_ms": 6125,
+      "file": "42181_stand_t006125.png",
+      "sha256": "34e9c04225c38477efd3380cec463d27f39a7997e24818604a2fd7d6bd6766d0"
+    },
+    {
+      "index": 10,
+      "elapsed_ms": 6782,
+      "file": "42181_stand_t006782.png",
+      "sha256": "ba8cac7b3951f81d9e8491aa14c002416a43c2f3e532ddb58d86c8f09e0cf273"
+    },
+    {
+      "index": 11,
+      "elapsed_ms": 7443,
+      "file": "42181_stand_t007443.png",
+      "sha256": "5da8ddb7e08b9183b067c9534c4f578481f5fdebe7b5df45058b7df9c41fde98"
+    },
+    {
+      "index": 12,
+      "elapsed_ms": 8080,
+      "file": "42181_stand_t008080.png",
+      "sha256": "5efe8ef99a76b4838354eacc8294da71afb2cb5c7693a43a7acb5c614740d90e"
+    },
+    {
+      "index": 13,
+      "elapsed_ms": 8749,
+      "file": "42181_stand_t008749.png",
+      "sha256": "ab440f41af68d8775cd6a6ee691ed34ccdf490f234715c1f5cef1cc6763edff2"
+    },
+    {
+      "index": 14,
+      "elapsed_ms": 9377,
+      "file": "42181_stand_t009377.png",
+      "sha256": "6753c79a667e98479a68a063f500389ef2e9eb23f5d9b5e3b75e04d6ae2a23c3"
+    },
+    {
+      "index": 15,
+      "elapsed_ms": 10117,
+      "file": "42181_stand_t010117.png",
+      "sha256": "9e5fcc56aab44b876872eb88dd744723802604042076c02bc84dbe3ab3bbe0fa"
+    },
+    {
+      "index": 16,
+      "elapsed_ms": 10843,
+      "file": "42181_stand_t010843.png",
+      "sha256": "4f5d792b228ae320d1e3567824fd5edc98db6e3ec52d84c8e3dbfc8d32cc26ae"
+    },
+    {
+      "index": 17,
+      "elapsed_ms": 11553,
+      "file": "42181_stand_t011553.png",
+      "sha256": "9f3ee96ae58587211eaf64857623c9fd92e7a08b0cae24bd70d9dfc93bdbca3a"
+    },
+    {
+      "index": 18,
+      "elapsed_ms": 12194,
+      "file": "42181_stand_t012194.png",
+      "sha256": "8b22bb6334d48d1dfabeae5cba37d3cab5e6f2e9ed641ec2248235bbe8798a09"
+    },
+    {
+      "index": 19,
+      "elapsed_ms": 12926,
+      "file": "42181_stand_t012926.png",
+      "sha256": "28ff1c8bea38b770d7cbb6f7a1d0d328ac98e54da37768ed5440bde39b63d292"
+    },
+    {
+      "index": 20,
+      "elapsed_ms": 13673,
+      "file": "42181_stand_t013673.png",
+      "sha256": "cf1dd1a8f1adbcec52d1b29d1eb2eb6fc3f187c484af6a3e12eff208b0b1385b"
+    },
+    {
+      "index": 21,
+      "elapsed_ms": 14418,
+      "file": "42181_stand_t014418.png",
+      "sha256": "6cdf907817730da09f79948b2e8d2a4bee03fc3655f598a13b2143b5ee86fc4e"
+    },
+    {
+      "index": 22,
+      "elapsed_ms": 15108,
+      "file": "42181_stand_t015108.png",
+      "sha256": "ab03f01d4a8b0924fa10d043bf6dc60c64133910837d45d457f100d6f436035a"
+    },
+    {
+      "index": 23,
+      "elapsed_ms": 15836,
+      "file": "42181_stand_t015836.png",
+      "sha256": "22691ddb558e6f295f4483621cedaebbd2d3903e5a60a675105e3388cf0f6fe3"
+    },
+    {
+      "index": 24,
+      "elapsed_ms": 16527,
+      "file": "42181_stand_t016527.png",
+      "sha256": "d4296947719e12f37d581de389d13e5df3a97dac926cc9563dff1b716e85c97b"
+    },
+    {
+      "index": 25,
+      "elapsed_ms": 17172,
+      "file": "42181_stand_t017172.png",
+      "sha256": "0f12f980483ff00166e9e32b5ca69f3eb0b63d5d1a14a844698617552ff20459"
+    },
+    {
+      "index": 26,
+      "elapsed_ms": 17836,
+      "file": "42181_stand_t017836.png",
+      "sha256": "3c97308eed2d3e42b311e2a889c35c9baf568bbfb2478eb1bbd6dd8b7d7679aa"
+    },
+    {
+      "index": 27,
+      "elapsed_ms": 18644,
+      "file": "42181_stand_t018644.png",
+      "sha256": "4697e173691357085c5eb5179c2f99f9e97e05056c49d8e1aa45bf6119597e5c"
+    },
+    {
+      "index": 28,
+      "elapsed_ms": 19280,
+      "file": "42181_stand_t019280.png",
+      "sha256": "0734f66f9321795063fbfa19b715bc819e2017d38e5f54c56c2999ef38ce83bd"
+    },
+    {
+      "index": 29,
+      "elapsed_ms": 19991,
+      "file": "42181_stand_t019991.png",
+      "sha256": "49d65a5a82b9d0684dc15119354583ca2bd52d14dc060b3ed7e8b8e9f9fd3c87"
+    },
+    {
+      "index": 30,
+      "elapsed_ms": 20711,
+      "file": "42181_stand_t020711.png",
+      "sha256": "fae952c5c8648c09665d447f5e591e96254701d79a9949851907f64b80f19b3d"
+    },
+    {
+      "index": 31,
+      "elapsed_ms": 21366,
+      "file": "42181_stand_t021366.png",
+      "sha256": "aa40a9fd333cf013e64f9fcf3cb60c053253a74c1e47c3b2e8485f79196a876b"
+    },
+    {
+      "index": 32,
+      "elapsed_ms": 22092,
+      "file": "42181_stand_t022092.png",
+      "sha256": "06b715438f355236d878276ee871d62bf3678bc38c5a7446d2b1286817fcec55"
+    },
+    {
+      "index": 33,
+      "elapsed_ms": 22954,
+      "file": "42181_stand_t022954.png",
+      "sha256": "e035cd6c6269b3a0611d4a023b1453b7f3c8fd1e0d37e117e423b377cc1f428f"
+    },
+    {
+      "index": 34,
+      "elapsed_ms": 23680,
+      "file": "42181_stand_t023680.png",
+      "sha256": "e0fb9b86683e820cdb0b9cc1a247f9a4a10655e7b6537e1c0170fce736b988da"
+    },
+    {
+      "index": 35,
+      "elapsed_ms": 24449,
+      "file": "42181_stand_t024449.png",
+      "sha256": "4cd1d8e800252942f87a7087a40cc2abbf143c4203d8787cdf914519bfca9e91"
+    },
+    {
+      "index": 36,
+      "elapsed_ms": 25112,
+      "file": "42181_stand_t025112.png",
+      "sha256": "5350f2afb7b3f86781ae827bcb56bb100b48df519ad242b3460757fc3e5fe974"
+    },
+    {
+      "index": 37,
+      "elapsed_ms": 25891,
+      "file": "42181_stand_t025891.png",
+      "sha256": "464e1c9eab63ddb181d05952129538e54187c596e127f4c38de8380280a8554f"
+    },
+    {
+      "index": 38,
+      "elapsed_ms": 26593,
+      "file": "42181_stand_t026593.png",
+      "sha256": "f92ba51da0a8353ef8cb09e7c4a39f0c604a8991c15a27bd31541b8b7f470b51"
+    },
+    {
+      "index": 39,
+      "elapsed_ms": 27234,
+      "file": "42181_stand_t027234.png",
+      "sha256": "a599745611c6d9e863496218525f0a077fc80e1ea08453572efa6fa1be762e53"
+    },
+    {
+      "index": 40,
+      "elapsed_ms": 27970,
+      "file": "42181_stand_t027970.png",
+      "sha256": "5e0e39f0a5680468001875ebb43ce074bc9c4d0a3c2a58a0118d42ba5b9f3b7e"
+    },
+    {
+      "index": 41,
+      "elapsed_ms": 28759,
+      "file": "42181_stand_t028759.png",
+      "sha256": "5f70dd0817ae64ee010bde7dafa977c923d8d96611692731bde80037a8e9f23d"
+    },
+    {
+      "index": 42,
+      "elapsed_ms": 29462,
+      "file": "42181_stand_t029462.png",
+      "sha256": "4bbbd2127653a9843f25427796bdff3d898c8f8c00e05ed139748f39dcf55abf"
+    },
+    {
+      "index": 43,
+      "elapsed_ms": 30246,
+      "file": "42181_stand_t030246.png",
+      "sha256": "61d343511b47f07a10293a9eab68b490149a8d1fecb21ebbcedd0d08ed1b625b"
+    },
+    {
+      "index": 44,
+      "elapsed_ms": 30982,
+      "file": "42181_stand_t030982.png",
+      "sha256": "7a09af50d86402417b9f8b608acace198c9d51098b47f0357dd18f6c5f0706f7"
+    },
+    {
+      "index": 45,
+      "elapsed_ms": 31737,
+      "file": "42181_stand_t031737.png",
+      "sha256": "c87c119b80ad59a9b77e373e62bbc1120e07903123c9801a3e38a72b78d1b54f"
+    },
+    {
+      "index": 46,
+      "elapsed_ms": 32510,
+      "file": "42181_stand_t032510.png",
+      "sha256": "2ac5baf94b2bf82cb217b2962a3cfe0ab1a293cd335e490f8e46ee879451313a"
+    },
+    {
+      "index": 47,
+      "elapsed_ms": 33193,
+      "file": "42181_stand_t033193.png",
+      "sha256": "3f845f791c397eb9869a22b443630e099fcac55f2d634a4fded0fa9097db6442"
+    },
+    {
+      "index": 48,
+      "elapsed_ms": 33911,
+      "file": "42181_stand_t033911.png",
+      "sha256": "5f676381afa7c89ddeb2ce5d1d96ed3d6cf5ba019d622358a7d4554c36978a6e"
+    },
+    {
+      "index": 49,
+      "elapsed_ms": 34643,
+      "file": "42181_stand_t034643.png",
+      "sha256": "aef2a8331303f0d1084469b0cbea94305dbebc20fe712f82e6cab31fc261414c"
+    },
+    {
+      "index": 50,
+      "elapsed_ms": 35438,
+      "file": "42181_stand_t035438.png",
+      "sha256": "f257bad334d3adb02fb58467314ab520a1c79822da9ffd07e61261d3ce1feebb"
+    },
+    {
+      "index": 51,
+      "elapsed_ms": 36109,
+      "file": "42181_stand_t036109.png",
+      "sha256": "196058e5c0bc8855fb3769ec9908cf4119bc6cacec0413d18f32291b482130a6"
+    },
+    {
+      "index": 52,
+      "elapsed_ms": 36867,
+      "file": "42181_stand_t036867.png",
+      "sha256": "e3c6083bca954b29673e86a7de8d47bf066f2df90343fd6c82408c30266a4861"
+    },
+    {
+      "index": 53,
+      "elapsed_ms": 37583,
+      "file": "42181_stand_t037583.png",
+      "sha256": "57791109367016f4b34575c48f74567edfdb43f364312203c6ddde798ef14fb6"
+    },
+    {
+      "index": 54,
+      "elapsed_ms": 38371,
+      "file": "42181_stand_t038371.png",
+      "sha256": "ad4b65f406e8704cfb18c7f42e16d2ef38c8a5ae3b68cf1083c287a640122a04"
+    },
+    {
+      "index": 55,
+      "elapsed_ms": 39099,
+      "file": "42181_stand_t039099.png",
+      "sha256": "3ea9bdea6744e258a24649301bffec33867f91d9d278f7e90be908d5817dc549"
+    },
+    {
+      "index": 56,
+      "elapsed_ms": 39855,
+      "file": "42181_stand_t039855.png",
+      "sha256": "00e23ca8b1db0a19161f1f043a3f9ff6461f33d1a733954eb32dbce066a6c1d9"
+    },
+    {
+      "index": 57,
+      "elapsed_ms": 40577,
+      "file": "42181_stand_t040577.png",
+      "sha256": "35d4d4a9894a1c24fd94f6c0a5bc215587ae9ec61385340948d7f379f3f96de7"
+    },
+    {
+      "index": 58,
+      "elapsed_ms": 41336,
+      "file": "42181_stand_t041336.png",
+      "sha256": "ab74a03f1f5bfb8f3919759817c89e6a2469c46ad6f7871faba93afbfb417a2c"
+    },
+    {
+      "index": 59,
+      "elapsed_ms": 42025,
+      "file": "42181_stand_t042025.png",
+      "sha256": "6e9d577e6fe182dcb6baa77639cad6c6cda2d2ded761d5556f25c5fcdfd8dd4e"
+    },
+    {
+      "index": 60,
+      "elapsed_ms": 42791,
+      "file": "42181_stand_t042791.png",
+      "sha256": "5d88a512fe6f799eff6dd866071148c583af5555424cc91071ec1d085c1ef72b"
+    },
+    {
+      "index": 61,
+      "elapsed_ms": 43481,
+      "file": "42181_stand_t043481.png",
+      "sha256": "20417c2785850b1b5ae17caae3506d785951ac135a32b225a3051c00f6e0a4af"
+    },
+    {
+      "index": 62,
+      "elapsed_ms": 44247,
+      "file": "42181_stand_t044247.png",
+      "sha256": "d2252ddb1d6200fce9f04574c23b200b21d694cce940a63e65f5862bf8110f0e"
+    },
+    {
+      "index": 63,
+      "elapsed_ms": 44979,
+      "file": "42181_stand_t044979.png",
+      "sha256": "6c4b7bdf949cdc750900bebf6535db88f6a58116df62fc5cb7cc72812ccce677"
+    },
+    {
+      "index": 64,
+      "elapsed_ms": 45699,
+      "file": "42181_stand_t045699.png",
+      "sha256": "1a9b9a236afb441fc16049e68888c3366ba91ea3fe22614e525fe5742ea17223"
+    },
+    {
+      "index": 65,
+      "elapsed_ms": 46386,
+      "file": "42181_stand_t046386.png",
+      "sha256": "650dfbd634d51e932fc45db937e7273e874d610767f4cc86d3db1b41cad2c714"
+    },
+    {
+      "index": 66,
+      "elapsed_ms": 47183,
+      "file": "42181_stand_t047183.png",
+      "sha256": "b9a46ec3c5a785e5565c8badd489bd1f225555267afc7c147694f5423ec97f42"
+    },
+    {
+      "index": 67,
+      "elapsed_ms": 47872,
+      "file": "42181_stand_t047872.png",
+      "sha256": "a445e14b6348447ef01f5d7a38cd349c90cef3a2ab52634e7ff16585644b55d2"
+    },
+    {
+      "index": 68,
+      "elapsed_ms": 48626,
+      "file": "42181_stand_t048626.png",
+      "sha256": "32ed528fd2a42d200f84713efec420b9f3347ae74b835359707196f6245ab994"
+    },
+    {
+      "index": 69,
+      "elapsed_ms": 49420,
+      "file": "42181_stand_t049420.png",
+      "sha256": "fbf9b7bb3487eda7582da4c0d8faabbdb1df0d4ba0394e1c446932f27b36d9fb"
+    },
+    {
+      "index": 70,
+      "elapsed_ms": 50177,
+      "file": "42181_stand_t050177.png",
+      "sha256": "f27d48d5be5158121e7733821c13d9981fd49ebd7aea80dac059da7eb0c9553d"
+    },
+    {
+      "index": 71,
+      "elapsed_ms": 51024,
+      "file": "42181_stand_t051024.png",
+      "sha256": "47e7869e395ea12f5118af5142ab98323dbd01168e27fa8e897b4aec7eb1c612"
+    },
+    {
+      "index": 72,
+      "elapsed_ms": 51820,
+      "file": "42181_stand_t051820.png",
+      "sha256": "33c57e43d61580baefe53217b4fed5f52a388ee5bfc9383b5653833e416e199e"
+    },
+    {
+      "index": 73,
+      "elapsed_ms": 52641,
+      "file": "42181_stand_t052641.png",
+      "sha256": "ec3d8ec0a9febbec33fc0a9b01ad0795cd481780fe559e657b359dfe01ef0fb3"
+    },
+    {
+      "index": 74,
+      "elapsed_ms": 53254,
+      "file": "42181_stand_t053254.png",
+      "sha256": "94cb3a87a2322209192af2ca528b7d88c71412547d3650d88e89568014cc4f0b"
+    },
+    {
+      "index": 75,
+      "elapsed_ms": 53890,
+      "file": "42181_stand_t053890.png",
+      "sha256": "ecc4e7175df12312f715a0c348dde79d73fe6fe7de961ab6614006a7d1e75a7c"
+    },
+    {
+      "index": 76,
+      "elapsed_ms": 54530,
+      "file": "42181_stand_t054530.png",
+      "sha256": "5d2eeba08a1333bdb6995ff3b51dfe7826308f644637a05595d59c07a226c4a3"
+    },
+    {
+      "index": 77,
+      "elapsed_ms": 55179,
+      "file": "42181_stand_t055179.png",
+      "sha256": "70510dd9250dc2490e9ca8fb373984603b92ae1a1b6cc1483968433db32c351e"
+    },
+    {
+      "index": 78,
+      "elapsed_ms": 55842,
+      "file": "42181_stand_t055842.png",
+      "sha256": "eafa4f440b88491c51cd8b735ce8a90157e5ec025d1557cf16c632321916f7c6"
+    },
+    {
+      "index": 79,
+      "elapsed_ms": 56494,
+      "file": "42181_stand_t056494.png",
+      "sha256": "818f8dc235696268921f1875b5b96a014d6f846b7230ff566a53d37202207d5c"
+    },
+    {
+      "index": 80,
+      "elapsed_ms": 57147,
+      "file": "42181_stand_t057147.png",
+      "sha256": "abdcb54513304cbfede057248935be53e78151dff496ae44d92abde7690aad1a"
+    },
+    {
+      "index": 81,
+      "elapsed_ms": 57806,
+      "file": "42181_stand_t057806.png",
+      "sha256": "152e2cea7a129b181a376216210c74ffeb12f1b1600cf5380ffe0faac0b53092"
+    },
+    {
+      "index": 82,
+      "elapsed_ms": 58468,
+      "file": "42181_stand_t058468.png",
+      "sha256": "2b565cd0265d18c4003d05b85d10d497e21716db407bf04e58330fd10b7526b4"
+    },
+    {
+      "index": 83,
+      "elapsed_ms": 59117,
+      "file": "42181_stand_t059117.png",
+      "sha256": "9e2525d2119c3d9b043191058a49ac7d17541c1216c1cc92b7009504c5bb8968"
+    },
+    {
+      "index": 84,
+      "elapsed_ms": 59769,
+      "file": "42181_stand_t059769.png",
+      "sha256": "548744b82a71e6d1e2295f8f465589f96bd3fec83e2fb1281ca48646333ceb2b"
+    },
+    {
+      "index": 85,
+      "elapsed_ms": 60502,
+      "file": "42181_stand_t060502.png",
+      "sha256": "17f3dfa33d1158edef6adb5ad7c0a0a6d382470fd90bb413b30524355a668418"
+    },
+    {
+      "index": 86,
+      "elapsed_ms": 61209,
+      "file": "42181_stand_t061209.png",
+      "sha256": "ff083ba7022fca2a7bad450e80635450e944b91b125e1ec431643c2358633223"
+    },
+    {
+      "index": 87,
+      "elapsed_ms": 61901,
+      "file": "42181_stand_t061901.png",
+      "sha256": "3a5cfc147ebdc38353f63d147181776b3a3c9b241b980a82302d2109cb913a45"
+    },
+    {
+      "index": 88,
+      "elapsed_ms": 62609,
+      "file": "42181_stand_t062609.png",
+      "sha256": "abc002f80fe7f2615334b11afaeb6f06330c3a6d78215788e5aadd79c44df997"
+    },
+    {
+      "index": 89,
+      "elapsed_ms": 63301,
+      "file": "42181_stand_t063301.png",
+      "sha256": "8e244935bbd437ad663381247994d9327f8ca6dd10b987ae10e046bcc3bf17fc"
+    },
+    {
+      "index": 90,
+      "elapsed_ms": 63986,
+      "file": "42181_stand_t063986.png",
+      "sha256": "cb6e0501a5aec4ef23b67df6390b0c0dcc1e4fbb7cec37305526b0d5aa31623d"
+    },
+    {
+      "index": 91,
+      "elapsed_ms": 64694,
+      "file": "42181_stand_t064694.png",
+      "sha256": "cedbb9e7d1f85caf6fd7712d18af3693bdf03e5f879a75254e0dbefbce9f65fd"
+    },
+    {
+      "index": 92,
+      "elapsed_ms": 65399,
+      "file": "42181_stand_t065399.png",
+      "sha256": "63fa472e8c3ab44ff89b7eea3032ef9c4c5ac67fd59251e730ab2d9478d4a884"
+    },
+    {
+      "index": 93,
+      "elapsed_ms": 66091,
+      "file": "42181_stand_t066091.png",
+      "sha256": "7ff5c94ed84f1aeaef059e18156ca9e5f3395ad3645573a769cc2dd311c8a4fd"
+    },
+    {
+      "index": 94,
+      "elapsed_ms": 66772,
+      "file": "42181_stand_t066772.png",
+      "sha256": "b599f600ce42ae537a3e8b924c8d86fc3f6e5e4880f23bd30856fc40b499f97a"
+    },
+    {
+      "index": 95,
+      "elapsed_ms": 67495,
+      "file": "42181_stand_t067495.png",
+      "sha256": "6e80f53c7e0d5ee0dd2639550b8d806fd30ffcded4b4385f4e2419600c852313"
+    },
+    {
+      "index": 96,
+      "elapsed_ms": 68346,
+      "file": "42181_stand_t068346.png",
+      "sha256": "596d1916d6ea7b30576577393d8deeb8d43fde08c297af562b1b5143f5ab0300"
+    },
+    {
+      "index": 97,
+      "elapsed_ms": 69020,
+      "file": "42181_stand_t069020.png",
+      "sha256": "26c85e1815288465fd0cb96fa5e7115da5560f35ac166f2ae61324246ed752da"
+    },
+    {
+      "index": 98,
+      "elapsed_ms": 69787,
+      "file": "42181_stand_t069787.png",
+      "sha256": "71059d3f53b5b457fe2ea075e8efb0d720c6a14f82836e4fc118c70af89c3c39"
+    },
+    {
+      "index": 99,
+      "elapsed_ms": 70510,
+      "file": "42181_stand_t070510.png",
+      "sha256": "fbf28db15c529277f7b10620d4e21c4e8745dd04cb45c697123229dde444e5c4"
+    },
+    {
+      "index": 100,
+      "elapsed_ms": 71358,
+      "file": "42181_stand_t071358.png",
+      "sha256": "fd71896f7afbffa614905a1bc9b10352c46518814b12ef3ff7d16a87fa7d44bb"
+    },
+    {
+      "index": 101,
+      "elapsed_ms": 72044,
+      "file": "42181_stand_t072044.png",
+      "sha256": "2bf226d6f0d54fc5685996777e16ffa9cd18196c5f8c623b2b49724f5bc15eca"
+    },
+    {
+      "index": 102,
+      "elapsed_ms": 72780,
+      "file": "42181_stand_t072780.png",
+      "sha256": "4745a4e9859aeb0ff475ae8909c9c2f1eec1c49f7c8748acab45e6d67901a064"
+    },
+    {
+      "index": 103,
+      "elapsed_ms": 73504,
+      "file": "42181_stand_t073504.png",
+      "sha256": "883be4c0afb9ad1f05ee1cd56765a6f3acf993d5e763b76e353189d940c351f3"
+    },
+    {
+      "index": 104,
+      "elapsed_ms": 74250,
+      "file": "42181_stand_t074250.png",
+      "sha256": "b370f93ccd4c3385b400b68838c97845bf228728804ab8758625623616b4c7d7"
+    },
+    {
+      "index": 105,
+      "elapsed_ms": 74961,
+      "file": "42181_stand_t074961.png",
+      "sha256": "6a0ae55ef956f8cb67530a58373d455aa95326dd4ca2c5531bd7664dcd6b1939"
+    },
+    {
+      "index": 106,
+      "elapsed_ms": 75826,
+      "file": "42181_stand_t075826.png",
+      "sha256": "3fb293b66f4f38b9e93c8ffab065cea4fc4c652a86f22e1e211259f7d4fbe2ee"
+    },
+    {
+      "index": 107,
+      "elapsed_ms": 76591,
+      "file": "42181_stand_t076591.png",
+      "sha256": "86b41c7297a9ec46593a3dd07405145c87c930eda5054e88b8ea252c56d968ea"
+    },
+    {
+      "index": 108,
+      "elapsed_ms": 77329,
+      "file": "42181_stand_t077329.png",
+      "sha256": "2cdac6aa7bc999b5f1930bddcb1498303add886295a9c166b627c310d23a98a4"
+    },
+    {
+      "index": 109,
+      "elapsed_ms": 78050,
+      "file": "42181_stand_t078050.png",
+      "sha256": "762a228db0a81395ad696f25ecdb2142073f15f8ccaf3a3583061a38bd6d7835"
+    },
+    {
+      "index": 110,
+      "elapsed_ms": 78811,
+      "file": "42181_stand_t078811.png",
+      "sha256": "d16815f9d1c51ea791a1d891689c0d1f3f82aae345095dbef92c216b1a8db2b9"
+    },
+    {
+      "index": 111,
+      "elapsed_ms": 79445,
+      "file": "42181_stand_t079445.png",
+      "sha256": "159248ddfb1f864d19fa7c4b7b62b082c61bcc85a0400b98393e203a617815c8"
+    },
+    {
+      "index": 112,
+      "elapsed_ms": 80180,
+      "file": "42181_stand_t080180.png",
+      "sha256": "fb632637944e28ebc7d676b15bfef593505e85eaa402e8c2ec397ea31a00d5d2"
+    },
+    {
+      "index": 113,
+      "elapsed_ms": 80862,
+      "file": "42181_stand_t080862.png",
+      "sha256": "dea62cd67dcc981e49827c4634867e8643d787ec648466866bdf481837e8c0f1"
+    },
+    {
+      "index": 114,
+      "elapsed_ms": 81590,
+      "file": "42181_stand_t081590.png",
+      "sha256": "b6ee995f9c0f340de2b552ebce87588dd9fd8bfd59b70801ec698c6c01263c33"
+    },
+    {
+      "index": 115,
+      "elapsed_ms": 82339,
+      "file": "42181_stand_t082339.png",
+      "sha256": "42a37cc2dc4d4690cf0c220c6dbbb1149c7de3091fb127e2ec77b77b1f561adc"
+    },
+    {
+      "index": 116,
+      "elapsed_ms": 83148,
+      "file": "42181_stand_t083148.png",
+      "sha256": "abe9a2e3de8b4498885aa069f80194c66f10ae12509770e951de3fa3268eb264"
+    },
+    {
+      "index": 117,
+      "elapsed_ms": 83870,
+      "file": "42181_stand_t083870.png",
+      "sha256": "afdeafb27846ccd701ba29516e89a2c843b1c1683ac29fa20f864395ecedfe3f"
+    },
+    {
+      "index": 118,
+      "elapsed_ms": 84576,
+      "file": "42181_stand_t084576.png",
+      "sha256": "8806c41f712f605d8f91335dc4d3d1919262bab6919a6bdb810f714673046490"
+    },
+    {
+      "index": 119,
+      "elapsed_ms": 85266,
+      "file": "42181_stand_t085266.png",
+      "sha256": "18953d8429a4587746e8bf5b2d20b89e3e7aaadb805d5d91f227a58bfa05ebc2"
+    }
+  ],
+  "done": true,
+  "error": null
+}

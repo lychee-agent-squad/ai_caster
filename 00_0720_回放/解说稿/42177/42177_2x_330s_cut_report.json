@@ -1,0 +1,134 @@
+{
+  "target_program_seconds": 330,
+  "old_segments": 30,
+  "new_segments": 24,
+  "spoken_units": 1309,
+  "average_rate": 3.967,
+  "max_segment_rate": 4.286,
+  "retained_source_segments": [
+    1,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    25,
+    27,
+    28,
+    29,
+    30
+  ],
+  "dropped": [
+    {
+      "source_segment": 2,
+      "source_range": "00:14-00:32",
+      "title": "开局路线分化"
+    },
+    {
+      "source_segment": 3,
+      "source_range": "00:32-00:48",
+      "title": "蓝队抢下前段位置"
+    },
+    {
+      "source_segment": 6,
+      "source_range": "01:12-01:28",
+      "title": "红队先掉品质"
+    },
+    {
+      "source_segment": 20,
+      "source_range": "04:04-04:16",
+      "title": "红队快速完成宫前交接"
+    },
+    {
+      "source_segment": 24,
+      "source_range": "04:52-05:06",
+      "title": "酷暑生效，宫门关卡开始风化"
+    },
+    {
+      "source_segment": 26,
+      "source_range": "05:18-05:36",
+      "title": "第一张宫门关卡消失"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\42177_capture_manifest.json",
+    "frames": 0,
+    "median_actual_start_gap_ms": null,
+    "max_actual_start_gap_ms": null,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      0,
+      14000,
+      48000,
+      60000,
+      72000,
+      88000,
+      100000,
+      112000,
+      124000,
+      136000,
+      148000,
+      160000,
+      172000,
+      184000,
+      196000,
+      208000,
+      220000,
+      232000,
+      244000,
+      256000,
+      268000,
+      280000,
+      292000,
+      306000,
+      318000,
+      336000,
+      340000,
+      348000,
+      352000,
+      378000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42177",
+  "program_end_seconds": 330,
+  "ui_sha256": "21ed7f43a263e8c5939b0a0de87c25d87a7a00adeef47e337729f379fd5157c3",
+  "voice_sha256": "5c733a1705ebaf7d5205cc804f5c3ae4db66db1a2dff1ccad146aa851329f1d8",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42177\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\replay.txt",
+      "source_sha256": "e59bc525a246973a7bb8e783e9846f5141e73f120c13d0b0463e3e1ce0811c0d",
+      "target_sha256": "e59bc525a246973a7bb8e783e9846f5141e73f120c13d0b0463e3e1ce0811c0d",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42177\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\data.csv",
+      "source_sha256": "529d6974eb5c62c921bae4b75e44e50ea8e4e3c9ef79cce9be92f3c82a75b8d4",
+      "target_sha256": "529d6974eb5c62c921bae4b75e44e50ea8e4e3c9ef79cce9be92f3c82a75b8d4",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  }
+}

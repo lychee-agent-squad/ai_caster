@@ -1,0 +1,9 @@
+{
+  "expected_speed": "2x",
+  "verified_speed": "2x",
+  "proof": "frames/speed_2x_before_replay.jpg",
+  "proof_sha256": "7bbcab7ae2e109e16e8236b5835625fd55aa3b31460d1f29f2f729f70ba42d19",
+  "reviewed_by": "codex_visual",
+  "note": "960x540 proof visibly shows 2x and correct teams",
+  "verified_at": "2026-07-22T12:17:42.752Z"
+}

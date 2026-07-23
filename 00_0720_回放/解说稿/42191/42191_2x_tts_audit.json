@@ -1,0 +1,307 @@
+{
+  "segments": 37,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 37,
+  "voice_spoken_units": 1408,
+  "average_segment_rate": 4.267,
+  "max_segment_rate": 4.909,
+  "contest_segments": 12,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 35,
+      "rate": 3.5,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:18",
+      "seconds": 8,
+      "units": 36,
+      "rate": 4.5,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:18",
+      "end": "00:27",
+      "seconds": 9,
+      "units": 43,
+      "rate": 4.778,
+      "title": "目标与初始状态"
+    },
+    {
+      "start": "00:27",
+      "end": "00:38",
+      "seconds": 11,
+      "units": 49,
+      "rate": 4.455,
+      "title": "红方提前清障"
+    },
+    {
+      "start": "00:38",
+      "end": "00:49",
+      "seconds": 11,
+      "units": 45,
+      "rate": 4.091,
+      "title": "同步推进"
+    },
+    {
+      "start": "00:49",
+      "end": "00:59",
+      "seconds": 10,
+      "units": 42,
+      "rate": 4.2,
+      "title": "蓝方侦察码头"
+    },
+    {
+      "start": "00:59",
+      "end": "01:08",
+      "seconds": 9,
+      "units": 35,
+      "rate": 3.889,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "01:08",
+      "end": "01:16",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "01:16",
+      "end": "01:24",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "01:24",
+      "end": "01:32",
+      "seconds": 8,
+      "units": 33,
+      "rate": 4.125,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "01:32",
+      "end": "01:40",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "01:40",
+      "end": "01:48",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "01:48",
+      "end": "01:59",
+      "seconds": 11,
+      "units": 48,
+      "rate": 4.364,
+      "title": "鲜度压力出现"
+    },
+    {
+      "start": "01:59",
+      "end": "02:07",
+      "seconds": 8,
+      "units": 33,
+      "rate": 4.125,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "02:07",
+      "end": "02:15",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "02:15",
+      "end": "02:23",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "02:23",
+      "end": "02:31",
+      "seconds": 8,
+      "units": 33,
+      "rate": 4.125,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "02:31",
+      "end": "02:39",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "02:39",
+      "end": "02:47",
+      "seconds": 8,
+      "units": 32,
+      "rate": 4.0,
+      "title": "双方分开行动"
+    },
+    {
+      "start": "02:47",
+      "end": "02:58",
+      "seconds": 11,
+      "units": 46,
+      "rate": 4.182,
+      "title": "红方使用快马"
+    },
+    {
+      "start": "02:58",
+      "end": "03:06",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "江南码头的快马争夺"
+    },
+    {
+      "start": "03:06",
+      "end": "03:14",
+      "seconds": 8,
+      "units": 34,
+      "rate": 4.25,
+      "title": "快马完成反超"
+    },
+    {
+      "start": "03:14",
+      "end": "03:21",
+      "seconds": 7,
+      "units": 32,
+      "rate": 4.571,
+      "title": "水驿转运"
+    },
+    {
+      "start": "03:21",
+      "end": "03:31",
+      "seconds": 10,
+      "units": 43,
+      "rate": 4.3,
+      "title": "水路领先"
+    },
+    {
+      "start": "03:31",
+      "end": "03:41",
+      "seconds": 10,
+      "units": 44,
+      "rate": 4.4,
+      "title": "抵达洛阳驿"
+    },
+    {
+      "start": "03:41",
+      "end": "03:51",
+      "seconds": 10,
+      "units": 44,
+      "rate": 4.4,
+      "title": "转向武关"
+    },
+    {
+      "start": "03:51",
+      "end": "04:01",
+      "seconds": 10,
+      "units": 41,
+      "rate": 4.1,
+      "title": "武关与侦察"
+    },
+    {
+      "start": "04:01",
+      "end": "04:11",
+      "seconds": 10,
+      "units": 41,
+      "rate": 4.1,
+      "title": "冲刺开启"
+    },
+    {
+      "start": "04:11",
+      "end": "04:22",
+      "seconds": 11,
+      "units": 48,
+      "rate": 4.364,
+      "title": "红方先到潼关驿"
+    },
+    {
+      "start": "04:22",
+      "end": "04:32",
+      "seconds": 10,
+      "units": 41,
+      "rate": 4.1,
+      "title": "蓝方到站追赶"
+    },
+    {
+      "start": "04:32",
+      "end": "04:42",
+      "seconds": 10,
+      "units": 43,
+      "rate": 4.3,
+      "title": "蓝方使用疾行令"
+    },
+    {
+      "start": "04:42",
+      "end": "04:48",
+      "seconds": 6,
+      "units": 25,
+      "rate": 4.167,
+      "title": "最后的果品折损"
+    },
+    {
+      "start": "04:48",
+      "end": "04:59",
+      "seconds": 11,
+      "units": 45,
+      "rate": 4.091,
+      "title": "红方先核验"
+    },
+    {
+      "start": "04:59",
+      "end": "05:10",
+      "seconds": 11,
+      "units": 49,
+      "rate": 4.455,
+      "title": "核验先后完成"
+    },
+    {
+      "start": "05:10",
+      "end": "05:14",
+      "seconds": 4,
+      "units": 19,
+      "rate": 4.75,
+      "title": "红队送达"
+    },
+    {
+      "start": "05:14",
+      "end": "05:19",
+      "seconds": 5,
+      "units": 23,
+      "rate": 4.6,
+      "title": "分项汇总"
+    },
+    {
+      "start": "05:19",
+      "end": "05:30",
+      "seconds": 11,
+      "units": 54,
+      "rate": 4.909,
+      "title": "蓝队送达与最终结算"
+    }
+  ]
+}

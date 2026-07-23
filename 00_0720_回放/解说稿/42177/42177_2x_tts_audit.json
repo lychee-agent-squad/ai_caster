@@ -1,255 +1,174 @@
 {
-  "segments": 30,
-  "timeline_end_seconds": 378,
-  "voice_paragraphs": 30,
-  "voice_spoken_units": 1678,
-  "average_segment_rate": 4.439,
-  "max_segment_rate": 5.5,
+  "segments": 19,
+  "timeline_end_seconds": 323,
+  "voice_paragraphs": 19,
+  "voice_spoken_units": 1101,
+  "average_segment_rate": 3.409,
+  "max_segment_rate": 4.909,
+  "contest_segments": 0,
   "segment_audits": [
     {
       "start": "00:00",
-      "end": "00:14",
-      "seconds": 14,
+      "end": "00:10",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:29",
+      "seconds": 19,
+      "units": 39,
+      "rate": 2.053,
+      "title": "首次行动：开局分路"
+    },
+    {
+      "start": "00:29",
+      "end": "00:44",
+      "seconds": 15,
+      "units": 39,
+      "rate": 2.6,
+      "title": "蓝队转向并逼近江南码头"
+    },
+    {
+      "start": "00:44",
+      "end": "00:55",
+      "seconds": 11,
+      "units": 50,
+      "rate": 4.545,
+      "title": "蓝队到码头、清障并转入水路"
+    },
+    {
+      "start": "00:55",
+      "end": "01:07",
+      "seconds": 12,
+      "units": 22,
+      "rate": 1.833,
+      "title": "首轮酷暑生效"
+    },
+    {
+      "start": "01:07",
+      "end": "01:24",
+      "seconds": 17,
+      "units": 29,
+      "rate": 1.706,
+      "title": "红队鲜度先破九十"
+    },
+    {
+      "start": "01:24",
+      "end": "01:32",
+      "seconds": 8,
+      "units": 37,
+      "rate": 4.625,
+      "title": "蓝队进入洞庭水驿并跌破九十"
+    },
+    {
+      "start": "01:32",
+      "end": "01:45",
+      "seconds": 13,
+      "units": 49,
+      "rate": 3.769,
+      "title": "红队在秦岭栈道连做复核"
+    },
+    {
+      "start": "01:45",
+      "end": "01:55",
+      "seconds": 10,
+      "units": 28,
+      "rate": 2.8,
+      "title": "暴雨命中蓝队水路"
+    },
+    {
+      "start": "01:55",
+      "end": "02:24",
+      "seconds": 29,
+      "units": 85,
+      "rate": 2.931,
+      "title": "蓝队在洛阳驿连拿任务并转向武关"
+    },
+    {
+      "start": "02:24",
+      "end": "02:34",
+      "seconds": 10,
+      "units": 19,
+      "rate": 1.9,
+      "title": "山雾预告"
+    },
+    {
+      "start": "02:34",
+      "end": "02:49",
+      "seconds": 15,
       "units": 66,
-      "rate": 4.714
+      "rate": 4.4,
+      "title": "红队探查潼关，双方继续接近"
     },
     {
-      "start": "00:14",
-      "end": "00:32",
-      "seconds": 18,
-      "units": 68,
-      "rate": 3.778
+      "start": "02:49",
+      "end": "03:06",
+      "seconds": 17,
+      "units": 83,
+      "rate": 4.882,
+      "title": "潼关设卡、任务与三轮削弱"
     },
     {
-      "start": "00:32",
-      "end": "00:48",
-      "seconds": 16,
-      "units": 47,
-      "rate": 2.938
+      "start": "03:06",
+      "end": "03:39",
+      "seconds": 33,
+      "units": 118,
+      "rate": 3.576,
+      "title": "潼关恢复通行与关中追分"
     },
     {
-      "start": "00:48",
-      "end": "01:00",
-      "seconds": 12,
-      "units": 52,
-      "rate": 4.333
+      "start": "03:39",
+      "end": "03:59",
+      "seconds": 20,
+      "units": 98,
+      "rate": 4.9,
+      "title": "红队连续探路并进入朱雀门"
     },
     {
-      "start": "01:00",
-      "end": "01:12",
-      "seconds": 12,
-      "units": 53,
-      "rate": 4.417
+      "start": "03:59",
+      "end": "04:29",
+      "seconds": 30,
+      "units": 114,
+      "rate": 3.8,
+      "title": "朱雀门第一道设卡与等待风化"
     },
     {
-      "start": "01:12",
-      "end": "01:28",
-      "seconds": 16,
-      "units": 52,
-      "rate": 3.25
+      "start": "04:29",
+      "end": "04:55",
+      "seconds": 26,
+      "units": 50,
+      "rate": 1.923,
+      "title": "第一道设卡继续风化"
     },
     {
-      "start": "01:28",
-      "end": "01:40",
-      "seconds": 12,
-      "units": 54,
-      "rate": 4.5
-    },
-    {
-      "start": "01:40",
-      "end": "01:52",
-      "seconds": 12,
-      "units": 56,
-      "rate": 4.667
-    },
-    {
-      "start": "01:52",
-      "end": "02:04",
-      "seconds": 12,
-      "units": 49,
-      "rate": 4.083
-    },
-    {
-      "start": "02:04",
-      "end": "02:16",
-      "seconds": 12,
-      "units": 58,
-      "rate": 4.833
-    },
-    {
-      "start": "02:16",
-      "end": "02:28",
-      "seconds": 12,
-      "units": 53,
-      "rate": 4.417
-    },
-    {
-      "start": "02:28",
-      "end": "02:40",
-      "seconds": 12,
-      "units": 53,
-      "rate": 4.417
-    },
-    {
-      "start": "02:40",
-      "end": "02:52",
-      "seconds": 12,
-      "units": 57,
-      "rate": 4.75
-    },
-    {
-      "start": "02:52",
-      "end": "03:04",
-      "seconds": 12,
-      "units": 55,
-      "rate": 4.583
-    },
-    {
-      "start": "03:04",
-      "end": "03:16",
-      "seconds": 12,
-      "units": 58,
-      "rate": 4.833
-    },
-    {
-      "start": "03:16",
-      "end": "03:28",
-      "seconds": 12,
-      "units": 49,
-      "rate": 4.083
-    },
-    {
-      "start": "03:28",
-      "end": "03:40",
-      "seconds": 12,
-      "units": 63,
-      "rate": 5.25
-    },
-    {
-      "start": "03:40",
-      "end": "03:52",
-      "seconds": 12,
-      "units": 55,
-      "rate": 4.583
-    },
-    {
-      "start": "03:52",
-      "end": "04:04",
-      "seconds": 12,
-      "units": 61,
-      "rate": 5.083
-    },
-    {
-      "start": "04:04",
-      "end": "04:16",
-      "seconds": 12,
-      "units": 53,
-      "rate": 4.417
-    },
-    {
-      "start": "04:16",
-      "end": "04:28",
-      "seconds": 12,
-      "units": 56,
-      "rate": 4.667
-    },
-    {
-      "start": "04:28",
-      "end": "04:40",
-      "seconds": 12,
-      "units": 59,
-      "rate": 4.917
-    },
-    {
-      "start": "04:40",
-      "end": "04:52",
-      "seconds": 12,
-      "units": 62,
-      "rate": 5.167
-    },
-    {
-      "start": "04:52",
+      "start": "04:55",
       "end": "05:06",
-      "seconds": 14,
-      "units": 61,
-      "rate": 4.357
+      "seconds": 11,
+      "units": 54,
+      "rate": 4.909,
+      "title": "第二道设卡与宫门核验开始"
     },
     {
       "start": "05:06",
-      "end": "05:18",
-      "seconds": 12,
-      "units": 60,
-      "rate": 5
-    },
-    {
-      "start": "05:18",
-      "end": "05:36",
-      "seconds": 18,
-      "units": 59,
-      "rate": 3.278
-    },
-    {
-      "start": "05:36",
-      "end": "05:40",
-      "seconds": 4,
-      "units": 20,
-      "rate": 5
-    },
-    {
-      "start": "05:40",
-      "end": "05:48",
-      "seconds": 8,
-      "units": 42,
-      "rate": 5.25
-    },
-    {
-      "start": "05:48",
-      "end": "05:52",
-      "seconds": 4,
-      "units": 22,
-      "rate": 5.5
-    },
-    {
-      "start": "05:52",
-      "end": "06:18",
-      "seconds": 26,
-      "units": 125,
-      "rate": 4.808
+      "end": "05:23",
+      "seconds": 17,
+      "units": 82,
+      "rate": 4.824,
+      "title": "核验、送达与最终结算"
     }
   ],
-  "team_identity": {
-    "2707": {
-      "official_name": "神经突触袭击队",
-      "spoken_pronunciation": "神经突触袭击队"
-    },
-    "2804": {
-      "official_name": "代码即答案",
-      "spoken_pronunciation": "代码即答案"
-    }
-  },
-  "backup_results": [
-    {
-      "original": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\42177_2x_ui_synced.md",
-      "backup": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\backups\\2x_20260721_tts\\42177_2x_ui_synced.md",
-      "match": true,
-      "original_sha256": "98ff59f9535f3c22416e8e50cf0dd3ab35c061f58f61d73faa848296c12f910d",
-      "backup_sha256": "98ff59f9535f3c22416e8e50cf0dd3ab35c061f58f61d73faa848296c12f910d"
-    },
-    {
-      "original": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\42177_2x_voice_only.md",
-      "backup": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\backups\\2x_20260721_tts\\42177_2x_voice_only.md",
-      "match": true,
-      "original_sha256": "0610ca668a5e4b28c54c9f129211b7d9e5d2cca2637e474943be2a99babc032c",
-      "backup_sha256": "0610ca668a5e4b28c54c9f129211b7d9e5d2cca2637e474943be2a99babc032c"
-    },
-    {
-      "original": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\42177_2x_audit.json",
-      "backup": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42177\\backups\\2x_20260721_tts\\42177_2x_audit.json",
-      "match": true,
-      "original_sha256": "025e6be37ab53f79f6b1d2546dbcefdf182eb17f1fdfe46ecc6b51e33be94dca",
-      "backup_sha256": "025e6be37ab53f79f6b1d2546dbcefdf182eb17f1fdfe46ecc6b51e33be94dca"
-    }
+  "event_anchor_mode": true,
+  "image_timebase_mode": true,
+  "image_timebase_notes": [
+    "opening approximately 10 seconds",
+    "gameplay preparation begins around the post-opening fifth round",
+    "Jiangnan Dock arrival anchored at approximately 00:44",
+    "gate verification begins at approximately 05:04",
+    "missing openings and frame gaps must be recalculated per replay"
   ],
-  "failure_count": 0,
-  "failures": []
+  "source_timeline_end_seconds": 323,
+  "program_timeline_end_seconds": 323
 }

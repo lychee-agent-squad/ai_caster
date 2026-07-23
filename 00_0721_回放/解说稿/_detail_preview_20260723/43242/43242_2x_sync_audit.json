@@ -1,0 +1,198 @@
+{
+  "match_id": "43242",
+  "passed": true,
+  "issues": [],
+  "max_process_lag": 2.0,
+  "max_result_lead": -1.5,
+  "rows": [
+    {
+      "segment": 2,
+      "title": "首次选路",
+      "start": 10,
+      "end": 25,
+      "image_seconds": 24.0,
+      "lag": -14.0,
+      "process": true
+    },
+    {
+      "segment": 3,
+      "title": "蓝队先探梅关再派队清障",
+      "start": 25,
+      "end": 41,
+      "image_seconds": 36.0,
+      "lag": -11.0,
+      "process": true
+    },
+    {
+      "segment": 4,
+      "title": "蓝队梅关先拿三十分",
+      "start": 41,
+      "end": 58,
+      "image_seconds": 42.5,
+      "lag": -1.5,
+      "process": true
+    },
+    {
+      "segment": 5,
+      "title": "天气实际影响",
+      "start": 58,
+      "end": 61,
+      "image_seconds": 59.0,
+      "lag": -1.0,
+      "process": true
+    },
+    {
+      "segment": 6,
+      "title": "红队转入江南码头，红队洞庭水驿探路标记",
+      "start": 61,
+      "end": 74,
+      "image_seconds": 66.0,
+      "lag": -5.0,
+      "process": true
+    },
+    {
+      "segment": 7,
+      "title": "蓝队荆襄大驿探路标记，红队短程马加速进洞庭，蓝队荆襄任务累计六十",
+      "start": 74,
+      "end": 104,
+      "image_seconds": 72.5,
+      "lag": 1.5,
+      "process": true
+    },
+    {
+      "segment": 8,
+      "title": "蓝队派队清除武关障碍",
+      "start": 104,
+      "end": 115,
+      "image_seconds": 113.0,
+      "lag": -9.0,
+      "process": true
+    },
+    {
+      "segment": 9,
+      "title": "洛阳驿连续争夺",
+      "start": 115,
+      "end": 128,
+      "image_seconds": 118.5,
+      "lag": -3.5,
+      "process": true
+    },
+    {
+      "segment": 10,
+      "title": "洛阳驿再次争夺",
+      "start": 128,
+      "end": 135,
+      "image_seconds": 129.5,
+      "lag": -1.5,
+      "process": true
+    },
+    {
+      "segment": 11,
+      "title": "洛阳驿再次争夺",
+      "start": 135,
+      "end": 142,
+      "image_seconds": 133.0,
+      "lag": 2.0,
+      "process": true
+    },
+    {
+      "segment": 12,
+      "title": "洛阳驿再次争夺",
+      "start": 142,
+      "end": 149,
+      "image_seconds": 144.0,
+      "lag": -2.0,
+      "process": true
+    },
+    {
+      "segment": 13,
+      "title": "洛阳驿再次争夺",
+      "start": 149,
+      "end": 156,
+      "image_seconds": 147.5,
+      "lag": 1.5,
+      "process": true
+    },
+    {
+      "segment": 14,
+      "title": "洛阳驿再次争夺",
+      "start": 156,
+      "end": 163,
+      "image_seconds": 158.5,
+      "lag": -2.5,
+      "process": true
+    },
+    {
+      "segment": 15,
+      "title": "洛阳驿再次争夺",
+      "start": 163,
+      "end": 170,
+      "image_seconds": 162.0,
+      "lag": 1.0,
+      "process": true
+    },
+    {
+      "segment": 16,
+      "title": "天气实际影响",
+      "start": 170,
+      "end": 173,
+      "image_seconds": 169.0,
+      "lag": 1.0,
+      "process": true
+    },
+    {
+      "segment": 17,
+      "title": "洛阳最后两场争夺",
+      "start": 173,
+      "end": 199,
+      "image_seconds": 176.5,
+      "lag": -3.5,
+      "process": true
+    },
+    {
+      "segment": 18,
+      "title": "蓝队补足九十分任务分，两队到武关、红队探潼关",
+      "start": 199,
+      "end": 217,
+      "image_seconds": 205.5,
+      "lag": -6.5,
+      "process": true
+    },
+    {
+      "segment": 19,
+      "title": "两队通过潼关冲向宫门",
+      "start": 217,
+      "end": 240,
+      "image_seconds": 226.0,
+      "lag": -9.0,
+      "process": true
+    },
+    {
+      "segment": 20,
+      "title": "双方抵达朱雀门",
+      "start": 240,
+      "end": 254,
+      "image_seconds": 252.5,
+      "lag": -12.5,
+      "process": true
+    },
+    {
+      "segment": 21,
+      "title": "蓝队率先完成送达，红队仍在等待验核",
+      "start": 254,
+      "end": 285,
+      "image_seconds": 260.5,
+      "lag": -6.5,
+      "process": true
+    },
+    {
+      "segment": 22,
+      "title": "红队终于启动验核",
+      "start": 285,
+      "end": 320,
+      "image_seconds": 294.0,
+      "lag": -9.0,
+      "process": true
+    }
+  ]
+}

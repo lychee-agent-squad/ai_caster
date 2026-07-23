@@ -1,0 +1,153 @@
+{
+  "target_program_seconds": 330,
+  "old_segments": 35,
+  "new_segments": 24,
+  "spoken_units": 1349,
+  "average_rate": 4.088,
+  "max_segment_rate": 4.455,
+  "retained_source_segments": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    15,
+    16,
+    17,
+    18,
+    20,
+    23,
+    25,
+    28,
+    29,
+    31,
+    32,
+    34,
+    35
+  ],
+  "dropped": [
+    {
+      "source_segment": 12,
+      "source_range": "02:32-02:55",
+      "title": "蓝队再次拿权"
+    },
+    {
+      "source_segment": 13,
+      "source_range": "02:55-03:15",
+      "title": "快马拉开水路先手"
+    },
+    {
+      "source_segment": 14,
+      "source_range": "03:15-03:34",
+      "title": "山雾没有命中路线"
+    },
+    {
+      "source_segment": 19,
+      "source_range": "04:21-04:35",
+      "title": "蓝队先入武关"
+    },
+    {
+      "source_segment": 21,
+      "source_range": "04:48-05:00",
+      "title": "削弱与增援四波对冲"
+    },
+    {
+      "source_segment": 22,
+      "source_range": "05:00-05:12",
+      "title": "蓝队离场，关卡开始风化"
+    },
+    {
+      "source_segment": 24,
+      "source_range": "05:25-05:42",
+      "title": "暴雨落空，封锁继续"
+    },
+    {
+      "source_segment": 26,
+      "source_range": "05:55-06:08",
+      "title": "宫宴冲刺开启"
+    },
+    {
+      "source_segment": 27,
+      "source_range": "06:08-06:18",
+      "title": "蓝队疾行，关卡剩一点"
+    },
+    {
+      "source_segment": 30,
+      "source_range": "06:42-06:55",
+      "title": "蓝队逼近朱雀门"
+    },
+    {
+      "source_segment": 33,
+      "source_range": "07:20-07:31",
+      "title": "红队继续赶路"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42184\\42184_capture_manifest.json",
+    "frames": 244,
+    "median_actual_start_gap_ms": 2006,
+    "max_actual_start_gap_ms": 63669,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      41000,
+      56000,
+      69000,
+      80000,
+      96000,
+      104000,
+      120000,
+      136000,
+      152000,
+      214000,
+      227000,
+      242000,
+      250000,
+      261000,
+      288000,
+      312000,
+      342000,
+      378000,
+      388000,
+      402000,
+      415000,
+      428000,
+      440000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42184",
+  "program_end_seconds": 330,
+  "ui_sha256": "3f1d6339843e20464e51b916c6d494b24360cb5da99a92a45858b45c1a5fabf2",
+  "voice_sha256": "1681a444605ebfeaa7d2cb51c3bc620c33222ca9317025315cd605d782e1bbd9",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42184\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42184\\replay.txt",
+      "source_sha256": "47cf4b09122c1b7dadf4cd8931bb719df8fd25120925228abf0aeef4f2f6a445",
+      "target_sha256": "47cf4b09122c1b7dadf4cd8931bb719df8fd25120925228abf0aeef4f2f6a445",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42184\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42184\\data.csv",
+      "source_sha256": "6dc37c770143bff694e65bfbc32be5b0d6739ffc64f4b30ce6a420eaf83ce4fb",
+      "target_sha256": "6dc37c770143bff694e65bfbc32be5b0d6739ffc64f4b30ce6a420eaf83ce4fb",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

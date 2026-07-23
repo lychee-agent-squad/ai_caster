@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<speak version="1.0" xml:lang="zh-CN">
+  <p xml:id="seg-01">
+    <s>
+      <prosody rate="99%" pitch="+1st" volume="medium">欢迎来到本场荔枝贡运对抗赛！</prosody>
+    </s>
+    <break time="130ms" />
+    <s>
+      <prosody rate="99%" pitch="+1st" volume="medium">红队我想见贵妃，对阵蓝队虎先锋。</prosody>
+    </s>
+    <break time="130ms" />
+    <s>
+      <prosody rate="99%" pitch="+1st" volume="medium">双方各带一百篓好果，鲜度全满，从岭南果园出发。</prosody>
+    </s>
+    <break time="130ms" />
+    <s>
+      <prosody rate="99%" pitch="+1st" volume="medium">穿过朱雀门，把荔枝送进兴庆宫！</prosody>
+    </s>
+    <break time="130ms" />
+    <s>
+      <prosody rate="99%" pitch="+1st" volume="medium">
+        <emphasis level="strong">比赛开始</emphasis>啦！</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-02">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">蓝队开局连派两支小分队，一支赶往洞庭水驿，一支直奔武关，先把中后段的障碍清掉。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">红队没有分兵，主车队沿官道稳定推进。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-03">
+    <s>
+      <prosody rate="103%" pitch="+1st" volume="medium">两支小分队都兑现了！</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="103%" pitch="+1st" volume="medium">洞庭水驿、武关的障碍接连清除，蓝队提前打开通路。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="103%" pitch="+1st" volume="medium">注意，这次清障本身不加<emphasis level="strong">任务分，换来的是后续少停一步</emphasis>。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-04">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">双方几乎同时抵达南岭驿，前段没有拉开距离。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">蓝队的优势还藏在前方通路里，红队则保留了全部小分队人手，这场竞速才刚刚起势。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-05">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">蓝队又派一支小分队探查洞庭水驿。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">回报很快传回：前方没有障碍，还有通关凭证。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">更重要的是，探路标记能压缩到站后的换运时间，蓝队在给下一段提速做准备。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-06">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">两队又是同一时间进入江南码头。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">红队马上派队探查洞庭，随后拿到短程马并立刻使用短程马加速，想在水路入口抢出一点身位。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-07">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">蓝队先到洞庭水驿，前面的探路标记生效，换运时间直接减半。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">红队紧跟着进站，红队的侦察增益同样生效。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">漂亮，两队都把探路收益用上了，蓝队仍领先一个处理节奏。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-08">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">进入长距离水路，鲜度压力上来了。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">红队先损失一篓好果，蓝队紧接着也掉了一篓。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">现在双方还是九十九篓好果，差距要看谁能更快离开高损耗路段。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-09">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">蓝队率先进入洛阳驿，快马到手，马上使用快马加速！</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">红队随后赶到，但蓝队已经重新起速，这次资源转化得很干脆，路线领先开始变得清晰了。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-10">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">蓝队途中继续侦察潼关，情报先走一步，主车队也率先抵达武关。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">红队稍后跟进，同样派队探查潼关。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">两边都在为入关交接减时，但先手仍握在蓝队手里。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-11">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">蓝队先进入潼关驿，探路增益再次生效，入关交接时间直接减半。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">红队随后赶到，也吃到了同样的减时收益。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">双方处理都很快，可蓝队把领先稳稳带出了潼关。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-12">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">蓝队离站后再派小分队探查朱雀门，确认宫门前没有障碍。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">红队没有停，沿支路持续推进。</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">这个阶段没有正面对抗，拼的就是谁少等一次、谁先抵达终点流程。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-13">
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">两队又各损失一篓好果，蓝队随后率先抵达朱雀门，红队很快追到。</prosody>
+    </s>
+    <break time="110ms" />
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">可是宫宴冲刺还没开放，核验暂时不能开始，双方只能在门前等这一声发令。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-14">
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">冲刺阶段开放了！</prosody>
+    </s>
+    <break time="110ms" />
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">蓝队没有犹豫，立刻启动宫门核验；</prosody>
+    </s>
+    <break time="110ms" />
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">红队此时仍然选择等待。</prosody>
+    </s>
+    <break time="110ms" />
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">核验流程走完，蓝队率先拿到进宫资格，最关键的一次决策已经分出先后！</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-15">
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">蓝队<emphasis level="strong">核验完成</emphasis>，马上交出疾行令冲向兴庆宫。</prosody>
+    </s>
+    <break time="110ms" />
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">到了，<emphasis level="strong">送达成功</emphasis>！</prosody>
+    </s>
+    <break time="110ms" />
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">虎先锋保住九十六篓好果，鲜度七十五点四六，先拿到四百二十七分！</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-16">
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">蓝队已经完成交付，红队却还停在朱雀门，没有启动核验。</prosody>
+    </s>
+    <break time="110ms" />
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">哎呀，这段等待正在不断消耗鲜度，也把最后的追赶时间一点点让了出去。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-17">
+    <s>
+      <prosody rate="95%" pitch="-1st" volume="medium">红队还是没有行动。</prosody>
+    </s>
+    <break time="210ms" />
+    <s>
+      <prosody rate="95%" pitch="-1st" volume="medium">鲜度继续往下掉，好果又损失一篓，手里的果品优势已经被拖没了。</prosody>
+    </s>
+    <break time="210ms" />
+    <s>
+      <prosody rate="95%" pitch="-1st" volume="medium">蓝队的四百二十七分摆在这里，红队现在只能先把完整交付做出来。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-18">
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">红队终于启动宫门核验了！</prosody>
+    </s>
+    <break time="110ms" />
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">完整流程走完，进宫资格到手。</prosody>
+    </s>
+    <break time="110ms" />
+    <s>
+      <prosody rate="108%" pitch="+2st" volume="loud">时间已经非常紧，红队必须马上冲向兴庆宫，不能再停了。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-19">
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">红队交出疾行令，压线冲进兴庆宫，完成送达！</prosody>
+    </s>
+    <break time="150ms" />
+    <s>
+      <prosody rate="97%" pitch="+0st" volume="medium">九十五篓好果，鲜度六十五点五九，<emphasis level="strong">总分四百零九</emphasis>。</prosody>
+    </s>
+  </p>
+  <p xml:id="seg-20">
+    <s>
+      <prosody rate="94%" pitch="+0st" volume="medium">
+        <emphasis level="strong">最终比分，红队我想见贵妃四百零九，蓝队虎先锋</emphasis>四百二十七。</prosody>
+    </s>
+    <break time="320ms" />
+    <s>
+      <prosody rate="94%" pitch="+0st" volume="medium">蓝队多保住一篓好果，鲜度也高出近十分，优势全部兑现。</prosody>
+    </s>
+    <break time="320ms" />
+    <s>
+      <prosody rate="94%" pitch="+0st" volume="medium">恭喜虎先锋，<emphasis level="strong">拿下本场胜利</emphasis>！</prosody>
+    </s>
+  </p>
+</speak>

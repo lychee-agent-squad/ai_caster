@@ -1,0 +1,19 @@
+{
+  "segments": 32,
+  "voice_parity": true,
+  "ssml_parity": true,
+  "director_parity": true,
+  "xml_valid": true,
+  "allowed_tags_only": true,
+  "tags": [
+    "break",
+    "emphasis",
+    "p",
+    "prosody",
+    "s",
+    "speak"
+  ],
+  "ai_pattern_hits": [],
+  "ambiguous_pronoun_hits": [],
+  "long_sentence_review": []
+}

@@ -1,0 +1,180 @@
+{
+  "match_id": "43259",
+  "passed": true,
+  "issues": [],
+  "max_process_lag": 2.5,
+  "max_result_lead": -2.0,
+  "rows": [
+    {
+      "segment": 2,
+      "title": "蓝队清障完成",
+      "start": 10,
+      "end": 20,
+      "image_seconds": 8.5,
+      "lag": 1.5,
+      "process": true
+    },
+    {
+      "segment": 3,
+      "title": "首次选路",
+      "start": 20,
+      "end": 43,
+      "image_seconds": 24.5,
+      "lag": -4.5,
+      "process": true
+    },
+    {
+      "segment": 4,
+      "title": "天气实际影响",
+      "start": 43,
+      "end": 46,
+      "image_seconds": 44.0,
+      "lag": -1.0,
+      "process": true
+    },
+    {
+      "segment": 5,
+      "title": "路线继续推进",
+      "start": 46,
+      "end": 55,
+      "image_seconds": 48.0,
+      "lag": -2.0,
+      "process": true
+    },
+    {
+      "segment": 6,
+      "title": "红队任务完成",
+      "start": 55,
+      "end": 80,
+      "image_seconds": 64.0,
+      "lag": -9.0,
+      "process": true
+    },
+    {
+      "segment": 7,
+      "title": "蓝队折返南岭驿，蓝队任务完成，红队果品折损",
+      "start": 80,
+      "end": 108,
+      "image_seconds": 106.0,
+      "lag": -26.0,
+      "process": true
+    },
+    {
+      "segment": 8,
+      "title": "蓝队进点",
+      "start": 108,
+      "end": 113,
+      "image_seconds": 105.5,
+      "lag": 2.5,
+      "process": true
+    },
+    {
+      "segment": 9,
+      "title": "红队资源使用",
+      "start": 113,
+      "end": 121,
+      "image_seconds": 115.0,
+      "lag": -2.0,
+      "process": true
+    },
+    {
+      "segment": 10,
+      "title": "天气实际影响",
+      "start": 121,
+      "end": 138,
+      "image_seconds": 119.5,
+      "lag": 1.5,
+      "process": true
+    },
+    {
+      "segment": 11,
+      "title": "红队任务完成",
+      "start": 138,
+      "end": 148,
+      "image_seconds": 143.5,
+      "lag": -5.5,
+      "process": true
+    },
+    {
+      "segment": 12,
+      "title": "蓝队进点",
+      "start": 148,
+      "end": 170,
+      "image_seconds": 151.0,
+      "lag": -3.0,
+      "process": true
+    },
+    {
+      "segment": 13,
+      "title": "红队进点",
+      "start": 170,
+      "end": 175,
+      "image_seconds": 173.0,
+      "lag": -3.0,
+      "process": true
+    },
+    {
+      "segment": 14,
+      "title": "天气实际影响",
+      "start": 175,
+      "end": 185,
+      "image_seconds": 174.5,
+      "lag": 0.5,
+      "process": true
+    },
+    {
+      "segment": 15,
+      "title": "红队进点",
+      "start": 185,
+      "end": 193,
+      "image_seconds": 191.0,
+      "lag": -6.0,
+      "process": true
+    },
+    {
+      "segment": 16,
+      "title": "红队送达成功",
+      "start": 193,
+      "end": 216,
+      "image_seconds": 200.0,
+      "lag": -7.0,
+      "process": true
+    },
+    {
+      "segment": 17,
+      "title": "蓝队任务完成",
+      "start": 216,
+      "end": 225,
+      "image_seconds": 223.0,
+      "lag": -7.0,
+      "process": true
+    },
+    {
+      "segment": 18,
+      "title": "设卡风化",
+      "start": 225,
+      "end": 248,
+      "image_seconds": 226.5,
+      "lag": -1.5,
+      "process": true
+    },
+    {
+      "segment": 19,
+      "title": "蓝队任务完成",
+      "start": 248,
+      "end": 261,
+      "image_seconds": 256.0,
+      "lag": -8.0,
+      "process": true
+    },
+    {
+      "segment": 20,
+      "title": "蓝队任务完成",
+      "start": 261,
+      "end": 320,
+      "image_seconds": 272.0,
+      "lag": -11.0,
+      "process": true
+    }
+  ]
+}

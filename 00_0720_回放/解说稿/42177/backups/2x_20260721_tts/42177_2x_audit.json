@@ -1,0 +1,233 @@
+﻿{
+  "segments": 30,
+  "timeline_end_seconds": 378,
+  "voice_paragraphs": 30,
+  "voice_spoken_units": 1807,
+  "average_segment_rate": 4.78,
+  "max_segment_rate": 5.5,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:14",
+      "seconds": 14,
+      "units": 69,
+      "rate": 4.929
+    },
+    {
+      "start": "00:14",
+      "end": "00:32",
+      "seconds": 18,
+      "units": 74,
+      "rate": 4.111
+    },
+    {
+      "start": "00:32",
+      "end": "00:48",
+      "seconds": 16,
+      "units": 72,
+      "rate": 4.5
+    },
+    {
+      "start": "00:48",
+      "end": "01:00",
+      "seconds": 12,
+      "units": 60,
+      "rate": 5.0
+    },
+    {
+      "start": "01:00",
+      "end": "01:12",
+      "seconds": 12,
+      "units": 65,
+      "rate": 5.417
+    },
+    {
+      "start": "01:12",
+      "end": "01:28",
+      "seconds": 16,
+      "units": 66,
+      "rate": 4.125
+    },
+    {
+      "start": "01:28",
+      "end": "01:40",
+      "seconds": 12,
+      "units": 63,
+      "rate": 5.25
+    },
+    {
+      "start": "01:40",
+      "end": "01:52",
+      "seconds": 12,
+      "units": 57,
+      "rate": 4.75
+    },
+    {
+      "start": "01:52",
+      "end": "02:04",
+      "seconds": 12,
+      "units": 60,
+      "rate": 5.0
+    },
+    {
+      "start": "02:04",
+      "end": "02:16",
+      "seconds": 12,
+      "units": 59,
+      "rate": 4.917
+    },
+    {
+      "start": "02:16",
+      "end": "02:28",
+      "seconds": 12,
+      "units": 55,
+      "rate": 4.583
+    },
+    {
+      "start": "02:28",
+      "end": "02:40",
+      "seconds": 12,
+      "units": 64,
+      "rate": 5.333
+    },
+    {
+      "start": "02:40",
+      "end": "02:52",
+      "seconds": 12,
+      "units": 53,
+      "rate": 4.417
+    },
+    {
+      "start": "02:52",
+      "end": "03:04",
+      "seconds": 12,
+      "units": 52,
+      "rate": 4.333
+    },
+    {
+      "start": "03:04",
+      "end": "03:16",
+      "seconds": 12,
+      "units": 63,
+      "rate": 5.25
+    },
+    {
+      "start": "03:16",
+      "end": "03:28",
+      "seconds": 12,
+      "units": 55,
+      "rate": 4.583
+    },
+    {
+      "start": "03:28",
+      "end": "03:40",
+      "seconds": 12,
+      "units": 64,
+      "rate": 5.333
+    },
+    {
+      "start": "03:40",
+      "end": "03:52",
+      "seconds": 12,
+      "units": 59,
+      "rate": 4.917
+    },
+    {
+      "start": "03:52",
+      "end": "04:04",
+      "seconds": 12,
+      "units": 57,
+      "rate": 4.75
+    },
+    {
+      "start": "04:04",
+      "end": "04:16",
+      "seconds": 12,
+      "units": 61,
+      "rate": 5.083
+    },
+    {
+      "start": "04:16",
+      "end": "04:28",
+      "seconds": 12,
+      "units": 66,
+      "rate": 5.5
+    },
+    {
+      "start": "04:28",
+      "end": "04:40",
+      "seconds": 12,
+      "units": 60,
+      "rate": 5.0
+    },
+    {
+      "start": "04:40",
+      "end": "04:52",
+      "seconds": 12,
+      "units": 60,
+      "rate": 5.0
+    },
+    {
+      "start": "04:52",
+      "end": "05:06",
+      "seconds": 14,
+      "units": 70,
+      "rate": 5.0
+    },
+    {
+      "start": "05:06",
+      "end": "05:18",
+      "seconds": 12,
+      "units": 60,
+      "rate": 5.0
+    },
+    {
+      "start": "05:18",
+      "end": "05:36",
+      "seconds": 18,
+      "units": 60,
+      "rate": 3.333
+    },
+    {
+      "start": "05:36",
+      "end": "05:40",
+      "seconds": 4,
+      "units": 21,
+      "rate": 5.25
+    },
+    {
+      "start": "05:40",
+      "end": "05:48",
+      "seconds": 8,
+      "units": 43,
+      "rate": 5.375
+    },
+    {
+      "start": "05:48",
+      "end": "05:52",
+      "seconds": 4,
+      "units": 20,
+      "rate": 5.0
+    },
+    {
+      "start": "05:52",
+      "end": "06:18",
+      "seconds": 26,
+      "units": 119,
+      "rate": 4.577
+    }
+  ],
+  "team_identity": {
+    "2707": {
+      "official_name": "神经突触袭击队",
+      "spoken_pronunciation": "神经突触袭击队"
+    },
+    "2804": {
+      "official_name": "代码即答案",
+      "spoken_pronunciation": "代码即答案"
+    }
+  },
+  "backup_results": [],
+  "failure_count": 0,
+  "failures": []
+}

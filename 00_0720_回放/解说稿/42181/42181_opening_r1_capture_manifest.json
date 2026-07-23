@@ -1,0 +1,689 @@
+{
+  "match_id": "42181",
+  "playback_speed": "2x",
+  "capture_started_at": "2026-07-21T10:06:26.307Z",
+  "duration_ms": 35035,
+  "interval_target_ms": 250,
+  "frames": [
+    {
+      "index": 0,
+      "elapsed_ms": 0,
+      "file": "r1_000_00000ms.png"
+    },
+    {
+      "index": 1,
+      "elapsed_ms": 252,
+      "file": "r1_001_00252ms.png"
+    },
+    {
+      "index": 2,
+      "elapsed_ms": 515,
+      "file": "r1_002_00515ms.png"
+    },
+    {
+      "index": 3,
+      "elapsed_ms": 767,
+      "file": "r1_003_00767ms.png"
+    },
+    {
+      "index": 4,
+      "elapsed_ms": 1017,
+      "file": "r1_004_01017ms.png"
+    },
+    {
+      "index": 5,
+      "elapsed_ms": 1281,
+      "file": "r1_005_01281ms.png"
+    },
+    {
+      "index": 6,
+      "elapsed_ms": 1534,
+      "file": "r1_006_01534ms.png"
+    },
+    {
+      "index": 7,
+      "elapsed_ms": 1799,
+      "file": "r1_007_01799ms.png"
+    },
+    {
+      "index": 8,
+      "elapsed_ms": 2050,
+      "file": "r1_008_02050ms.png"
+    },
+    {
+      "index": 9,
+      "elapsed_ms": 2305,
+      "file": "r1_009_02305ms.png"
+    },
+    {
+      "index": 10,
+      "elapsed_ms": 2567,
+      "file": "r1_010_02567ms.png"
+    },
+    {
+      "index": 11,
+      "elapsed_ms": 2819,
+      "file": "r1_011_02819ms.png"
+    },
+    {
+      "index": 12,
+      "elapsed_ms": 3084,
+      "file": "r1_012_03084ms.png"
+    },
+    {
+      "index": 13,
+      "elapsed_ms": 3335,
+      "file": "r1_013_03335ms.png"
+    },
+    {
+      "index": 14,
+      "elapsed_ms": 3599,
+      "file": "r1_014_03599ms.png"
+    },
+    {
+      "index": 15,
+      "elapsed_ms": 3865,
+      "file": "r1_015_03865ms.png"
+    },
+    {
+      "index": 16,
+      "elapsed_ms": 4129,
+      "file": "r1_016_04129ms.png"
+    },
+    {
+      "index": 17,
+      "elapsed_ms": 4389,
+      "file": "r1_017_04389ms.png"
+    },
+    {
+      "index": 18,
+      "elapsed_ms": 4651,
+      "file": "r1_018_04651ms.png"
+    },
+    {
+      "index": 19,
+      "elapsed_ms": 4908,
+      "file": "r1_019_04908ms.png"
+    },
+    {
+      "index": 20,
+      "elapsed_ms": 5158,
+      "file": "r1_020_05158ms.png"
+    },
+    {
+      "index": 21,
+      "elapsed_ms": 5418,
+      "file": "r1_021_05418ms.png"
+    },
+    {
+      "index": 22,
+      "elapsed_ms": 5677,
+      "file": "r1_022_05677ms.png"
+    },
+    {
+      "index": 23,
+      "elapsed_ms": 5928,
+      "file": "r1_023_05928ms.png"
+    },
+    {
+      "index": 24,
+      "elapsed_ms": 6188,
+      "file": "r1_024_06188ms.png"
+    },
+    {
+      "index": 25,
+      "elapsed_ms": 6442,
+      "file": "r1_025_06442ms.png"
+    },
+    {
+      "index": 26,
+      "elapsed_ms": 6706,
+      "file": "r1_026_06706ms.png"
+    },
+    {
+      "index": 27,
+      "elapsed_ms": 6967,
+      "file": "r1_027_06967ms.png"
+    },
+    {
+      "index": 28,
+      "elapsed_ms": 7230,
+      "file": "r1_028_07230ms.png"
+    },
+    {
+      "index": 29,
+      "elapsed_ms": 7494,
+      "file": "r1_029_07494ms.png"
+    },
+    {
+      "index": 30,
+      "elapsed_ms": 7757,
+      "file": "r1_030_07757ms.png"
+    },
+    {
+      "index": 31,
+      "elapsed_ms": 8008,
+      "file": "r1_031_08008ms.png"
+    },
+    {
+      "index": 32,
+      "elapsed_ms": 8267,
+      "file": "r1_032_08267ms.png"
+    },
+    {
+      "index": 33,
+      "elapsed_ms": 8523,
+      "file": "r1_033_08523ms.png"
+    },
+    {
+      "index": 34,
+      "elapsed_ms": 8785,
+      "file": "r1_034_08785ms.png"
+    },
+    {
+      "index": 35,
+      "elapsed_ms": 9040,
+      "file": "r1_035_09040ms.png"
+    },
+    {
+      "index": 36,
+      "elapsed_ms": 9304,
+      "file": "r1_036_09304ms.png"
+    },
+    {
+      "index": 37,
+      "elapsed_ms": 9567,
+      "file": "r1_037_09567ms.png"
+    },
+    {
+      "index": 38,
+      "elapsed_ms": 9829,
+      "file": "r1_038_09829ms.png"
+    },
+    {
+      "index": 39,
+      "elapsed_ms": 10086,
+      "file": "r1_039_10086ms.png"
+    },
+    {
+      "index": 40,
+      "elapsed_ms": 10336,
+      "file": "r1_040_10336ms.png"
+    },
+    {
+      "index": 41,
+      "elapsed_ms": 10590,
+      "file": "r1_041_10590ms.png"
+    },
+    {
+      "index": 42,
+      "elapsed_ms": 10855,
+      "file": "r1_042_10855ms.png"
+    },
+    {
+      "index": 43,
+      "elapsed_ms": 11118,
+      "file": "r1_043_11118ms.png"
+    },
+    {
+      "index": 44,
+      "elapsed_ms": 11368,
+      "file": "r1_044_11368ms.png"
+    },
+    {
+      "index": 45,
+      "elapsed_ms": 11631,
+      "file": "r1_045_11631ms.png"
+    },
+    {
+      "index": 46,
+      "elapsed_ms": 11883,
+      "file": "r1_046_11883ms.png"
+    },
+    {
+      "index": 47,
+      "elapsed_ms": 12134,
+      "file": "r1_047_12134ms.png"
+    },
+    {
+      "index": 48,
+      "elapsed_ms": 12396,
+      "file": "r1_048_12396ms.png"
+    },
+    {
+      "index": 49,
+      "elapsed_ms": 12660,
+      "file": "r1_049_12660ms.png"
+    },
+    {
+      "index": 50,
+      "elapsed_ms": 12911,
+      "file": "r1_050_12911ms.png"
+    },
+    {
+      "index": 51,
+      "elapsed_ms": 13162,
+      "file": "r1_051_13162ms.png"
+    },
+    {
+      "index": 52,
+      "elapsed_ms": 13412,
+      "file": "r1_052_13412ms.png"
+    },
+    {
+      "index": 53,
+      "elapsed_ms": 13676,
+      "file": "r1_053_13676ms.png"
+    },
+    {
+      "index": 54,
+      "elapsed_ms": 13940,
+      "file": "r1_054_13940ms.png"
+    },
+    {
+      "index": 55,
+      "elapsed_ms": 14203,
+      "file": "r1_055_14203ms.png"
+    },
+    {
+      "index": 56,
+      "elapsed_ms": 14459,
+      "file": "r1_056_14459ms.png"
+    },
+    {
+      "index": 57,
+      "elapsed_ms": 14717,
+      "file": "r1_057_14717ms.png"
+    },
+    {
+      "index": 58,
+      "elapsed_ms": 14981,
+      "file": "r1_058_14981ms.png"
+    },
+    {
+      "index": 59,
+      "elapsed_ms": 15231,
+      "file": "r1_059_15231ms.png"
+    },
+    {
+      "index": 60,
+      "elapsed_ms": 15487,
+      "file": "r1_060_15487ms.png"
+    },
+    {
+      "index": 61,
+      "elapsed_ms": 15741,
+      "file": "r1_061_15741ms.png"
+    },
+    {
+      "index": 62,
+      "elapsed_ms": 15997,
+      "file": "r1_062_15997ms.png"
+    },
+    {
+      "index": 63,
+      "elapsed_ms": 16250,
+      "file": "r1_063_16250ms.png"
+    },
+    {
+      "index": 64,
+      "elapsed_ms": 16507,
+      "file": "r1_064_16507ms.png"
+    },
+    {
+      "index": 65,
+      "elapsed_ms": 16758,
+      "file": "r1_065_16758ms.png"
+    },
+    {
+      "index": 66,
+      "elapsed_ms": 17022,
+      "file": "r1_066_17022ms.png"
+    },
+    {
+      "index": 67,
+      "elapsed_ms": 17285,
+      "file": "r1_067_17285ms.png"
+    },
+    {
+      "index": 68,
+      "elapsed_ms": 17546,
+      "file": "r1_068_17546ms.png"
+    },
+    {
+      "index": 69,
+      "elapsed_ms": 17803,
+      "file": "r1_069_17803ms.png"
+    },
+    {
+      "index": 70,
+      "elapsed_ms": 18068,
+      "file": "r1_070_18068ms.png"
+    },
+    {
+      "index": 71,
+      "elapsed_ms": 18334,
+      "file": "r1_071_18334ms.png"
+    },
+    {
+      "index": 72,
+      "elapsed_ms": 18584,
+      "file": "r1_072_18584ms.png"
+    },
+    {
+      "index": 73,
+      "elapsed_ms": 18848,
+      "file": "r1_073_18848ms.png"
+    },
+    {
+      "index": 74,
+      "elapsed_ms": 19105,
+      "file": "r1_074_19105ms.png"
+    },
+    {
+      "index": 75,
+      "elapsed_ms": 19367,
+      "file": "r1_075_19367ms.png"
+    },
+    {
+      "index": 76,
+      "elapsed_ms": 19625,
+      "file": "r1_076_19625ms.png"
+    },
+    {
+      "index": 77,
+      "elapsed_ms": 19885,
+      "file": "r1_077_19885ms.png"
+    },
+    {
+      "index": 78,
+      "elapsed_ms": 20144,
+      "file": "r1_078_20144ms.png"
+    },
+    {
+      "index": 79,
+      "elapsed_ms": 20398,
+      "file": "r1_079_20398ms.png"
+    },
+    {
+      "index": 80,
+      "elapsed_ms": 20663,
+      "file": "r1_080_20663ms.png"
+    },
+    {
+      "index": 81,
+      "elapsed_ms": 20915,
+      "file": "r1_081_20915ms.png"
+    },
+    {
+      "index": 82,
+      "elapsed_ms": 21168,
+      "file": "r1_082_21168ms.png"
+    },
+    {
+      "index": 83,
+      "elapsed_ms": 21426,
+      "file": "r1_083_21426ms.png"
+    },
+    {
+      "index": 84,
+      "elapsed_ms": 21677,
+      "file": "r1_084_21677ms.png"
+    },
+    {
+      "index": 85,
+      "elapsed_ms": 21934,
+      "file": "r1_085_21934ms.png"
+    },
+    {
+      "index": 86,
+      "elapsed_ms": 22194,
+      "file": "r1_086_22194ms.png"
+    },
+    {
+      "index": 87,
+      "elapsed_ms": 22447,
+      "file": "r1_087_22447ms.png"
+    },
+    {
+      "index": 88,
+      "elapsed_ms": 22709,
+      "file": "r1_088_22709ms.png"
+    },
+    {
+      "index": 89,
+      "elapsed_ms": 22960,
+      "file": "r1_089_22960ms.png"
+    },
+    {
+      "index": 90,
+      "elapsed_ms": 23211,
+      "file": "r1_090_23211ms.png"
+    },
+    {
+      "index": 91,
+      "elapsed_ms": 23466,
+      "file": "r1_091_23466ms.png"
+    },
+    {
+      "index": 92,
+      "elapsed_ms": 23731,
+      "file": "r1_092_23731ms.png"
+    },
+    {
+      "index": 93,
+      "elapsed_ms": 23993,
+      "file": "r1_093_23993ms.png"
+    },
+    {
+      "index": 94,
+      "elapsed_ms": 24244,
+      "file": "r1_094_24244ms.png"
+    },
+    {
+      "index": 95,
+      "elapsed_ms": 24509,
+      "file": "r1_095_24509ms.png"
+    },
+    {
+      "index": 96,
+      "elapsed_ms": 24774,
+      "file": "r1_096_24774ms.png"
+    },
+    {
+      "index": 97,
+      "elapsed_ms": 25028,
+      "file": "r1_097_25028ms.png"
+    },
+    {
+      "index": 98,
+      "elapsed_ms": 25279,
+      "file": "r1_098_25279ms.png"
+    },
+    {
+      "index": 99,
+      "elapsed_ms": 25541,
+      "file": "r1_099_25541ms.png"
+    },
+    {
+      "index": 100,
+      "elapsed_ms": 25805,
+      "file": "r1_100_25805ms.png"
+    },
+    {
+      "index": 101,
+      "elapsed_ms": 26060,
+      "file": "r1_101_26060ms.png"
+    },
+    {
+      "index": 102,
+      "elapsed_ms": 26311,
+      "file": "r1_102_26311ms.png"
+    },
+    {
+      "index": 103,
+      "elapsed_ms": 26569,
+      "file": "r1_103_26569ms.png"
+    },
+    {
+      "index": 104,
+      "elapsed_ms": 26820,
+      "file": "r1_104_26820ms.png"
+    },
+    {
+      "index": 105,
+      "elapsed_ms": 27073,
+      "file": "r1_105_27073ms.png"
+    },
+    {
+      "index": 106,
+      "elapsed_ms": 27327,
+      "file": "r1_106_27327ms.png"
+    },
+    {
+      "index": 107,
+      "elapsed_ms": 27589,
+      "file": "r1_107_27589ms.png"
+    },
+    {
+      "index": 108,
+      "elapsed_ms": 27842,
+      "file": "r1_108_27842ms.png"
+    },
+    {
+      "index": 109,
+      "elapsed_ms": 28099,
+      "file": "r1_109_28099ms.png"
+    },
+    {
+      "index": 110,
+      "elapsed_ms": 28351,
+      "file": "r1_110_28351ms.png"
+    },
+    {
+      "index": 111,
+      "elapsed_ms": 28606,
+      "file": "r1_111_28606ms.png"
+    },
+    {
+      "index": 112,
+      "elapsed_ms": 28871,
+      "file": "r1_112_28871ms.png"
+    },
+    {
+      "index": 113,
+      "elapsed_ms": 29125,
+      "file": "r1_113_29125ms.png"
+    },
+    {
+      "index": 114,
+      "elapsed_ms": 29386,
+      "file": "r1_114_29386ms.png"
+    },
+    {
+      "index": 115,
+      "elapsed_ms": 29640,
+      "file": "r1_115_29640ms.png"
+    },
+    {
+      "index": 116,
+      "elapsed_ms": 29898,
+      "file": "r1_116_29898ms.png"
+    },
+    {
+      "index": 117,
+      "elapsed_ms": 30163,
+      "file": "r1_117_30163ms.png"
+    },
+    {
+      "index": 118,
+      "elapsed_ms": 30425,
+      "file": "r1_118_30425ms.png"
+    },
+    {
+      "index": 119,
+      "elapsed_ms": 30675,
+      "file": "r1_119_30675ms.png"
+    },
+    {
+      "index": 120,
+      "elapsed_ms": 30940,
+      "file": "r1_120_30940ms.png"
+    },
+    {
+      "index": 121,
+      "elapsed_ms": 31191,
+      "file": "r1_121_31191ms.png"
+    },
+    {
+      "index": 122,
+      "elapsed_ms": 31450,
+      "file": "r1_122_31450ms.png"
+    },
+    {
+      "index": 123,
+      "elapsed_ms": 31701,
+      "file": "r1_123_31701ms.png"
+    },
+    {
+      "index": 124,
+      "elapsed_ms": 31955,
+      "file": "r1_124_31955ms.png"
+    },
+    {
+      "index": 125,
+      "elapsed_ms": 32210,
+      "file": "r1_125_32210ms.png"
+    },
+    {
+      "index": 126,
+      "elapsed_ms": 32475,
+      "file": "r1_126_32475ms.png"
+    },
+    {
+      "index": 127,
+      "elapsed_ms": 32741,
+      "file": "r1_127_32741ms.png"
+    },
+    {
+      "index": 128,
+      "elapsed_ms": 32991,
+      "file": "r1_128_32991ms.png"
+    },
+    {
+      "index": 129,
+      "elapsed_ms": 33252,
+      "file": "r1_129_33252ms.png"
+    },
+    {
+      "index": 130,
+      "elapsed_ms": 33503,
+      "file": "r1_130_33503ms.png"
+    },
+    {
+      "index": 131,
+      "elapsed_ms": 33754,
+      "file": "r1_131_33754ms.png"
+    },
+    {
+      "index": 132,
+      "elapsed_ms": 34018,
+      "file": "r1_132_34018ms.png"
+    },
+    {
+      "index": 133,
+      "elapsed_ms": 34267,
+      "file": "r1_133_34267ms.png"
+    },
+    {
+      "index": 134,
+      "elapsed_ms": 34525,
+      "file": "r1_134_34525ms.png"
+    },
+    {
+      "index": 135,
+      "elapsed_ms": 34777,
+      "file": "r1_135_34777ms.png"
+    }
+  ]
+}

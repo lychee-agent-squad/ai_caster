@@ -1,0 +1,8 @@
+{
+  "match_id": "42185",
+  "status": "invalidated_and_preserved",
+  "reason": "The responsive browser width changed and the fixed coordinates left playback at 1x.",
+  "formal_output_eligible": false,
+  "preserved_frames_directory": "frames_invalid_1x_20260721",
+  "action": "Recalibrated visible controls and confirmed 2x on screen. A second automation attempt clicked while the new page was still loading; that evidence was also invalidated and preserved in frames_invalid_loading_click_20260721. The clean recapture waits for the loading screen to disappear before selecting speed."
+}

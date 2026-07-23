@@ -1,0 +1,15 @@
+{
+  "match_id": "42201",
+  "playback_speed": "2x",
+  "capture_manifest": "42201_capture_manifest.json",
+  "frames_directory": "frames",
+  "contact_sheets": [
+    "contact_sheets/contact_01.jpg",
+    "contact_sheets/contact_02.jpg",
+    "contact_sheets/contact_03.jpg",
+    "contact_sheets/contact_04.jpg"
+  ],
+  "speed_proof": "frames/frame_0000_speed_2x.jpg",
+  "settlement_proof": "frames/frame_final_settlement.jpg",
+  "coverage": "Opening through stable displayed settlement at confirmed 2x."
+}

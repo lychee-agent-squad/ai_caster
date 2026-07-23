@@ -1,0 +1,121 @@
+{
+  "target_program_seconds": 262,
+  "old_segments": 29,
+  "new_segments": 23,
+  "spoken_units": 1245,
+  "average_rate": 4.752,
+  "max_segment_rate": 5.067,
+  "retained_source_segments": [
+    1,
+    3,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "dropped": [
+    {
+      "source_segment": 2,
+      "source_range": "00:15-00:30",
+      "title": "同选山路起步"
+    },
+    {
+      "source_segment": 4,
+      "source_range": "00:45-01:02",
+      "title": "同时抵达五岭"
+    },
+    {
+      "source_segment": 5,
+      "source_range": "01:02-01:20",
+      "title": "继续同路同速"
+    },
+    {
+      "source_segment": 8,
+      "source_range": "01:44-01:56",
+      "title": "蓝方派队探路"
+    },
+    {
+      "source_segment": 21,
+      "source_range": "04:29-04:39",
+      "title": "红方提前离开潼关"
+    },
+    {
+      "source_segment": 23,
+      "source_range": "04:51-05:03",
+      "title": "支路冲向宫门"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42196\\42196_capture_manifest.json",
+    "frames": 187,
+    "median_actual_start_gap_ms": 2195.0,
+    "max_actual_start_gap_ms": 2412,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      45000,
+      90000,
+      104000,
+      128000,
+      152000,
+      166000,
+      192000,
+      205000,
+      219000,
+      232000,
+      243000,
+      257000,
+      279000,
+      303000,
+      311000,
+      340000,
+      350000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42196",
+  "program_end_seconds": 262,
+  "ui_sha256": "6039d224183aaf12f0d29163ebc81c53869d3dd9334d831614b1204048040b2c",
+  "voice_sha256": "62355c0818bc9f7e7c07c1f215f1da32c77ea43ec9e1bb2acdce0e35d4ba33a5",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42196\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42196\\replay.txt",
+      "source_sha256": "bc9a8fdc6ec492836cfce0ef4b9de67a951e1f114c2e8c145ead3b77abf5ec20",
+      "target_sha256": "bc9a8fdc6ec492836cfce0ef4b9de67a951e1f114c2e8c145ead3b77abf5ec20",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42196\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42196\\data.csv",
+      "source_sha256": "9c488361b2a8dcd4a9354a286bf450d21e68eea1c6c37374cbe928a831ca8c6a",
+      "target_sha256": "9c488361b2a8dcd4a9354a286bf450d21e68eea1c6c37374cbe928a831ca8c6a",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

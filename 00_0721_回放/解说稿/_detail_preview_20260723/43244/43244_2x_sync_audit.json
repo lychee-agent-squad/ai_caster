@@ -1,0 +1,171 @@
+{
+  "match_id": "43244",
+  "passed": true,
+  "issues": [],
+  "max_process_lag": 1.5,
+  "max_result_lead": -1.5,
+  "rows": [
+    {
+      "segment": 2,
+      "title": "蓝队开局两路清障",
+      "start": 10,
+      "end": 22,
+      "image_seconds": 8.5,
+      "lag": 1.5,
+      "process": true
+    },
+    {
+      "segment": 3,
+      "title": "首次选路",
+      "start": 22,
+      "end": 41,
+      "image_seconds": 24.5,
+      "lag": -2.5,
+      "process": true
+    },
+    {
+      "segment": 4,
+      "title": "天气实际影响",
+      "start": 41,
+      "end": 56,
+      "image_seconds": 42.5,
+      "lag": -1.5,
+      "process": true
+    },
+    {
+      "segment": 5,
+      "title": "码头任务与洞庭准备",
+      "start": 56,
+      "end": 68,
+      "image_seconds": 66.0,
+      "lag": -10.0,
+      "process": true
+    },
+    {
+      "segment": 6,
+      "title": "红队加速设卡、蓝队改线",
+      "start": 68,
+      "end": 79,
+      "image_seconds": 71.5,
+      "lag": -3.5,
+      "process": true
+    },
+    {
+      "segment": 7,
+      "title": "红队完成转运继续北上",
+      "start": 79,
+      "end": 95,
+      "image_seconds": 80.0,
+      "lag": -1.0,
+      "process": true
+    },
+    {
+      "segment": 8,
+      "title": "关卡风化蓝队仍走官道",
+      "start": 95,
+      "end": 109,
+      "image_seconds": 101.0,
+      "lag": -6.0,
+      "process": true
+    },
+    {
+      "segment": 9,
+      "title": "红队洛阳拿到快马",
+      "start": 109,
+      "end": 136,
+      "image_seconds": 113.5,
+      "lag": -4.5,
+      "process": true
+    },
+    {
+      "segment": 10,
+      "title": "红队探查潼关",
+      "start": 136,
+      "end": 152,
+      "image_seconds": 140.5,
+      "lag": -4.5,
+      "process": true
+    },
+    {
+      "segment": 11,
+      "title": "红队完成潼关交接",
+      "start": 152,
+      "end": 162,
+      "image_seconds": 160.0,
+      "lag": -8.0,
+      "process": true
+    },
+    {
+      "segment": 12,
+      "title": "蓝队清障进入荆襄",
+      "start": 162,
+      "end": 188,
+      "image_seconds": 166.0,
+      "lag": -4.0,
+      "process": true
+    },
+    {
+      "segment": 13,
+      "title": "红队先到朱雀门",
+      "start": 188,
+      "end": 227,
+      "image_seconds": 199.5,
+      "lag": -11.5,
+      "process": true
+    },
+    {
+      "segment": 14,
+      "title": "天气实际影响",
+      "start": 227,
+      "end": 230,
+      "image_seconds": 228.0,
+      "lag": -1.0,
+      "process": true
+    },
+    {
+      "segment": 15,
+      "title": "蓝队沿官道追回九十分",
+      "start": 230,
+      "end": 261,
+      "image_seconds": 229.5,
+      "lag": 0.5,
+      "process": true
+    },
+    {
+      "segment": 16,
+      "title": "前后驻站 双方互等",
+      "start": 261,
+      "end": 275,
+      "image_seconds": 273.5,
+      "lag": -12.5,
+      "process": true
+    },
+    {
+      "segment": 17,
+      "title": "蓝队先动 红队卡住支路",
+      "start": 275,
+      "end": 289,
+      "image_seconds": 276.5,
+      "lag": -1.5,
+      "process": true
+    },
+    {
+      "segment": 18,
+      "title": "蓝队持续受阻",
+      "start": 289,
+      "end": 304,
+      "image_seconds": 291.0,
+      "lag": -2.0,
+      "process": true
+    },
+    {
+      "segment": 19,
+      "title": "红队完成验核进宫",
+      "start": 304,
+      "end": 320,
+      "image_seconds": 296.0,
+      "lag": 8.0,
+      "process": false
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "segments": 34,
+  "timeline_end_seconds": 464,
+  "voice_paragraphs": 34,
+  "voice_spoken_units": 1828,
+  "average_segment_rate": 3.94,
+  "max_segment_rate": 5.4,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:14",
+      "seconds": 14,
+      "units": 58,
+      "rate": 4.143
+    },
+    {
+      "start": "00:14",
+      "end": "00:28",
+      "seconds": 14,
+      "units": 54,
+      "rate": 3.857
+    },
+    {
+      "start": "00:28",
+      "end": "00:43",
+      "seconds": 15,
+      "units": 65,
+      "rate": 4.333
+    },
+    {
+      "start": "00:43",
+      "end": "00:58",
+      "seconds": 15,
+      "units": 52,
+      "rate": 3.467
+    },
+    {
+      "start": "00:58",
+      "end": "01:12",
+      "seconds": 14,
+      "units": 51,
+      "rate": 3.643
+    },
+    {
+      "start": "01:12",
+      "end": "01:27",
+      "seconds": 15,
+      "units": 50,
+      "rate": 3.333
+    },
+    {
+      "start": "01:27",
+      "end": "01:41",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286
+    },
+    {
+      "start": "01:41",
+      "end": "01:56",
+      "seconds": 15,
+      "units": 61,
+      "rate": 4.067
+    },
+    {
+      "start": "01:56",
+      "end": "02:10",
+      "seconds": 14,
+      "units": 54,
+      "rate": 3.857
+    },
+    {
+      "start": "02:10",
+      "end": "02:24",
+      "seconds": 14,
+      "units": 54,
+      "rate": 3.857
+    },
+    {
+      "start": "02:24",
+      "end": "02:40",
+      "seconds": 16,
+      "units": 60,
+      "rate": 3.75
+    },
+    {
+      "start": "02:40",
+      "end": "02:56",
+      "seconds": 16,
+      "units": 54,
+      "rate": 3.375
+    },
+    {
+      "start": "02:56",
+      "end": "03:12",
+      "seconds": 16,
+      "units": 59,
+      "rate": 3.688
+    },
+    {
+      "start": "03:12",
+      "end": "03:29",
+      "seconds": 17,
+      "units": 51,
+      "rate": 3.0
+    },
+    {
+      "start": "03:29",
+      "end": "03:44",
+      "seconds": 15,
+      "units": 56,
+      "rate": 3.733
+    },
+    {
+      "start": "03:44",
+      "end": "03:54",
+      "seconds": 10,
+      "units": 52,
+      "rate": 5.2
+    },
+    {
+      "start": "03:54",
+      "end": "04:03",
+      "seconds": 9,
+      "units": 41,
+      "rate": 4.556
+    },
+    {
+      "start": "04:03",
+      "end": "04:18",
+      "seconds": 15,
+      "units": 81,
+      "rate": 5.4
+    },
+    {
+      "start": "04:18",
+      "end": "04:36",
+      "seconds": 18,
+      "units": 52,
+      "rate": 2.889
+    },
+    {
+      "start": "04:36",
+      "end": "04:56",
+      "seconds": 20,
+      "units": 47,
+      "rate": 2.35
+    },
+    {
+      "start": "04:56",
+      "end": "05:18",
+      "seconds": 22,
+      "units": 53,
+      "rate": 2.409
+    },
+    {
+      "start": "05:18",
+      "end": "05:33",
+      "seconds": 15,
+      "units": 61,
+      "rate": 4.067
+    },
+    {
+      "start": "05:33",
+      "end": "05:47",
+      "seconds": 14,
+      "units": 55,
+      "rate": 3.929
+    },
+    {
+      "start": "05:47",
+      "end": "06:01",
+      "seconds": 14,
+      "units": 62,
+      "rate": 4.429
+    },
+    {
+      "start": "06:01",
+      "end": "06:16",
+      "seconds": 15,
+      "units": 69,
+      "rate": 4.6
+    },
+    {
+      "start": "06:16",
+      "end": "06:31",
+      "seconds": 15,
+      "units": 61,
+      "rate": 4.067
+    },
+    {
+      "start": "06:31",
+      "end": "06:44",
+      "seconds": 13,
+      "units": 67,
+      "rate": 5.154
+    },
+    {
+      "start": "06:44",
+      "end": "06:56",
+      "seconds": 12,
+      "units": 64,
+      "rate": 5.333
+    },
+    {
+      "start": "06:56",
+      "end": "07:05",
+      "seconds": 9,
+      "units": 46,
+      "rate": 5.111
+    },
+    {
+      "start": "07:05",
+      "end": "07:14",
+      "seconds": 9,
+      "units": 46,
+      "rate": 5.111
+    },
+    {
+      "start": "07:14",
+      "end": "07:22",
+      "seconds": 8,
+      "units": 31,
+      "rate": 3.875
+    },
+    {
+      "start": "07:22",
+      "end": "07:29",
+      "seconds": 7,
+      "units": 32,
+      "rate": 4.571
+    },
+    {
+      "start": "07:29",
+      "end": "07:37",
+      "seconds": 8,
+      "units": 40,
+      "rate": 5.0
+    },
+    {
+      "start": "07:37",
+      "end": "07:44",
+      "seconds": 7,
+      "units": 29,
+      "rate": 4.143
+    }
+  ],
+  "team_identity": {
+    "2707": {
+      "official_name": "神经突触突击队",
+      "spoken_pronunciation": "神经突触突击队"
+    },
+    "2749": {
+      "official_name": "让联看看哪个事",
+      "spoken_pronunciation": "让联看看哪个事"
+    }
+  },
+  "backup_results": [],
+  "failure_count": 0,
+  "failures": [],
+  "process_exit_code": 0,
+  "source_identity": {
+    "teams": [
+      "2707",
+      "2749"
+    ],
+    "winner": "2749",
+    "is_draw": false,
+    "aliases": [
+      "AAAA",
+      "litchi-runner"
+    ]
+  },
+  "export_checks": {
+    "segments": 34,
+    "voice_parity": true,
+    "ssml_parity": true,
+    "director_parity": true,
+    "xml_valid": true,
+    "allowed_tags_only": true,
+    "tags": [
+      "break",
+      "emphasis",
+      "p",
+      "prosody",
+      "s",
+      "speak"
+    ],
+    "ai_pattern_hits": [],
+    "ambiguous_pronoun_hits": [],
+    "long_sentence_review": []
+  }
+}

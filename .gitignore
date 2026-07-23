@@ -1,0 +1,32 @@
+# Local editing junctions and runtime state
+.cmap_md_edit/
+*.pid
+*.log
+
+# Generated replay captures
+**/frames/
+**/frames*/
+**/captures/
+**/recaptures_*/
+**/_browser_canvas_capture/
+**/replay.txt
+*.jpg
+*.jpeg
+*.png
+
+# Packaged Unity WebGL builds and duplicated UI backups
+**/LycheeReplay_WebGL_*/
+**/UI_asset_backups/
+
+# Recorded/generated media
+*.mov
+*.mp4
+*.webm
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+__MACOSX/
+._*
+__pycache__/
+*.py[cod]

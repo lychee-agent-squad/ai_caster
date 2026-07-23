@@ -1,0 +1,151 @@
+{
+  "match_id": 42185,
+  "status": "PASS",
+  "timeline_end_seconds": 273,
+  "sampling_definition": {
+    "target_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "screenshot_and_write_time_deducted_from_wait": true,
+    "overrun_policy": "start next immediately",
+    "actual_timestamps_preserved": true
+  },
+  "sampling_actual_start_gap_ms": {
+    "samples": 1531,
+    "median_ms": 729,
+    "p95_ms": 1463,
+    "max_ms": 2833,
+    "over_target_count": 1494,
+    "over_target_ratio": 0.975833,
+    "over_750ms_count": 717,
+    "setup_phase_excluded": true
+  },
+  "largest_start_gap": {
+    "gap_ms": 2833,
+    "from_file": "frame_0821_732294ms.jpg",
+    "to_file": "frame_0822_735127ms.jpg",
+    "from_elapsed_ms": 732294,
+    "to_elapsed_ms": 735127
+  },
+  "listed_frame_count": 1533,
+  "verified_capture_duration_ms": 1280761,
+  "frame_file_verification": {
+    "listed_frame_count": 1533,
+    "all_listed_frames_exist": true,
+    "missing_frames": [],
+    "final_settlement_exists": true,
+    "final_settlement_sha256": "92473dc430c60d8d35082ead0fc40c9d97b4039bed8dee71176c14a717a2a98d"
+  },
+  "source_copy_verification": {
+    "status": "passed",
+    "files": {
+      "replay.txt": {
+        "source_exists": true,
+        "copy_exists": true,
+        "source_sha256": "4cf01d2ac106e77f3f25e93f0b250d319cd10d41facc8e52123c675adf4ed251",
+        "copy_sha256": "4cf01d2ac106e77f3f25e93f0b250d319cd10d41facc8e52123c675adf4ed251",
+        "hash_match": true
+      },
+      "data.csv": {
+        "source_exists": true,
+        "copy_exists": true,
+        "source_sha256": "8fc4a441efa0a7916739adcd773c7c3a4f6ddb3d13dfdbfd35f1ff4f1a1196a5",
+        "copy_sha256": "8fc4a441efa0a7916739adcd773c7c3a4f6ddb3d13dfdbfd35f1ff4f1a1196a5",
+        "hash_match": true
+      }
+    }
+  },
+  "terminal_visual_review": {
+    "status": "passed",
+    "reviewed_by": "codex_visual",
+    "proof": "frames/frame_final_settlement.jpg",
+    "proof_sha256": "92473dc430c60d8d35082ead0fc40c9d97b4039bed8dee71176c14a717a2a98d",
+    "expected_result": {
+      "over_round": 486,
+      "over_reason": "ALL_DELIVERED",
+      "result_type": "NORMAL",
+      "is_draw": false,
+      "score_tied": false,
+      "winner_player_id": 2804,
+      "winner_score": 757,
+      "winner_basis": "replay_winner_player_id",
+      "scores": {
+        "2804": 757,
+        "2749": 732
+      },
+      "freshness": {
+        "2804": 82.39,
+        "2749": 76.15
+      },
+      "players": [
+        {
+          "player_id": 2804,
+          "camp": 1,
+          "score": 757,
+          "freshness": 82.39
+        },
+        {
+          "player_id": 2749,
+          "camp": 0,
+          "score": 732,
+          "freshness": 76.15
+        }
+      ]
+    },
+    "proof_replaced_after_wait": false,
+    "capture_extended_from_same_session": false,
+    "note": "terminal settlement matches replay result"
+  },
+  "authoritative_replay_result": {
+    "over_round": 486,
+    "over_reason": "ALL_DELIVERED",
+    "result_type": "NORMAL",
+    "is_draw": false,
+    "score_tied": false,
+    "winner_player_id": 2804,
+    "winner_score": 757,
+    "winner_basis": "replay_winner_player_id",
+    "scores": {
+      "2804": 757,
+      "2749": 732
+    },
+    "freshness": {
+      "2804": 82.39,
+      "2749": 76.15
+    },
+    "players": [
+      {
+        "player_id": 2804,
+        "camp": 1,
+        "score": 757,
+        "freshness": 82.39
+      },
+      {
+        "player_id": 2749,
+        "camp": 0,
+        "score": 732,
+        "freshness": 76.15
+      }
+    ]
+  },
+  "deliverables": {
+    "required": {
+      "42185_2x_tts_ui_synced.md": true,
+      "42185_2x_tts_voice_only.md": true,
+      "replay.txt": true,
+      "data.csv": true,
+      "42185_capture_manifest.json": true
+    },
+    "all_required_present": true,
+    "obsolete_active_files": []
+  },
+  "criteria": {
+    "all_manifest_frames_exist": true,
+    "final_settlement_exists": true,
+    "source_copies_match": true,
+    "required_deliverables_present": true,
+    "obsolete_active_files_absent": true,
+    "tts_timeline_at_or_below_330s": true,
+    "tts_audit_passed": true,
+    "terminal_visual_reviewed": true
+  }
+}

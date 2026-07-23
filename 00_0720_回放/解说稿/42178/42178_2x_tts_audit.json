@@ -1,0 +1,243 @@
+{
+  "segments": 29,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 29,
+  "voice_spoken_units": 1432,
+  "average_segment_rate": 4.339,
+  "max_segment_rate": 4.9,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:24",
+      "seconds": 14,
+      "units": 66,
+      "rate": 4.714,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:24",
+      "end": "00:31",
+      "seconds": 7,
+      "units": 32,
+      "rate": 4.571,
+      "title": "路线与小分队同步展开"
+    },
+    {
+      "start": "00:31",
+      "end": "00:47",
+      "seconds": 16,
+      "units": 71,
+      "rate": 4.438,
+      "title": "蓝队先做远程清障"
+    },
+    {
+      "start": "00:47",
+      "end": "00:57",
+      "seconds": 10,
+      "units": 42,
+      "rate": 4.2,
+      "title": "蓝队码头拿马"
+    },
+    {
+      "start": "00:57",
+      "end": "01:04",
+      "seconds": 7,
+      "units": 31,
+      "rate": 4.429,
+      "title": "首轮酷暑预告"
+    },
+    {
+      "start": "01:04",
+      "end": "01:16",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "红队先出现果品折损"
+    },
+    {
+      "start": "01:16",
+      "end": "01:30",
+      "seconds": 14,
+      "units": 62,
+      "rate": 4.429,
+      "title": "蓝队完成水路交接"
+    },
+    {
+      "start": "01:30",
+      "end": "01:45",
+      "seconds": 15,
+      "units": 65,
+      "rate": 4.333,
+      "title": "红队秦岭连收六十分"
+    },
+    {
+      "start": "01:45",
+      "end": "01:56",
+      "seconds": 11,
+      "units": 48,
+      "rate": 4.364,
+      "title": "红队改走荆襄"
+    },
+    {
+      "start": "01:56",
+      "end": "02:10",
+      "seconds": 14,
+      "units": 62,
+      "rate": 4.429,
+      "title": "蓝队洛阳连续得分"
+    },
+    {
+      "start": "02:10",
+      "end": "02:26",
+      "seconds": 16,
+      "units": 70,
+      "rate": 4.375,
+      "title": "探路兑现，洛阳设卡"
+    },
+    {
+      "start": "02:26",
+      "end": "02:39",
+      "seconds": 13,
+      "units": 59,
+      "rate": 4.538,
+      "title": "蓝队离站，红队绕回秦岭"
+    },
+    {
+      "start": "02:39",
+      "end": "02:46",
+      "seconds": 7,
+      "units": 31,
+      "rate": 4.429,
+      "title": "蓝队武关再拿三十分"
+    },
+    {
+      "start": "02:46",
+      "end": "03:00",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286,
+      "title": "红队再次改变路线"
+    },
+    {
+      "start": "03:00",
+      "end": "03:13",
+      "seconds": 13,
+      "units": 55,
+      "rate": 4.231,
+      "title": "蓝队完成潼关交接"
+    },
+    {
+      "start": "03:13",
+      "end": "03:26",
+      "seconds": 13,
+      "units": 55,
+      "rate": 4.231,
+      "title": "红队回到荆襄"
+    },
+    {
+      "start": "03:26",
+      "end": "03:40",
+      "seconds": 14,
+      "units": 60,
+      "rate": 4.286,
+      "title": "红队一击破卡拿悬赏"
+    },
+    {
+      "start": "03:40",
+      "end": "03:50",
+      "seconds": 10,
+      "units": 49,
+      "rate": 4.9,
+      "title": "蓝队提前侦察宫门"
+    },
+    {
+      "start": "03:50",
+      "end": "03:58",
+      "seconds": 8,
+      "units": 39,
+      "rate": 4.875,
+      "title": "暴雨落下，蓝队继续冲门"
+    },
+    {
+      "start": "03:58",
+      "end": "04:10",
+      "seconds": 12,
+      "units": 52,
+      "rate": 4.333,
+      "title": "宫宴冲刺开启"
+    },
+    {
+      "start": "04:10",
+      "end": "04:21",
+      "seconds": 11,
+      "units": 47,
+      "rate": 4.273,
+      "title": "蓝队快速完成朱雀门核验"
+    },
+    {
+      "start": "04:21",
+      "end": "04:26",
+      "seconds": 5,
+      "units": 20,
+      "rate": 4.0,
+      "title": "蓝队送达"
+    },
+    {
+      "start": "04:26",
+      "end": "04:38",
+      "seconds": 12,
+      "units": 54,
+      "rate": 4.5,
+      "title": "蓝队完成本局动作"
+    },
+    {
+      "start": "04:38",
+      "end": "04:45",
+      "seconds": 7,
+      "units": 31,
+      "rate": 4.429,
+      "title": "红队通过武关"
+    },
+    {
+      "start": "04:45",
+      "end": "04:56",
+      "seconds": 11,
+      "units": 49,
+      "rate": 4.455,
+      "title": "红队赶往潼关"
+    },
+    {
+      "start": "04:56",
+      "end": "05:09",
+      "seconds": 13,
+      "units": 55,
+      "rate": 4.231,
+      "title": "红队完成潼关交接"
+    },
+    {
+      "start": "05:09",
+      "end": "05:20",
+      "seconds": 11,
+      "units": 48,
+      "rate": 4.364,
+      "title": "红队最后推进"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 28,
+      "rate": 2.8,
+      "title": "时间到与最终结算"
+    }
+  ]
+}

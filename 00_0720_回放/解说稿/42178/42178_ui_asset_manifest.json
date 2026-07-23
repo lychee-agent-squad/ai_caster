@@ -1,0 +1,40 @@
+﻿{
+    "match":  42178,
+    "match_id":  "42178",
+    "playback_speed":  "2x",
+    "capture_manifest":  "42178_capture_manifest.json",
+    "frames_directory":  "frames",
+    "contact_sheets":  [
+                            "contact_sheets/42178_sheet_01.jpg",
+                            "contact_sheets/42178_sheet_02.jpg",
+                            "contact_sheets/42178_sheet_03.jpg",
+                            "contact_sheets/42178_sheet_04.jpg",
+                            "contact_sheets/42178_sheet_05.jpg",
+                            "contact_sheets/42178_sheet_06.jpg",
+                            "contact_sheets/42178_sheet_07.jpg",
+                            "contact_sheets/42178_sheet_08.jpg",
+                            "contact_sheets/42178_sheet_09.jpg",
+                            "contact_sheets/42178_sheet_10.jpg"
+                        ],
+    "speed_proof":  "frames/42178_speed_confirmed.png",
+    "settlement_proof":  "frames/42178_terminal_check.png",
+    "coverage":  "Opening through stable displayed settlement at user-confirmed 2x.",
+    "source":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42178\\server",
+    "streaming_assets":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\LycheeReplay_WebGL_20260720_181945_Linux\\LycheeReplay_WebGL_20260720_181945_Linux\\StreamingAssets",
+    "backup":  "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\UI_asset_backups\\before_42178_ui181945_20260721_120645",
+    "copied_at":  "2026-07-21T12:06:45.4069258+08:00",
+    "checks":  [
+                   {
+                       "file":  "replay.txt",
+                       "source_sha256":  "50BEEB7B7A19DF225B8FE586005FEE17C46BDC80C2EF1FFCB2FFABF37C55D858",
+                       "target_sha256":  "50BEEB7B7A19DF225B8FE586005FEE17C46BDC80C2EF1FFCB2FFABF37C55D858",
+                       "match":  true
+                   },
+                   {
+                       "file":  "data.csv",
+                       "source_sha256":  "737E18BB1BBCEA32E3E68F9C56ACD2AAF444A3658B75B358811488CFC8749696",
+                       "target_sha256":  "737E18BB1BBCEA32E3E68F9C56ACD2AAF444A3658B75B358811488CFC8749696",
+                       "match":  true
+                   }
+               ]
+}

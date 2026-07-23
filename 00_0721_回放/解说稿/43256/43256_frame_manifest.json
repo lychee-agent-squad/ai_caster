@@ -1,0 +1,2493 @@
+{
+  "match_id": "43256",
+  "capture_interval_ms": 500,
+  "speed": "2x",
+  "over_round": 414,
+  "frame_count": 414,
+  "frames": [
+    {
+      "round": 1,
+      "elapsed_ms": 500,
+      "file": "frames/frame_0001_000500ms.jpg",
+      "bytes": 158253
+    },
+    {
+      "round": 2,
+      "elapsed_ms": 1000,
+      "file": "frames/frame_0002_001000ms.jpg",
+      "bytes": 158243
+    },
+    {
+      "round": 3,
+      "elapsed_ms": 1500,
+      "file": "frames/frame_0003_001500ms.jpg",
+      "bytes": 158344
+    },
+    {
+      "round": 4,
+      "elapsed_ms": 2000,
+      "file": "frames/frame_0004_002000ms.jpg",
+      "bytes": 157938
+    },
+    {
+      "round": 5,
+      "elapsed_ms": 2500,
+      "file": "frames/frame_0005_002500ms.jpg",
+      "bytes": 158126
+    },
+    {
+      "round": 6,
+      "elapsed_ms": 3000,
+      "file": "frames/frame_0006_003000ms.jpg",
+      "bytes": 157690
+    },
+    {
+      "round": 7,
+      "elapsed_ms": 3500,
+      "file": "frames/frame_0007_003500ms.jpg",
+      "bytes": 157872
+    },
+    {
+      "round": 8,
+      "elapsed_ms": 4000,
+      "file": "frames/frame_0008_004000ms.jpg",
+      "bytes": 157560
+    },
+    {
+      "round": 9,
+      "elapsed_ms": 4500,
+      "file": "frames/frame_0009_004500ms.jpg",
+      "bytes": 157564
+    },
+    {
+      "round": 10,
+      "elapsed_ms": 5000,
+      "file": "frames/frame_0010_005000ms.jpg",
+      "bytes": 157664
+    },
+    {
+      "round": 11,
+      "elapsed_ms": 5500,
+      "file": "frames/frame_0011_005500ms.jpg",
+      "bytes": 157318
+    },
+    {
+      "round": 12,
+      "elapsed_ms": 6000,
+      "file": "frames/frame_0012_006000ms.jpg",
+      "bytes": 157357
+    },
+    {
+      "round": 13,
+      "elapsed_ms": 6500,
+      "file": "frames/frame_0013_006500ms.jpg",
+      "bytes": 157376
+    },
+    {
+      "round": 14,
+      "elapsed_ms": 7000,
+      "file": "frames/frame_0014_007000ms.jpg",
+      "bytes": 157094
+    },
+    {
+      "round": 15,
+      "elapsed_ms": 7500,
+      "file": "frames/frame_0015_007500ms.jpg",
+      "bytes": 157503
+    },
+    {
+      "round": 16,
+      "elapsed_ms": 8000,
+      "file": "frames/frame_0016_008000ms.jpg",
+      "bytes": 158163
+    },
+    {
+      "round": 17,
+      "elapsed_ms": 8500,
+      "file": "frames/frame_0017_008500ms.jpg",
+      "bytes": 159206
+    },
+    {
+      "round": 18,
+      "elapsed_ms": 9000,
+      "file": "frames/frame_0018_009000ms.jpg",
+      "bytes": 158969
+    },
+    {
+      "round": 19,
+      "elapsed_ms": 9500,
+      "file": "frames/frame_0019_009500ms.jpg",
+      "bytes": 156844
+    },
+    {
+      "round": 20,
+      "elapsed_ms": 10000,
+      "file": "frames/frame_0020_010000ms.jpg",
+      "bytes": 157581
+    },
+    {
+      "round": 21,
+      "elapsed_ms": 10500,
+      "file": "frames/frame_0021_010500ms.jpg",
+      "bytes": 157231
+    },
+    {
+      "round": 22,
+      "elapsed_ms": 11000,
+      "file": "frames/frame_0022_011000ms.jpg",
+      "bytes": 157295
+    },
+    {
+      "round": 23,
+      "elapsed_ms": 11500,
+      "file": "frames/frame_0023_011500ms.jpg",
+      "bytes": 157476
+    },
+    {
+      "round": 24,
+      "elapsed_ms": 12000,
+      "file": "frames/frame_0024_012000ms.jpg",
+      "bytes": 157450
+    },
+    {
+      "round": 25,
+      "elapsed_ms": 12500,
+      "file": "frames/frame_0025_012500ms.jpg",
+      "bytes": 157855
+    },
+    {
+      "round": 26,
+      "elapsed_ms": 13000,
+      "file": "frames/frame_0026_013000ms.jpg",
+      "bytes": 157589
+    },
+    {
+      "round": 27,
+      "elapsed_ms": 13500,
+      "file": "frames/frame_0027_013500ms.jpg",
+      "bytes": 157962
+    },
+    {
+      "round": 28,
+      "elapsed_ms": 14000,
+      "file": "frames/frame_0028_014000ms.jpg",
+      "bytes": 157282
+    },
+    {
+      "round": 29,
+      "elapsed_ms": 14500,
+      "file": "frames/frame_0029_014500ms.jpg",
+      "bytes": 157590
+    },
+    {
+      "round": 30,
+      "elapsed_ms": 15000,
+      "file": "frames/frame_0030_015000ms.jpg",
+      "bytes": 157480
+    },
+    {
+      "round": 31,
+      "elapsed_ms": 15500,
+      "file": "frames/frame_0031_015500ms.jpg",
+      "bytes": 157363
+    },
+    {
+      "round": 32,
+      "elapsed_ms": 16000,
+      "file": "frames/frame_0032_016000ms.jpg",
+      "bytes": 157320
+    },
+    {
+      "round": 33,
+      "elapsed_ms": 16500,
+      "file": "frames/frame_0033_016500ms.jpg",
+      "bytes": 157402
+    },
+    {
+      "round": 34,
+      "elapsed_ms": 17000,
+      "file": "frames/frame_0034_017000ms.jpg",
+      "bytes": 157232
+    },
+    {
+      "round": 35,
+      "elapsed_ms": 17500,
+      "file": "frames/frame_0035_017500ms.jpg",
+      "bytes": 157329
+    },
+    {
+      "round": 36,
+      "elapsed_ms": 18000,
+      "file": "frames/frame_0036_018000ms.jpg",
+      "bytes": 157500
+    },
+    {
+      "round": 37,
+      "elapsed_ms": 18500,
+      "file": "frames/frame_0037_018500ms.jpg",
+      "bytes": 157708
+    },
+    {
+      "round": 38,
+      "elapsed_ms": 19000,
+      "file": "frames/frame_0038_019000ms.jpg",
+      "bytes": 157646
+    },
+    {
+      "round": 39,
+      "elapsed_ms": 19500,
+      "file": "frames/frame_0039_019500ms.jpg",
+      "bytes": 157683
+    },
+    {
+      "round": 40,
+      "elapsed_ms": 20000,
+      "file": "frames/frame_0040_020000ms.jpg",
+      "bytes": 157543
+    },
+    {
+      "round": 41,
+      "elapsed_ms": 20500,
+      "file": "frames/frame_0041_020500ms.jpg",
+      "bytes": 157723
+    },
+    {
+      "round": 42,
+      "elapsed_ms": 21000,
+      "file": "frames/frame_0042_021000ms.jpg",
+      "bytes": 161716
+    },
+    {
+      "round": 43,
+      "elapsed_ms": 21500,
+      "file": "frames/frame_0043_021500ms.jpg",
+      "bytes": 162263
+    },
+    {
+      "round": 44,
+      "elapsed_ms": 22000,
+      "file": "frames/frame_0044_022000ms.jpg",
+      "bytes": 158758
+    },
+    {
+      "round": 45,
+      "elapsed_ms": 22500,
+      "file": "frames/frame_0045_022500ms.jpg",
+      "bytes": 157963
+    },
+    {
+      "round": 46,
+      "elapsed_ms": 23000,
+      "file": "frames/frame_0046_023000ms.jpg",
+      "bytes": 157056
+    },
+    {
+      "round": 47,
+      "elapsed_ms": 23500,
+      "file": "frames/frame_0047_023500ms.jpg",
+      "bytes": 157233
+    },
+    {
+      "round": 48,
+      "elapsed_ms": 24000,
+      "file": "frames/frame_0048_024000ms.jpg",
+      "bytes": 156402
+    },
+    {
+      "round": 49,
+      "elapsed_ms": 24500,
+      "file": "frames/frame_0049_024500ms.jpg",
+      "bytes": 156779
+    },
+    {
+      "round": 50,
+      "elapsed_ms": 25000,
+      "file": "frames/frame_0050_025000ms.jpg",
+      "bytes": 156239
+    },
+    {
+      "round": 51,
+      "elapsed_ms": 25500,
+      "file": "frames/frame_0051_025500ms.jpg",
+      "bytes": 156091
+    },
+    {
+      "round": 52,
+      "elapsed_ms": 26000,
+      "file": "frames/frame_0052_026000ms.jpg",
+      "bytes": 156284
+    },
+    {
+      "round": 53,
+      "elapsed_ms": 26500,
+      "file": "frames/frame_0053_026500ms.jpg",
+      "bytes": 155984
+    },
+    {
+      "round": 54,
+      "elapsed_ms": 27000,
+      "file": "frames/frame_0054_027000ms.jpg",
+      "bytes": 156629
+    },
+    {
+      "round": 55,
+      "elapsed_ms": 27500,
+      "file": "frames/frame_0055_027500ms.jpg",
+      "bytes": 156270
+    },
+    {
+      "round": 56,
+      "elapsed_ms": 28000,
+      "file": "frames/frame_0056_028000ms.jpg",
+      "bytes": 156501
+    },
+    {
+      "round": 57,
+      "elapsed_ms": 28500,
+      "file": "frames/frame_0057_028500ms.jpg",
+      "bytes": 156212
+    },
+    {
+      "round": 58,
+      "elapsed_ms": 29000,
+      "file": "frames/frame_0058_029000ms.jpg",
+      "bytes": 156068
+    },
+    {
+      "round": 59,
+      "elapsed_ms": 29500,
+      "file": "frames/frame_0059_029500ms.jpg",
+      "bytes": 155737
+    },
+    {
+      "round": 60,
+      "elapsed_ms": 30000,
+      "file": "frames/frame_0060_030000ms.jpg",
+      "bytes": 156226
+    },
+    {
+      "round": 61,
+      "elapsed_ms": 30500,
+      "file": "frames/frame_0061_030500ms.jpg",
+      "bytes": 156010
+    },
+    {
+      "round": 62,
+      "elapsed_ms": 31000,
+      "file": "frames/frame_0062_031000ms.jpg",
+      "bytes": 155941
+    },
+    {
+      "round": 63,
+      "elapsed_ms": 31500,
+      "file": "frames/frame_0063_031500ms.jpg",
+      "bytes": 155689
+    },
+    {
+      "round": 64,
+      "elapsed_ms": 32000,
+      "file": "frames/frame_0064_032000ms.jpg",
+      "bytes": 155918
+    },
+    {
+      "round": 65,
+      "elapsed_ms": 32500,
+      "file": "frames/frame_0065_032500ms.jpg",
+      "bytes": 155497
+    },
+    {
+      "round": 66,
+      "elapsed_ms": 33000,
+      "file": "frames/frame_0066_033000ms.jpg",
+      "bytes": 155633
+    },
+    {
+      "round": 67,
+      "elapsed_ms": 33500,
+      "file": "frames/frame_0067_033500ms.jpg",
+      "bytes": 155756
+    },
+    {
+      "round": 68,
+      "elapsed_ms": 34000,
+      "file": "frames/frame_0068_034000ms.jpg",
+      "bytes": 156085
+    },
+    {
+      "round": 69,
+      "elapsed_ms": 34500,
+      "file": "frames/frame_0069_034500ms.jpg",
+      "bytes": 156353
+    },
+    {
+      "round": 70,
+      "elapsed_ms": 35000,
+      "file": "frames/frame_0070_035000ms.jpg",
+      "bytes": 155542
+    },
+    {
+      "round": 71,
+      "elapsed_ms": 35500,
+      "file": "frames/frame_0071_035500ms.jpg",
+      "bytes": 155926
+    },
+    {
+      "round": 72,
+      "elapsed_ms": 36000,
+      "file": "frames/frame_0072_036000ms.jpg",
+      "bytes": 155131
+    },
+    {
+      "round": 73,
+      "elapsed_ms": 36500,
+      "file": "frames/frame_0073_036500ms.jpg",
+      "bytes": 155550
+    },
+    {
+      "round": 74,
+      "elapsed_ms": 37000,
+      "file": "frames/frame_0074_037000ms.jpg",
+      "bytes": 155699
+    },
+    {
+      "round": 75,
+      "elapsed_ms": 37500,
+      "file": "frames/frame_0075_037500ms.jpg",
+      "bytes": 155578
+    },
+    {
+      "round": 76,
+      "elapsed_ms": 38000,
+      "file": "frames/frame_0076_038000ms.jpg",
+      "bytes": 156499
+    },
+    {
+      "round": 77,
+      "elapsed_ms": 38500,
+      "file": "frames/frame_0077_038500ms.jpg",
+      "bytes": 155937
+    },
+    {
+      "round": 78,
+      "elapsed_ms": 39000,
+      "file": "frames/frame_0078_039000ms.jpg",
+      "bytes": 156477
+    },
+    {
+      "round": 79,
+      "elapsed_ms": 39500,
+      "file": "frames/frame_0079_039500ms.jpg",
+      "bytes": 156157
+    },
+    {
+      "round": 80,
+      "elapsed_ms": 40000,
+      "file": "frames/frame_0080_040000ms.jpg",
+      "bytes": 156258
+    },
+    {
+      "round": 81,
+      "elapsed_ms": 40500,
+      "file": "frames/frame_0081_040500ms.jpg",
+      "bytes": 156193
+    },
+    {
+      "round": 82,
+      "elapsed_ms": 41000,
+      "file": "frames/frame_0082_041000ms.jpg",
+      "bytes": 156185
+    },
+    {
+      "round": 83,
+      "elapsed_ms": 41500,
+      "file": "frames/frame_0083_041500ms.jpg",
+      "bytes": 156750
+    },
+    {
+      "round": 84,
+      "elapsed_ms": 42000,
+      "file": "frames/frame_0084_042000ms.jpg",
+      "bytes": 156788
+    },
+    {
+      "round": 85,
+      "elapsed_ms": 42500,
+      "file": "frames/frame_0085_042500ms.jpg",
+      "bytes": 156567
+    },
+    {
+      "round": 86,
+      "elapsed_ms": 43000,
+      "file": "frames/frame_0086_043000ms.jpg",
+      "bytes": 156438
+    },
+    {
+      "round": 87,
+      "elapsed_ms": 43500,
+      "file": "frames/frame_0087_043500ms.jpg",
+      "bytes": 157008
+    },
+    {
+      "round": 88,
+      "elapsed_ms": 44000,
+      "file": "frames/frame_0088_044000ms.jpg",
+      "bytes": 156434
+    },
+    {
+      "round": 89,
+      "elapsed_ms": 44500,
+      "file": "frames/frame_0089_044500ms.jpg",
+      "bytes": 156817
+    },
+    {
+      "round": 90,
+      "elapsed_ms": 45000,
+      "file": "frames/frame_0090_045000ms.jpg",
+      "bytes": 156590
+    },
+    {
+      "round": 91,
+      "elapsed_ms": 45500,
+      "file": "frames/frame_0091_045500ms.jpg",
+      "bytes": 157030
+    },
+    {
+      "round": 92,
+      "elapsed_ms": 46000,
+      "file": "frames/frame_0092_046000ms.jpg",
+      "bytes": 156451
+    },
+    {
+      "round": 93,
+      "elapsed_ms": 46500,
+      "file": "frames/frame_0093_046500ms.jpg",
+      "bytes": 157068
+    },
+    {
+      "round": 94,
+      "elapsed_ms": 47000,
+      "file": "frames/frame_0094_047000ms.jpg",
+      "bytes": 156876
+    },
+    {
+      "round": 95,
+      "elapsed_ms": 47500,
+      "file": "frames/frame_0095_047500ms.jpg",
+      "bytes": 156715
+    },
+    {
+      "round": 96,
+      "elapsed_ms": 48000,
+      "file": "frames/frame_0096_048000ms.jpg",
+      "bytes": 156476
+    },
+    {
+      "round": 97,
+      "elapsed_ms": 48500,
+      "file": "frames/frame_0097_048500ms.jpg",
+      "bytes": 157154
+    },
+    {
+      "round": 98,
+      "elapsed_ms": 49000,
+      "file": "frames/frame_0098_049000ms.jpg",
+      "bytes": 158345
+    },
+    {
+      "round": 99,
+      "elapsed_ms": 49500,
+      "file": "frames/frame_0099_049500ms.jpg",
+      "bytes": 159077
+    },
+    {
+      "round": 100,
+      "elapsed_ms": 50000,
+      "file": "frames/frame_0100_050000ms.jpg",
+      "bytes": 158242
+    },
+    {
+      "round": 101,
+      "elapsed_ms": 50500,
+      "file": "frames/frame_0101_050500ms.jpg",
+      "bytes": 158623
+    },
+    {
+      "round": 102,
+      "elapsed_ms": 51000,
+      "file": "frames/frame_0102_051000ms.jpg",
+      "bytes": 153385
+    },
+    {
+      "round": 103,
+      "elapsed_ms": 51500,
+      "file": "frames/frame_0103_051500ms.jpg",
+      "bytes": 155105
+    },
+    {
+      "round": 104,
+      "elapsed_ms": 52000,
+      "file": "frames/frame_0104_052000ms.jpg",
+      "bytes": 155848
+    },
+    {
+      "round": 105,
+      "elapsed_ms": 52500,
+      "file": "frames/frame_0105_052500ms.jpg",
+      "bytes": 154928
+    },
+    {
+      "round": 106,
+      "elapsed_ms": 53000,
+      "file": "frames/frame_0106_053000ms.jpg",
+      "bytes": 154577
+    },
+    {
+      "round": 107,
+      "elapsed_ms": 53500,
+      "file": "frames/frame_0107_053500ms.jpg",
+      "bytes": 155114
+    },
+    {
+      "round": 108,
+      "elapsed_ms": 54000,
+      "file": "frames/frame_0108_054000ms.jpg",
+      "bytes": 154883
+    },
+    {
+      "round": 109,
+      "elapsed_ms": 54500,
+      "file": "frames/frame_0109_054500ms.jpg",
+      "bytes": 155079
+    },
+    {
+      "round": 110,
+      "elapsed_ms": 55000,
+      "file": "frames/frame_0110_055000ms.jpg",
+      "bytes": 155127
+    },
+    {
+      "round": 111,
+      "elapsed_ms": 55500,
+      "file": "frames/frame_0111_055500ms.jpg",
+      "bytes": 155591
+    },
+    {
+      "round": 112,
+      "elapsed_ms": 56000,
+      "file": "frames/frame_0112_056000ms.jpg",
+      "bytes": 155448
+    },
+    {
+      "round": 113,
+      "elapsed_ms": 56500,
+      "file": "frames/frame_0113_056500ms.jpg",
+      "bytes": 155596
+    },
+    {
+      "round": 114,
+      "elapsed_ms": 57000,
+      "file": "frames/frame_0114_057000ms.jpg",
+      "bytes": 155639
+    },
+    {
+      "round": 115,
+      "elapsed_ms": 57500,
+      "file": "frames/frame_0115_057500ms.jpg",
+      "bytes": 155865
+    },
+    {
+      "round": 116,
+      "elapsed_ms": 58000,
+      "file": "frames/frame_0116_058000ms.jpg",
+      "bytes": 155318
+    },
+    {
+      "round": 117,
+      "elapsed_ms": 58500,
+      "file": "frames/frame_0117_058500ms.jpg",
+      "bytes": 155846
+    },
+    {
+      "round": 118,
+      "elapsed_ms": 59000,
+      "file": "frames/frame_0118_059000ms.jpg",
+      "bytes": 155319
+    },
+    {
+      "round": 119,
+      "elapsed_ms": 59500,
+      "file": "frames/frame_0119_059500ms.jpg",
+      "bytes": 159641
+    },
+    {
+      "round": 120,
+      "elapsed_ms": 60000,
+      "file": "frames/frame_0120_060000ms.jpg",
+      "bytes": 160001
+    },
+    {
+      "round": 121,
+      "elapsed_ms": 60500,
+      "file": "frames/frame_0121_060500ms.jpg",
+      "bytes": 161087
+    },
+    {
+      "round": 122,
+      "elapsed_ms": 61000,
+      "file": "frames/frame_0122_061000ms.jpg",
+      "bytes": 156627
+    },
+    {
+      "round": 123,
+      "elapsed_ms": 61500,
+      "file": "frames/frame_0123_061500ms.jpg",
+      "bytes": 155235
+    },
+    {
+      "round": 124,
+      "elapsed_ms": 62000,
+      "file": "frames/frame_0124_062000ms.jpg",
+      "bytes": 153998
+    },
+    {
+      "round": 125,
+      "elapsed_ms": 62500,
+      "file": "frames/frame_0125_062500ms.jpg",
+      "bytes": 155454
+    },
+    {
+      "round": 126,
+      "elapsed_ms": 63000,
+      "file": "frames/frame_0126_063000ms.jpg",
+      "bytes": 155440
+    },
+    {
+      "round": 127,
+      "elapsed_ms": 63500,
+      "file": "frames/frame_0127_063500ms.jpg",
+      "bytes": 154385
+    },
+    {
+      "round": 128,
+      "elapsed_ms": 64000,
+      "file": "frames/frame_0128_064000ms.jpg",
+      "bytes": 152853
+    },
+    {
+      "round": 129,
+      "elapsed_ms": 64500,
+      "file": "frames/frame_0129_064500ms.jpg",
+      "bytes": 153882
+    },
+    {
+      "round": 130,
+      "elapsed_ms": 65000,
+      "file": "frames/frame_0130_065000ms.jpg",
+      "bytes": 154764
+    },
+    {
+      "round": 131,
+      "elapsed_ms": 65500,
+      "file": "frames/frame_0131_065500ms.jpg",
+      "bytes": 154556
+    },
+    {
+      "round": 132,
+      "elapsed_ms": 66000,
+      "file": "frames/frame_0132_066000ms.jpg",
+      "bytes": 82899
+    },
+    {
+      "round": 133,
+      "elapsed_ms": 66500,
+      "file": "frames/frame_0133_066500ms.jpg",
+      "bytes": 68655
+    },
+    {
+      "round": 134,
+      "elapsed_ms": 67000,
+      "file": "frames/frame_0134_067000ms.jpg",
+      "bytes": 65044
+    },
+    {
+      "round": 135,
+      "elapsed_ms": 67500,
+      "file": "frames/frame_0135_067500ms.jpg",
+      "bytes": 61627
+    },
+    {
+      "round": 136,
+      "elapsed_ms": 68000,
+      "file": "frames/frame_0136_068000ms.jpg",
+      "bytes": 59886
+    },
+    {
+      "round": 137,
+      "elapsed_ms": 68500,
+      "file": "frames/frame_0137_068500ms.jpg",
+      "bytes": 154736
+    },
+    {
+      "round": 138,
+      "elapsed_ms": 69000,
+      "file": "frames/frame_0138_069000ms.jpg",
+      "bytes": 153477
+    },
+    {
+      "round": 139,
+      "elapsed_ms": 69500,
+      "file": "frames/frame_0139_069500ms.jpg",
+      "bytes": 152755
+    },
+    {
+      "round": 140,
+      "elapsed_ms": 70000,
+      "file": "frames/frame_0140_070000ms.jpg",
+      "bytes": 154112
+    },
+    {
+      "round": 141,
+      "elapsed_ms": 70500,
+      "file": "frames/frame_0141_070500ms.jpg",
+      "bytes": 153931
+    },
+    {
+      "round": 142,
+      "elapsed_ms": 71000,
+      "file": "frames/frame_0142_071000ms.jpg",
+      "bytes": 148920
+    },
+    {
+      "round": 143,
+      "elapsed_ms": 71500,
+      "file": "frames/frame_0143_071500ms.jpg",
+      "bytes": 145960
+    },
+    {
+      "round": 144,
+      "elapsed_ms": 72000,
+      "file": "frames/frame_0144_072000ms.jpg",
+      "bytes": 145096
+    },
+    {
+      "round": 145,
+      "elapsed_ms": 72500,
+      "file": "frames/frame_0145_072500ms.jpg",
+      "bytes": 145149
+    },
+    {
+      "round": 146,
+      "elapsed_ms": 73000,
+      "file": "frames/frame_0146_073000ms.jpg",
+      "bytes": 145532
+    },
+    {
+      "round": 147,
+      "elapsed_ms": 73500,
+      "file": "frames/frame_0147_073500ms.jpg",
+      "bytes": 146390
+    },
+    {
+      "round": 148,
+      "elapsed_ms": 74000,
+      "file": "frames/frame_0148_074000ms.jpg",
+      "bytes": 147192
+    },
+    {
+      "round": 149,
+      "elapsed_ms": 74500,
+      "file": "frames/frame_0149_074500ms.jpg",
+      "bytes": 146863
+    },
+    {
+      "round": 150,
+      "elapsed_ms": 75000,
+      "file": "frames/frame_0150_075000ms.jpg",
+      "bytes": 146311
+    },
+    {
+      "round": 151,
+      "elapsed_ms": 75500,
+      "file": "frames/frame_0151_075500ms.jpg",
+      "bytes": 144851
+    },
+    {
+      "round": 152,
+      "elapsed_ms": 76000,
+      "file": "frames/frame_0152_076000ms.jpg",
+      "bytes": 145388
+    },
+    {
+      "round": 153,
+      "elapsed_ms": 76500,
+      "file": "frames/frame_0153_076500ms.jpg",
+      "bytes": 146144
+    },
+    {
+      "round": 154,
+      "elapsed_ms": 77000,
+      "file": "frames/frame_0154_077000ms.jpg",
+      "bytes": 152391
+    },
+    {
+      "round": 155,
+      "elapsed_ms": 77500,
+      "file": "frames/frame_0155_077500ms.jpg",
+      "bytes": 150343
+    },
+    {
+      "round": 156,
+      "elapsed_ms": 78000,
+      "file": "frames/frame_0156_078000ms.jpg",
+      "bytes": 149308
+    },
+    {
+      "round": 157,
+      "elapsed_ms": 78500,
+      "file": "frames/frame_0157_078500ms.jpg",
+      "bytes": 148587
+    },
+    {
+      "round": 158,
+      "elapsed_ms": 79000,
+      "file": "frames/frame_0158_079000ms.jpg",
+      "bytes": 148657
+    },
+    {
+      "round": 159,
+      "elapsed_ms": 79500,
+      "file": "frames/frame_0159_079500ms.jpg",
+      "bytes": 148053
+    },
+    {
+      "round": 160,
+      "elapsed_ms": 80000,
+      "file": "frames/frame_0160_080000ms.jpg",
+      "bytes": 148038
+    },
+    {
+      "round": 161,
+      "elapsed_ms": 80500,
+      "file": "frames/frame_0161_080500ms.jpg",
+      "bytes": 147612
+    },
+    {
+      "round": 162,
+      "elapsed_ms": 81000,
+      "file": "frames/frame_0162_081000ms.jpg",
+      "bytes": 147543
+    },
+    {
+      "round": 163,
+      "elapsed_ms": 81500,
+      "file": "frames/frame_0163_081500ms.jpg",
+      "bytes": 147625
+    },
+    {
+      "round": 164,
+      "elapsed_ms": 82000,
+      "file": "frames/frame_0164_082000ms.jpg",
+      "bytes": 147532
+    },
+    {
+      "round": 165,
+      "elapsed_ms": 82500,
+      "file": "frames/frame_0165_082500ms.jpg",
+      "bytes": 147164
+    },
+    {
+      "round": 166,
+      "elapsed_ms": 83000,
+      "file": "frames/frame_0166_083000ms.jpg",
+      "bytes": 147104
+    },
+    {
+      "round": 167,
+      "elapsed_ms": 83500,
+      "file": "frames/frame_0167_083500ms.jpg",
+      "bytes": 152905
+    },
+    {
+      "round": 168,
+      "elapsed_ms": 84000,
+      "file": "frames/frame_0168_084000ms.jpg",
+      "bytes": 153251
+    },
+    {
+      "round": 169,
+      "elapsed_ms": 84500,
+      "file": "frames/frame_0169_084500ms.jpg",
+      "bytes": 154003
+    },
+    {
+      "round": 170,
+      "elapsed_ms": 85000,
+      "file": "frames/frame_0170_085000ms.jpg",
+      "bytes": 149282
+    },
+    {
+      "round": 171,
+      "elapsed_ms": 85500,
+      "file": "frames/frame_0171_085500ms.jpg",
+      "bytes": 148132
+    },
+    {
+      "round": 172,
+      "elapsed_ms": 86000,
+      "file": "frames/frame_0172_086000ms.jpg",
+      "bytes": 147113
+    },
+    {
+      "round": 173,
+      "elapsed_ms": 86500,
+      "file": "frames/frame_0173_086500ms.jpg",
+      "bytes": 146395
+    },
+    {
+      "round": 174,
+      "elapsed_ms": 87000,
+      "file": "frames/frame_0174_087000ms.jpg",
+      "bytes": 147717
+    },
+    {
+      "round": 175,
+      "elapsed_ms": 87500,
+      "file": "frames/frame_0175_087500ms.jpg",
+      "bytes": 148103
+    },
+    {
+      "round": 176,
+      "elapsed_ms": 88000,
+      "file": "frames/frame_0176_088000ms.jpg",
+      "bytes": 149206
+    },
+    {
+      "round": 177,
+      "elapsed_ms": 88500,
+      "file": "frames/frame_0177_088500ms.jpg",
+      "bytes": 148684
+    },
+    {
+      "round": 178,
+      "elapsed_ms": 89000,
+      "file": "frames/frame_0178_089000ms.jpg",
+      "bytes": 147826
+    },
+    {
+      "round": 179,
+      "elapsed_ms": 89500,
+      "file": "frames/frame_0179_089500ms.jpg",
+      "bytes": 150994
+    },
+    {
+      "round": 180,
+      "elapsed_ms": 90000,
+      "file": "frames/frame_0180_090000ms.jpg",
+      "bytes": 151553
+    },
+    {
+      "round": 181,
+      "elapsed_ms": 90500,
+      "file": "frames/frame_0181_090500ms.jpg",
+      "bytes": 152122
+    },
+    {
+      "round": 182,
+      "elapsed_ms": 91000,
+      "file": "frames/frame_0182_091000ms.jpg",
+      "bytes": 147962
+    },
+    {
+      "round": 183,
+      "elapsed_ms": 91500,
+      "file": "frames/frame_0183_091500ms.jpg",
+      "bytes": 148042
+    },
+    {
+      "round": 184,
+      "elapsed_ms": 92000,
+      "file": "frames/frame_0184_092000ms.jpg",
+      "bytes": 146263
+    },
+    {
+      "round": 185,
+      "elapsed_ms": 92500,
+      "file": "frames/frame_0185_092500ms.jpg",
+      "bytes": 146705
+    },
+    {
+      "round": 186,
+      "elapsed_ms": 93000,
+      "file": "frames/frame_0186_093000ms.jpg",
+      "bytes": 147443
+    },
+    {
+      "round": 187,
+      "elapsed_ms": 93500,
+      "file": "frames/frame_0187_093500ms.jpg",
+      "bytes": 152730
+    },
+    {
+      "round": 188,
+      "elapsed_ms": 94000,
+      "file": "frames/frame_0188_094000ms.jpg",
+      "bytes": 152024
+    },
+    {
+      "round": 189,
+      "elapsed_ms": 94500,
+      "file": "frames/frame_0189_094500ms.jpg",
+      "bytes": 151084
+    },
+    {
+      "round": 190,
+      "elapsed_ms": 95000,
+      "file": "frames/frame_0190_095000ms.jpg",
+      "bytes": 146491
+    },
+    {
+      "round": 191,
+      "elapsed_ms": 95500,
+      "file": "frames/frame_0191_095500ms.jpg",
+      "bytes": 146990
+    },
+    {
+      "round": 192,
+      "elapsed_ms": 96000,
+      "file": "frames/frame_0192_096000ms.jpg",
+      "bytes": 147613
+    },
+    {
+      "round": 193,
+      "elapsed_ms": 96500,
+      "file": "frames/frame_0193_096500ms.jpg",
+      "bytes": 147380
+    },
+    {
+      "round": 194,
+      "elapsed_ms": 97000,
+      "file": "frames/frame_0194_097000ms.jpg",
+      "bytes": 146195
+    },
+    {
+      "round": 195,
+      "elapsed_ms": 97500,
+      "file": "frames/frame_0195_097500ms.jpg",
+      "bytes": 145298
+    },
+    {
+      "round": 196,
+      "elapsed_ms": 98000,
+      "file": "frames/frame_0196_098000ms.jpg",
+      "bytes": 145681
+    },
+    {
+      "round": 197,
+      "elapsed_ms": 98500,
+      "file": "frames/frame_0197_098500ms.jpg",
+      "bytes": 146003
+    },
+    {
+      "round": 198,
+      "elapsed_ms": 99000,
+      "file": "frames/frame_0198_099000ms.jpg",
+      "bytes": 146019
+    },
+    {
+      "round": 199,
+      "elapsed_ms": 99500,
+      "file": "frames/frame_0199_099500ms.jpg",
+      "bytes": 145553
+    },
+    {
+      "round": 200,
+      "elapsed_ms": 100000,
+      "file": "frames/frame_0200_100000ms.jpg",
+      "bytes": 142539
+    },
+    {
+      "round": 201,
+      "elapsed_ms": 100500,
+      "file": "frames/frame_0201_100500ms.jpg",
+      "bytes": 144879
+    },
+    {
+      "round": 202,
+      "elapsed_ms": 101000,
+      "file": "frames/frame_0202_101000ms.jpg",
+      "bytes": 144547
+    },
+    {
+      "round": 203,
+      "elapsed_ms": 101500,
+      "file": "frames/frame_0203_101500ms.jpg",
+      "bytes": 145171
+    },
+    {
+      "round": 204,
+      "elapsed_ms": 102000,
+      "file": "frames/frame_0204_102000ms.jpg",
+      "bytes": 147228
+    },
+    {
+      "round": 205,
+      "elapsed_ms": 102500,
+      "file": "frames/frame_0205_102500ms.jpg",
+      "bytes": 146907
+    },
+    {
+      "round": 206,
+      "elapsed_ms": 103000,
+      "file": "frames/frame_0206_103000ms.jpg",
+      "bytes": 145020
+    },
+    {
+      "round": 207,
+      "elapsed_ms": 103500,
+      "file": "frames/frame_0207_103500ms.jpg",
+      "bytes": 145974
+    },
+    {
+      "round": 208,
+      "elapsed_ms": 104000,
+      "file": "frames/frame_0208_104000ms.jpg",
+      "bytes": 146852
+    },
+    {
+      "round": 209,
+      "elapsed_ms": 104500,
+      "file": "frames/frame_0209_104500ms.jpg",
+      "bytes": 146675
+    },
+    {
+      "round": 210,
+      "elapsed_ms": 105000,
+      "file": "frames/frame_0210_105000ms.jpg",
+      "bytes": 145521
+    },
+    {
+      "round": 211,
+      "elapsed_ms": 105500,
+      "file": "frames/frame_0211_105500ms.jpg",
+      "bytes": 144402
+    },
+    {
+      "round": 212,
+      "elapsed_ms": 106000,
+      "file": "frames/frame_0212_106000ms.jpg",
+      "bytes": 141872
+    },
+    {
+      "round": 213,
+      "elapsed_ms": 106500,
+      "file": "frames/frame_0213_106500ms.jpg",
+      "bytes": 139865
+    },
+    {
+      "round": 214,
+      "elapsed_ms": 107000,
+      "file": "frames/frame_0214_107000ms.jpg",
+      "bytes": 139731
+    },
+    {
+      "round": 215,
+      "elapsed_ms": 107500,
+      "file": "frames/frame_0215_107500ms.jpg",
+      "bytes": 140128
+    },
+    {
+      "round": 216,
+      "elapsed_ms": 108000,
+      "file": "frames/frame_0216_108000ms.jpg",
+      "bytes": 142164
+    },
+    {
+      "round": 217,
+      "elapsed_ms": 108500,
+      "file": "frames/frame_0217_108500ms.jpg",
+      "bytes": 142364
+    },
+    {
+      "round": 218,
+      "elapsed_ms": 109000,
+      "file": "frames/frame_0218_109000ms.jpg",
+      "bytes": 145273
+    },
+    {
+      "round": 219,
+      "elapsed_ms": 109500,
+      "file": "frames/frame_0219_109500ms.jpg",
+      "bytes": 146905
+    },
+    {
+      "round": 220,
+      "elapsed_ms": 110000,
+      "file": "frames/frame_0220_110000ms.jpg",
+      "bytes": 149385
+    },
+    {
+      "round": 221,
+      "elapsed_ms": 110500,
+      "file": "frames/frame_0221_110500ms.jpg",
+      "bytes": 147663
+    },
+    {
+      "round": 222,
+      "elapsed_ms": 111000,
+      "file": "frames/frame_0222_111000ms.jpg",
+      "bytes": 146880
+    },
+    {
+      "round": 223,
+      "elapsed_ms": 111500,
+      "file": "frames/frame_0223_111500ms.jpg",
+      "bytes": 146555
+    },
+    {
+      "round": 224,
+      "elapsed_ms": 112000,
+      "file": "frames/frame_0224_112000ms.jpg",
+      "bytes": 144082
+    },
+    {
+      "round": 225,
+      "elapsed_ms": 112500,
+      "file": "frames/frame_0225_112500ms.jpg",
+      "bytes": 140170
+    },
+    {
+      "round": 226,
+      "elapsed_ms": 113000,
+      "file": "frames/frame_0226_113000ms.jpg",
+      "bytes": 139533
+    },
+    {
+      "round": 227,
+      "elapsed_ms": 113500,
+      "file": "frames/frame_0227_113500ms.jpg",
+      "bytes": 138570
+    },
+    {
+      "round": 228,
+      "elapsed_ms": 114000,
+      "file": "frames/frame_0228_114000ms.jpg",
+      "bytes": 144151
+    },
+    {
+      "round": 229,
+      "elapsed_ms": 114500,
+      "file": "frames/frame_0229_114500ms.jpg",
+      "bytes": 144803
+    },
+    {
+      "round": 230,
+      "elapsed_ms": 115000,
+      "file": "frames/frame_0230_115000ms.jpg",
+      "bytes": 145507
+    },
+    {
+      "round": 231,
+      "elapsed_ms": 115500,
+      "file": "frames/frame_0231_115500ms.jpg",
+      "bytes": 143254
+    },
+    {
+      "round": 232,
+      "elapsed_ms": 116000,
+      "file": "frames/frame_0232_116000ms.jpg",
+      "bytes": 142309
+    },
+    {
+      "round": 233,
+      "elapsed_ms": 116500,
+      "file": "frames/frame_0233_116500ms.jpg",
+      "bytes": 141544
+    },
+    {
+      "round": 234,
+      "elapsed_ms": 117000,
+      "file": "frames/frame_0234_117000ms.jpg",
+      "bytes": 142986
+    },
+    {
+      "round": 235,
+      "elapsed_ms": 117500,
+      "file": "frames/frame_0235_117500ms.jpg",
+      "bytes": 143265
+    },
+    {
+      "round": 236,
+      "elapsed_ms": 118000,
+      "file": "frames/frame_0236_118000ms.jpg",
+      "bytes": 143355
+    },
+    {
+      "round": 237,
+      "elapsed_ms": 118500,
+      "file": "frames/frame_0237_118500ms.jpg",
+      "bytes": 142201
+    },
+    {
+      "round": 238,
+      "elapsed_ms": 119000,
+      "file": "frames/frame_0238_119000ms.jpg",
+      "bytes": 142951
+    },
+    {
+      "round": 239,
+      "elapsed_ms": 119500,
+      "file": "frames/frame_0239_119500ms.jpg",
+      "bytes": 143889
+    },
+    {
+      "round": 240,
+      "elapsed_ms": 120000,
+      "file": "frames/frame_0240_120000ms.jpg",
+      "bytes": 144180
+    },
+    {
+      "round": 241,
+      "elapsed_ms": 120500,
+      "file": "frames/frame_0241_120500ms.jpg",
+      "bytes": 143966
+    },
+    {
+      "round": 242,
+      "elapsed_ms": 121000,
+      "file": "frames/frame_0242_121000ms.jpg",
+      "bytes": 142748
+    },
+    {
+      "round": 243,
+      "elapsed_ms": 121500,
+      "file": "frames/frame_0243_121500ms.jpg",
+      "bytes": 143822
+    },
+    {
+      "round": 244,
+      "elapsed_ms": 122000,
+      "file": "frames/frame_0244_122000ms.jpg",
+      "bytes": 144851
+    },
+    {
+      "round": 245,
+      "elapsed_ms": 122500,
+      "file": "frames/frame_0245_122500ms.jpg",
+      "bytes": 144877
+    },
+    {
+      "round": 246,
+      "elapsed_ms": 123000,
+      "file": "frames/frame_0246_123000ms.jpg",
+      "bytes": 144046
+    },
+    {
+      "round": 247,
+      "elapsed_ms": 123500,
+      "file": "frames/frame_0247_123500ms.jpg",
+      "bytes": 143389
+    },
+    {
+      "round": 248,
+      "elapsed_ms": 124000,
+      "file": "frames/frame_0248_124000ms.jpg",
+      "bytes": 143348
+    },
+    {
+      "round": 249,
+      "elapsed_ms": 124500,
+      "file": "frames/frame_0249_124500ms.jpg",
+      "bytes": 144514
+    },
+    {
+      "round": 250,
+      "elapsed_ms": 125000,
+      "file": "frames/frame_0250_125000ms.jpg",
+      "bytes": 144397
+    },
+    {
+      "round": 251,
+      "elapsed_ms": 125500,
+      "file": "frames/frame_0251_125500ms.jpg",
+      "bytes": 145179
+    },
+    {
+      "round": 252,
+      "elapsed_ms": 126000,
+      "file": "frames/frame_0252_126000ms.jpg",
+      "bytes": 143555
+    },
+    {
+      "round": 253,
+      "elapsed_ms": 126500,
+      "file": "frames/frame_0253_126500ms.jpg",
+      "bytes": 143695
+    },
+    {
+      "round": 254,
+      "elapsed_ms": 127000,
+      "file": "frames/frame_0254_127000ms.jpg",
+      "bytes": 144344
+    },
+    {
+      "round": 255,
+      "elapsed_ms": 127500,
+      "file": "frames/frame_0255_127500ms.jpg",
+      "bytes": 145258
+    },
+    {
+      "round": 256,
+      "elapsed_ms": 128000,
+      "file": "frames/frame_0256_128000ms.jpg",
+      "bytes": 145537
+    },
+    {
+      "round": 257,
+      "elapsed_ms": 128500,
+      "file": "frames/frame_0257_128500ms.jpg",
+      "bytes": 145208
+    },
+    {
+      "round": 258,
+      "elapsed_ms": 129000,
+      "file": "frames/frame_0258_129000ms.jpg",
+      "bytes": 143831
+    },
+    {
+      "round": 259,
+      "elapsed_ms": 129500,
+      "file": "frames/frame_0259_129500ms.jpg",
+      "bytes": 144604
+    },
+    {
+      "round": 260,
+      "elapsed_ms": 130000,
+      "file": "frames/frame_0260_130000ms.jpg",
+      "bytes": 145052
+    },
+    {
+      "round": 261,
+      "elapsed_ms": 130500,
+      "file": "frames/frame_0261_130500ms.jpg",
+      "bytes": 144767
+    },
+    {
+      "round": 262,
+      "elapsed_ms": 131000,
+      "file": "frames/frame_0262_131000ms.jpg",
+      "bytes": 145003
+    },
+    {
+      "round": 263,
+      "elapsed_ms": 131500,
+      "file": "frames/frame_0263_131500ms.jpg",
+      "bytes": 144264
+    },
+    {
+      "round": 264,
+      "elapsed_ms": 132000,
+      "file": "frames/frame_0264_132000ms.jpg",
+      "bytes": 144642
+    },
+    {
+      "round": 265,
+      "elapsed_ms": 132500,
+      "file": "frames/frame_0265_132500ms.jpg",
+      "bytes": 145172
+    },
+    {
+      "round": 266,
+      "elapsed_ms": 133000,
+      "file": "frames/frame_0266_133000ms.jpg",
+      "bytes": 146472
+    },
+    {
+      "round": 267,
+      "elapsed_ms": 133500,
+      "file": "frames/frame_0267_133500ms.jpg",
+      "bytes": 146254
+    },
+    {
+      "round": 268,
+      "elapsed_ms": 134000,
+      "file": "frames/frame_0268_134000ms.jpg",
+      "bytes": 145342
+    },
+    {
+      "round": 269,
+      "elapsed_ms": 134500,
+      "file": "frames/frame_0269_134500ms.jpg",
+      "bytes": 145220
+    },
+    {
+      "round": 270,
+      "elapsed_ms": 135000,
+      "file": "frames/frame_0270_135000ms.jpg",
+      "bytes": 145580
+    },
+    {
+      "round": 271,
+      "elapsed_ms": 135500,
+      "file": "frames/frame_0271_135500ms.jpg",
+      "bytes": 153981
+    },
+    {
+      "round": 272,
+      "elapsed_ms": 136000,
+      "file": "frames/frame_0272_136000ms.jpg",
+      "bytes": 154833
+    },
+    {
+      "round": 273,
+      "elapsed_ms": 136500,
+      "file": "frames/frame_0273_136500ms.jpg",
+      "bytes": 153610
+    },
+    {
+      "round": 274,
+      "elapsed_ms": 137000,
+      "file": "frames/frame_0274_137000ms.jpg",
+      "bytes": 152931
+    },
+    {
+      "round": 275,
+      "elapsed_ms": 137500,
+      "file": "frames/frame_0275_137500ms.jpg",
+      "bytes": 152429
+    },
+    {
+      "round": 276,
+      "elapsed_ms": 138000,
+      "file": "frames/frame_0276_138000ms.jpg",
+      "bytes": 152369
+    },
+    {
+      "round": 277,
+      "elapsed_ms": 138500,
+      "file": "frames/frame_0277_138500ms.jpg",
+      "bytes": 152383
+    },
+    {
+      "round": 278,
+      "elapsed_ms": 139000,
+      "file": "frames/frame_0278_139000ms.jpg",
+      "bytes": 153479
+    },
+    {
+      "round": 279,
+      "elapsed_ms": 139500,
+      "file": "frames/frame_0279_139500ms.jpg",
+      "bytes": 154210
+    },
+    {
+      "round": 280,
+      "elapsed_ms": 140000,
+      "file": "frames/frame_0280_140000ms.jpg",
+      "bytes": 153217
+    },
+    {
+      "round": 281,
+      "elapsed_ms": 140500,
+      "file": "frames/frame_0281_140500ms.jpg",
+      "bytes": 151905
+    },
+    {
+      "round": 282,
+      "elapsed_ms": 141000,
+      "file": "frames/frame_0282_141000ms.jpg",
+      "bytes": 151903
+    },
+    {
+      "round": 283,
+      "elapsed_ms": 141500,
+      "file": "frames/frame_0283_141500ms.jpg",
+      "bytes": 151412
+    },
+    {
+      "round": 284,
+      "elapsed_ms": 142000,
+      "file": "frames/frame_0284_142000ms.jpg",
+      "bytes": 151396
+    },
+    {
+      "round": 285,
+      "elapsed_ms": 142500,
+      "file": "frames/frame_0285_142500ms.jpg",
+      "bytes": 150312
+    },
+    {
+      "round": 286,
+      "elapsed_ms": 143000,
+      "file": "frames/frame_0286_143000ms.jpg",
+      "bytes": 152677
+    },
+    {
+      "round": 287,
+      "elapsed_ms": 143500,
+      "file": "frames/frame_0287_143500ms.jpg",
+      "bytes": 153869
+    },
+    {
+      "round": 288,
+      "elapsed_ms": 144000,
+      "file": "frames/frame_0288_144000ms.jpg",
+      "bytes": 154798
+    },
+    {
+      "round": 289,
+      "elapsed_ms": 144500,
+      "file": "frames/frame_0289_144500ms.jpg",
+      "bytes": 152874
+    },
+    {
+      "round": 290,
+      "elapsed_ms": 145000,
+      "file": "frames/frame_0290_145000ms.jpg",
+      "bytes": 153904
+    },
+    {
+      "round": 291,
+      "elapsed_ms": 145500,
+      "file": "frames/frame_0291_145500ms.jpg",
+      "bytes": 152905
+    },
+    {
+      "round": 292,
+      "elapsed_ms": 146000,
+      "file": "frames/frame_0292_146000ms.jpg",
+      "bytes": 153126
+    },
+    {
+      "round": 293,
+      "elapsed_ms": 146500,
+      "file": "frames/frame_0293_146500ms.jpg",
+      "bytes": 151882
+    },
+    {
+      "round": 294,
+      "elapsed_ms": 147000,
+      "file": "frames/frame_0294_147000ms.jpg",
+      "bytes": 151715
+    },
+    {
+      "round": 295,
+      "elapsed_ms": 147500,
+      "file": "frames/frame_0295_147500ms.jpg",
+      "bytes": 151059
+    },
+    {
+      "round": 296,
+      "elapsed_ms": 148000,
+      "file": "frames/frame_0296_148000ms.jpg",
+      "bytes": 150829
+    },
+    {
+      "round": 297,
+      "elapsed_ms": 148500,
+      "file": "frames/frame_0297_148500ms.jpg",
+      "bytes": 151299
+    },
+    {
+      "round": 298,
+      "elapsed_ms": 149000,
+      "file": "frames/frame_0298_149000ms.jpg",
+      "bytes": 151529
+    },
+    {
+      "round": 299,
+      "elapsed_ms": 149500,
+      "file": "frames/frame_0299_149500ms.jpg",
+      "bytes": 151667
+    },
+    {
+      "round": 300,
+      "elapsed_ms": 150000,
+      "file": "frames/frame_0300_150000ms.jpg",
+      "bytes": 151334
+    },
+    {
+      "round": 301,
+      "elapsed_ms": 150500,
+      "file": "frames/frame_0301_150500ms.jpg",
+      "bytes": 153463
+    },
+    {
+      "round": 302,
+      "elapsed_ms": 151000,
+      "file": "frames/frame_0302_151000ms.jpg",
+      "bytes": 152827
+    },
+    {
+      "round": 303,
+      "elapsed_ms": 151500,
+      "file": "frames/frame_0303_151500ms.jpg",
+      "bytes": 152926
+    },
+    {
+      "round": 304,
+      "elapsed_ms": 152000,
+      "file": "frames/frame_0304_152000ms.jpg",
+      "bytes": 154476
+    },
+    {
+      "round": 305,
+      "elapsed_ms": 152500,
+      "file": "frames/frame_0305_152500ms.jpg",
+      "bytes": 147750
+    },
+    {
+      "round": 306,
+      "elapsed_ms": 153000,
+      "file": "frames/frame_0306_153000ms.jpg",
+      "bytes": 146867
+    },
+    {
+      "round": 307,
+      "elapsed_ms": 153500,
+      "file": "frames/frame_0307_153500ms.jpg",
+      "bytes": 147768
+    },
+    {
+      "round": 308,
+      "elapsed_ms": 154000,
+      "file": "frames/frame_0308_154000ms.jpg",
+      "bytes": 147857
+    },
+    {
+      "round": 309,
+      "elapsed_ms": 154500,
+      "file": "frames/frame_0309_154500ms.jpg",
+      "bytes": 148227
+    },
+    {
+      "round": 310,
+      "elapsed_ms": 155000,
+      "file": "frames/frame_0310_155000ms.jpg",
+      "bytes": 149073
+    },
+    {
+      "round": 311,
+      "elapsed_ms": 155500,
+      "file": "frames/frame_0311_155500ms.jpg",
+      "bytes": 149791
+    },
+    {
+      "round": 312,
+      "elapsed_ms": 156000,
+      "file": "frames/frame_0312_156000ms.jpg",
+      "bytes": 149991
+    },
+    {
+      "round": 313,
+      "elapsed_ms": 156500,
+      "file": "frames/frame_0313_156500ms.jpg",
+      "bytes": 149851
+    },
+    {
+      "round": 314,
+      "elapsed_ms": 157000,
+      "file": "frames/frame_0314_157000ms.jpg",
+      "bytes": 153701
+    },
+    {
+      "round": 315,
+      "elapsed_ms": 157500,
+      "file": "frames/frame_0315_157500ms.jpg",
+      "bytes": 152809
+    },
+    {
+      "round": 316,
+      "elapsed_ms": 158000,
+      "file": "frames/frame_0316_158000ms.jpg",
+      "bytes": 152170
+    },
+    {
+      "round": 317,
+      "elapsed_ms": 158500,
+      "file": "frames/frame_0317_158500ms.jpg",
+      "bytes": 151318
+    },
+    {
+      "round": 318,
+      "elapsed_ms": 159000,
+      "file": "frames/frame_0318_159000ms.jpg",
+      "bytes": 151139
+    },
+    {
+      "round": 319,
+      "elapsed_ms": 159500,
+      "file": "frames/frame_0319_159500ms.jpg",
+      "bytes": 151916
+    },
+    {
+      "round": 320,
+      "elapsed_ms": 160000,
+      "file": "frames/frame_0320_160000ms.jpg",
+      "bytes": 148686
+    },
+    {
+      "round": 321,
+      "elapsed_ms": 160500,
+      "file": "frames/frame_0321_160500ms.jpg",
+      "bytes": 149445
+    },
+    {
+      "round": 322,
+      "elapsed_ms": 161000,
+      "file": "frames/frame_0322_161000ms.jpg",
+      "bytes": 149575
+    },
+    {
+      "round": 323,
+      "elapsed_ms": 161500,
+      "file": "frames/frame_0323_161500ms.jpg",
+      "bytes": 150244
+    },
+    {
+      "round": 324,
+      "elapsed_ms": 162000,
+      "file": "frames/frame_0324_162000ms.jpg",
+      "bytes": 149585
+    },
+    {
+      "round": 325,
+      "elapsed_ms": 162500,
+      "file": "frames/frame_0325_162500ms.jpg",
+      "bytes": 149636
+    },
+    {
+      "round": 326,
+      "elapsed_ms": 163000,
+      "file": "frames/frame_0326_163000ms.jpg",
+      "bytes": 149520
+    },
+    {
+      "round": 327,
+      "elapsed_ms": 163500,
+      "file": "frames/frame_0327_163500ms.jpg",
+      "bytes": 148980
+    },
+    {
+      "round": 328,
+      "elapsed_ms": 164000,
+      "file": "frames/frame_0328_164000ms.jpg",
+      "bytes": 151301
+    },
+    {
+      "round": 329,
+      "elapsed_ms": 164500,
+      "file": "frames/frame_0329_164500ms.jpg",
+      "bytes": 151545
+    },
+    {
+      "round": 330,
+      "elapsed_ms": 165000,
+      "file": "frames/frame_0330_165000ms.jpg",
+      "bytes": 151434
+    },
+    {
+      "round": 331,
+      "elapsed_ms": 165500,
+      "file": "frames/frame_0331_165500ms.jpg",
+      "bytes": 150736
+    },
+    {
+      "round": 332,
+      "elapsed_ms": 166000,
+      "file": "frames/frame_0332_166000ms.jpg",
+      "bytes": 151710
+    },
+    {
+      "round": 333,
+      "elapsed_ms": 166500,
+      "file": "frames/frame_0333_166500ms.jpg",
+      "bytes": 148467
+    },
+    {
+      "round": 334,
+      "elapsed_ms": 167000,
+      "file": "frames/frame_0334_167000ms.jpg",
+      "bytes": 148553
+    },
+    {
+      "round": 335,
+      "elapsed_ms": 167500,
+      "file": "frames/frame_0335_167500ms.jpg",
+      "bytes": 150220
+    },
+    {
+      "round": 336,
+      "elapsed_ms": 168000,
+      "file": "frames/frame_0336_168000ms.jpg",
+      "bytes": 150660
+    },
+    {
+      "round": 337,
+      "elapsed_ms": 168500,
+      "file": "frames/frame_0337_168500ms.jpg",
+      "bytes": 150756
+    },
+    {
+      "round": 338,
+      "elapsed_ms": 169000,
+      "file": "frames/frame_0338_169000ms.jpg",
+      "bytes": 154945
+    },
+    {
+      "round": 339,
+      "elapsed_ms": 169500,
+      "file": "frames/frame_0339_169500ms.jpg",
+      "bytes": 154626
+    },
+    {
+      "round": 340,
+      "elapsed_ms": 170000,
+      "file": "frames/frame_0340_170000ms.jpg",
+      "bytes": 154313
+    },
+    {
+      "round": 341,
+      "elapsed_ms": 170500,
+      "file": "frames/frame_0341_170500ms.jpg",
+      "bytes": 153984
+    },
+    {
+      "round": 342,
+      "elapsed_ms": 171000,
+      "file": "frames/frame_0342_171000ms.jpg",
+      "bytes": 140315
+    },
+    {
+      "round": 343,
+      "elapsed_ms": 171500,
+      "file": "frames/frame_0343_171500ms.jpg",
+      "bytes": 108429
+    },
+    {
+      "round": 344,
+      "elapsed_ms": 172000,
+      "file": "frames/frame_0344_172000ms.jpg",
+      "bytes": 108786
+    },
+    {
+      "round": 345,
+      "elapsed_ms": 172500,
+      "file": "frames/frame_0345_172500ms.jpg",
+      "bytes": 102296
+    },
+    {
+      "round": 346,
+      "elapsed_ms": 173000,
+      "file": "frames/frame_0346_173000ms.jpg",
+      "bytes": 102850
+    },
+    {
+      "round": 347,
+      "elapsed_ms": 173500,
+      "file": "frames/frame_0347_173500ms.jpg",
+      "bytes": 103138
+    },
+    {
+      "round": 348,
+      "elapsed_ms": 174000,
+      "file": "frames/frame_0348_174000ms.jpg",
+      "bytes": 103145
+    },
+    {
+      "round": 349,
+      "elapsed_ms": 174500,
+      "file": "frames/frame_0349_174500ms.jpg",
+      "bytes": 101811
+    },
+    {
+      "round": 350,
+      "elapsed_ms": 175000,
+      "file": "frames/frame_0350_175000ms.jpg",
+      "bytes": 101064
+    },
+    {
+      "round": 351,
+      "elapsed_ms": 175500,
+      "file": "frames/frame_0351_175500ms.jpg",
+      "bytes": 100752
+    },
+    {
+      "round": 352,
+      "elapsed_ms": 176000,
+      "file": "frames/frame_0352_176000ms.jpg",
+      "bytes": 100676
+    },
+    {
+      "round": 353,
+      "elapsed_ms": 176500,
+      "file": "frames/frame_0353_176500ms.jpg",
+      "bytes": 99974
+    },
+    {
+      "round": 354,
+      "elapsed_ms": 177000,
+      "file": "frames/frame_0354_177000ms.jpg",
+      "bytes": 99547
+    },
+    {
+      "round": 355,
+      "elapsed_ms": 177500,
+      "file": "frames/frame_0355_177500ms.jpg",
+      "bytes": 99912
+    },
+    {
+      "round": 356,
+      "elapsed_ms": 178000,
+      "file": "frames/frame_0356_178000ms.jpg",
+      "bytes": 100474
+    },
+    {
+      "round": 357,
+      "elapsed_ms": 178500,
+      "file": "frames/frame_0357_178500ms.jpg",
+      "bytes": 101248
+    },
+    {
+      "round": 358,
+      "elapsed_ms": 179000,
+      "file": "frames/frame_0358_179000ms.jpg",
+      "bytes": 101240
+    },
+    {
+      "round": 359,
+      "elapsed_ms": 179500,
+      "file": "frames/frame_0359_179500ms.jpg",
+      "bytes": 101577
+    },
+    {
+      "round": 360,
+      "elapsed_ms": 180000,
+      "file": "frames/frame_0360_180000ms.jpg",
+      "bytes": 101790
+    },
+    {
+      "round": 361,
+      "elapsed_ms": 180500,
+      "file": "frames/frame_0361_180500ms.jpg",
+      "bytes": 101963
+    },
+    {
+      "round": 362,
+      "elapsed_ms": 181000,
+      "file": "frames/frame_0362_181000ms.jpg",
+      "bytes": 101888
+    },
+    {
+      "round": 363,
+      "elapsed_ms": 181500,
+      "file": "frames/frame_0363_181500ms.jpg",
+      "bytes": 101808
+    },
+    {
+      "round": 364,
+      "elapsed_ms": 182000,
+      "file": "frames/frame_0364_182000ms.jpg",
+      "bytes": 101613
+    },
+    {
+      "round": 365,
+      "elapsed_ms": 182500,
+      "file": "frames/frame_0365_182500ms.jpg",
+      "bytes": 101151
+    },
+    {
+      "round": 366,
+      "elapsed_ms": 183000,
+      "file": "frames/frame_0366_183000ms.jpg",
+      "bytes": 100833
+    },
+    {
+      "round": 367,
+      "elapsed_ms": 183500,
+      "file": "frames/frame_0367_183500ms.jpg",
+      "bytes": 100883
+    },
+    {
+      "round": 368,
+      "elapsed_ms": 184000,
+      "file": "frames/frame_0368_184000ms.jpg",
+      "bytes": 101337
+    },
+    {
+      "round": 369,
+      "elapsed_ms": 184500,
+      "file": "frames/frame_0369_184500ms.jpg",
+      "bytes": 101237
+    },
+    {
+      "round": 370,
+      "elapsed_ms": 185000,
+      "file": "frames/frame_0370_185000ms.jpg",
+      "bytes": 102034
+    },
+    {
+      "round": 371,
+      "elapsed_ms": 185500,
+      "file": "frames/frame_0371_185500ms.jpg",
+      "bytes": 102364
+    },
+    {
+      "round": 372,
+      "elapsed_ms": 186000,
+      "file": "frames/frame_0372_186000ms.jpg",
+      "bytes": 101726
+    },
+    {
+      "round": 373,
+      "elapsed_ms": 186500,
+      "file": "frames/frame_0373_186500ms.jpg",
+      "bytes": 101860
+    },
+    {
+      "round": 374,
+      "elapsed_ms": 187000,
+      "file": "frames/frame_0374_187000ms.jpg",
+      "bytes": 111327
+    },
+    {
+      "round": 375,
+      "elapsed_ms": 187500,
+      "file": "frames/frame_0375_187500ms.jpg",
+      "bytes": 111231
+    },
+    {
+      "round": 376,
+      "elapsed_ms": 188000,
+      "file": "frames/frame_0376_188000ms.jpg",
+      "bytes": 110786
+    },
+    {
+      "round": 377,
+      "elapsed_ms": 188500,
+      "file": "frames/frame_0377_188500ms.jpg",
+      "bytes": 110191
+    },
+    {
+      "round": 378,
+      "elapsed_ms": 189000,
+      "file": "frames/frame_0378_189000ms.jpg",
+      "bytes": 116274
+    },
+    {
+      "round": 379,
+      "elapsed_ms": 189500,
+      "file": "frames/frame_0379_189500ms.jpg",
+      "bytes": 117349
+    },
+    {
+      "round": 380,
+      "elapsed_ms": 190000,
+      "file": "frames/frame_0380_190000ms.jpg",
+      "bytes": 110125
+    },
+    {
+      "round": 381,
+      "elapsed_ms": 190500,
+      "file": "frames/frame_0381_190500ms.jpg",
+      "bytes": 110793
+    },
+    {
+      "round": 382,
+      "elapsed_ms": 191000,
+      "file": "frames/frame_0382_191000ms.jpg",
+      "bytes": 109161
+    },
+    {
+      "round": 383,
+      "elapsed_ms": 191500,
+      "file": "frames/frame_0383_191500ms.jpg",
+      "bytes": 107829
+    },
+    {
+      "round": 384,
+      "elapsed_ms": 192000,
+      "file": "frames/frame_0384_192000ms.jpg",
+      "bytes": 106336
+    },
+    {
+      "round": 385,
+      "elapsed_ms": 192500,
+      "file": "frames/frame_0385_192500ms.jpg",
+      "bytes": 106121
+    },
+    {
+      "round": 386,
+      "elapsed_ms": 193000,
+      "file": "frames/frame_0386_193000ms.jpg",
+      "bytes": 105424
+    },
+    {
+      "round": 387,
+      "elapsed_ms": 193500,
+      "file": "frames/frame_0387_193500ms.jpg",
+      "bytes": 104792
+    },
+    {
+      "round": 388,
+      "elapsed_ms": 194000,
+      "file": "frames/frame_0388_194000ms.jpg",
+      "bytes": 100860
+    },
+    {
+      "round": 389,
+      "elapsed_ms": 194500,
+      "file": "frames/frame_0389_194500ms.jpg",
+      "bytes": 97731
+    },
+    {
+      "round": 390,
+      "elapsed_ms": 195000,
+      "file": "frames/frame_0390_195000ms.jpg",
+      "bytes": 98571
+    },
+    {
+      "round": 391,
+      "elapsed_ms": 195500,
+      "file": "frames/frame_0391_195500ms.jpg",
+      "bytes": 100699
+    },
+    {
+      "round": 392,
+      "elapsed_ms": 196000,
+      "file": "frames/frame_0392_196000ms.jpg",
+      "bytes": 101067
+    },
+    {
+      "round": 393,
+      "elapsed_ms": 196500,
+      "file": "frames/frame_0393_196500ms.jpg",
+      "bytes": 101622
+    },
+    {
+      "round": 394,
+      "elapsed_ms": 197000,
+      "file": "frames/frame_0394_197000ms.jpg",
+      "bytes": 101849
+    },
+    {
+      "round": 395,
+      "elapsed_ms": 197500,
+      "file": "frames/frame_0395_197500ms.jpg",
+      "bytes": 105911
+    },
+    {
+      "round": 396,
+      "elapsed_ms": 198000,
+      "file": "frames/frame_0396_198000ms.jpg",
+      "bytes": 105252
+    },
+    {
+      "round": 397,
+      "elapsed_ms": 198500,
+      "file": "frames/frame_0397_198500ms.jpg",
+      "bytes": 105186
+    },
+    {
+      "round": 398,
+      "elapsed_ms": 199000,
+      "file": "frames/frame_0398_199000ms.jpg",
+      "bytes": 104841
+    },
+    {
+      "round": 399,
+      "elapsed_ms": 199500,
+      "file": "frames/frame_0399_199500ms.jpg",
+      "bytes": 104518
+    },
+    {
+      "round": 400,
+      "elapsed_ms": 200000,
+      "file": "frames/frame_0400_200000ms.jpg",
+      "bytes": 101558
+    },
+    {
+      "round": 401,
+      "elapsed_ms": 200500,
+      "file": "frames/frame_0401_200500ms.jpg",
+      "bytes": 102275
+    },
+    {
+      "round": 402,
+      "elapsed_ms": 201000,
+      "file": "frames/frame_0402_201000ms.jpg",
+      "bytes": 102934
+    },
+    {
+      "round": 403,
+      "elapsed_ms": 201500,
+      "file": "frames/frame_0403_201500ms.jpg",
+      "bytes": 103264
+    },
+    {
+      "round": 404,
+      "elapsed_ms": 202000,
+      "file": "frames/frame_0404_202000ms.jpg",
+      "bytes": 103664
+    },
+    {
+      "round": 405,
+      "elapsed_ms": 202500,
+      "file": "frames/frame_0405_202500ms.jpg",
+      "bytes": 102295
+    },
+    {
+      "round": 406,
+      "elapsed_ms": 203000,
+      "file": "frames/frame_0406_203000ms.jpg",
+      "bytes": 108418
+    },
+    {
+      "round": 407,
+      "elapsed_ms": 203500,
+      "file": "frames/frame_0407_203500ms.jpg",
+      "bytes": 108895
+    },
+    {
+      "round": 408,
+      "elapsed_ms": 204000,
+      "file": "frames/frame_0408_204000ms.jpg",
+      "bytes": 108610
+    },
+    {
+      "round": 409,
+      "elapsed_ms": 204500,
+      "file": "frames/frame_0409_204500ms.jpg",
+      "bytes": 107805
+    },
+    {
+      "round": 410,
+      "elapsed_ms": 205000,
+      "file": "frames/frame_0410_205000ms.jpg",
+      "bytes": 105846
+    },
+    {
+      "round": 411,
+      "elapsed_ms": 205500,
+      "file": "frames/frame_0411_205500ms.jpg",
+      "bytes": 104874
+    },
+    {
+      "round": 412,
+      "elapsed_ms": 206000,
+      "file": "frames/frame_0412_206000ms.jpg",
+      "bytes": 105327
+    },
+    {
+      "round": 413,
+      "elapsed_ms": 206500,
+      "file": "frames/frame_0413_206500ms.jpg",
+      "bytes": 106332
+    },
+    {
+      "round": 414,
+      "elapsed_ms": 207000,
+      "file": "frames/frame_0414_207000ms.jpg",
+      "bytes": 106633
+    }
+  ]
+}

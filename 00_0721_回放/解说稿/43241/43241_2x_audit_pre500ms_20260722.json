@@ -1,0 +1,180 @@
+{
+  "segments": 20,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 20,
+  "voice_spoken_units": 1142,
+  "average_segment_rate": 3.461,
+  "max_segment_rate": 5.429,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:15",
+      "seconds": 15,
+      "units": 65,
+      "rate": 4.333
+    },
+    {
+      "start": "00:15",
+      "end": "00:28",
+      "seconds": 13,
+      "units": 51,
+      "rate": 3.923
+    },
+    {
+      "start": "00:28",
+      "end": "00:43",
+      "seconds": 15,
+      "units": 53,
+      "rate": 3.533
+    },
+    {
+      "start": "00:43",
+      "end": "00:58",
+      "seconds": 15,
+      "units": 54,
+      "rate": 3.6
+    },
+    {
+      "start": "00:58",
+      "end": "01:18",
+      "seconds": 20,
+      "units": 65,
+      "rate": 3.25
+    },
+    {
+      "start": "01:18",
+      "end": "01:35",
+      "seconds": 17,
+      "units": 53,
+      "rate": 3.118
+    },
+    {
+      "start": "01:35",
+      "end": "01:55",
+      "seconds": 20,
+      "units": 67,
+      "rate": 3.35
+    },
+    {
+      "start": "01:55",
+      "end": "02:15",
+      "seconds": 20,
+      "units": 60,
+      "rate": 3.0
+    },
+    {
+      "start": "02:15",
+      "end": "02:33",
+      "seconds": 18,
+      "units": 57,
+      "rate": 3.167
+    },
+    {
+      "start": "02:33",
+      "end": "02:50",
+      "seconds": 17,
+      "units": 61,
+      "rate": 3.588
+    },
+    {
+      "start": "02:50",
+      "end": "03:10",
+      "seconds": 20,
+      "units": 63,
+      "rate": 3.15
+    },
+    {
+      "start": "03:10",
+      "end": "03:28",
+      "seconds": 18,
+      "units": 63,
+      "rate": 3.5
+    },
+    {
+      "start": "03:28",
+      "end": "03:43",
+      "seconds": 15,
+      "units": 58,
+      "rate": 3.867
+    },
+    {
+      "start": "03:43",
+      "end": "03:58",
+      "seconds": 15,
+      "units": 61,
+      "rate": 4.067
+    },
+    {
+      "start": "03:58",
+      "end": "04:13",
+      "seconds": 15,
+      "units": 52,
+      "rate": 3.467
+    },
+    {
+      "start": "04:13",
+      "end": "04:35",
+      "seconds": 22,
+      "units": 53,
+      "rate": 2.409
+    },
+    {
+      "start": "04:35",
+      "end": "04:58",
+      "seconds": 23,
+      "units": 63,
+      "rate": 2.739
+    },
+    {
+      "start": "04:58",
+      "end": "05:08",
+      "seconds": 10,
+      "units": 46,
+      "rate": 4.6
+    },
+    {
+      "start": "05:08",
+      "end": "05:15",
+      "seconds": 7,
+      "units": 38,
+      "rate": 5.429
+    },
+    {
+      "start": "05:15",
+      "end": "05:30",
+      "seconds": 15,
+      "units": 59,
+      "rate": 3.933
+    }
+  ],
+  "team_identity": {
+    "2625": {
+      "official_name": "我想见贵妃",
+      "spoken_pronunciation": "我想见贵妃"
+    },
+    "2751": {
+      "official_name": "虎先锋",
+      "spoken_pronunciation": "虎先锋"
+    }
+  },
+  "backup_results": [],
+  "live_style": {
+    "required": true,
+    "particle_count": 11,
+    "particle_types": [
+      "了",
+      "哎呀",
+      "啦"
+    ],
+    "particle_type_count": 3,
+    "emotion_categories": [
+      "attention_suspense",
+      "praise_release",
+      "pressure_regret"
+    ],
+    "emotion_category_count": 3,
+    "particle_spam_segments": []
+  },
+  "failure_count": 0,
+  "failures": []
+}

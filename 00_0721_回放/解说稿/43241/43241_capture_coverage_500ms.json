@@ -1,0 +1,56 @@
+{
+  "match_id": "43241",
+  "playback_speed": "2x",
+  "sampling_target_ms": 500,
+  "coverage_method": "overlapping_replay_segments",
+  "coverage_status": "closed",
+  "segments": [
+    {
+      "role": "opening_recap",
+      "frames_dir": "recaptures_valid_opening500/43241/frames",
+      "visible_rounds": "R1-R175",
+      "timed_frames": 345,
+      "average_gap_ms": 522,
+      "maximum_gap_ms": 1196,
+      "status": "valid"
+    },
+    {
+      "role": "main_early",
+      "frames_dir": "frames",
+      "visible_rounds": "R53-R422",
+      "timed_frames": 534,
+      "average_gap_ms": 507,
+      "maximum_gap_ms": 808,
+      "status": "valid"
+    },
+    {
+      "role": "terminal_recap",
+      "frames_dir": "recaptures_valid_terminal500/43241/frames",
+      "visible_rounds": "R306-R582",
+      "timed_frames": 516,
+      "average_gap_ms": 524,
+      "maximum_gap_ms": 1183,
+      "status": "valid"
+    },
+    {
+      "role": "main_terminal",
+      "frames_dir": "frames",
+      "visible_rounds": "R491-R593 and final settlement",
+      "timed_frames": 199,
+      "average_gap_ms": 506,
+      "maximum_gap_ms": 543,
+      "status": "valid"
+    }
+  ],
+  "overlap_closure": [
+    "opening_recap overlaps main_early on R53-R175",
+    "main_early overlaps terminal_recap on R306-R422",
+    "terminal_recap overlaps main_terminal on R491-R582",
+    "main_terminal contains R583-R593 delivery and the final settlement"
+  ],
+  "excluded_capture": {
+    "path": "recaptures_invalid_static_settlement_20260722",
+    "reason": "The settlement-page replay coordinate did not activate playback; the captured images were static and are excluded from UI evidence."
+  },
+  "program_timing_note": "Capture wall-clock time is not the edited program clock. Commentary is scheduled to a 330-second program: 15-second opening, approximately 300 seconds of 2x replay, and 15-second settlement."
+}

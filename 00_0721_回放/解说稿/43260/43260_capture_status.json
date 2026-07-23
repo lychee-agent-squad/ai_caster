@@ -1,0 +1,44 @@
+{
+  "match_id": "43260",
+  "status": "complete",
+  "speed": "2x",
+  "capture_interval_ms": 500,
+  "timeline_limit_seconds": 330,
+  "over_round": 600,
+  "over_reason": "TIME_LIMIT",
+  "winner_player_id": 2735,
+  "players": [
+    {
+      "team_id": 2749,
+      "ui_alias": "litchi-runner",
+      "camp": 0,
+      "delivered": false,
+      "total_score": 80
+    },
+    {
+      "team_id": 2735,
+      "ui_alias": "路人女主队",
+      "camp": 1,
+      "delivered": true,
+      "total_score": 608
+    }
+  ],
+  "checks": {
+    "replay_present": true,
+    "data_present": true,
+    "ui_script_present": true,
+    "voice_script_present": true,
+    "audit_present": true,
+    "audit_passed": true,
+    "timeline_within_330_seconds": true,
+    "speed_2x_proof_present": true,
+    "speed_proof_min_900x600": true,
+    "settlement_present": true,
+    "settlement_min_900x600": true,
+    "settlement_visual_review": true,
+    "frame_count_matches_over_round": true,
+    "rounds_continuous": true,
+    "elapsed_step_is_500ms": true
+  },
+  "generated_at": "2026-07-22T18:55:52.526119+00:00"
+}

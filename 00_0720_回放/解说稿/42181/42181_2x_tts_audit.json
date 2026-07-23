@@ -1,0 +1,235 @@
+{
+  "segments": 28,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 28,
+  "voice_spoken_units": 1160,
+  "average_segment_rate": 3.515,
+  "max_segment_rate": 4.875,
+  "contest_segments": 2,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 38,
+      "rate": 3.8,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:18",
+      "seconds": 8,
+      "units": 39,
+      "rate": 4.875,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:18",
+      "end": "00:22",
+      "seconds": 4,
+      "units": 17,
+      "rate": 4.25,
+      "title": "皇榜任务开放"
+    },
+    {
+      "start": "00:22",
+      "end": "00:29",
+      "seconds": 7,
+      "units": 22,
+      "rate": 3.143,
+      "title": "同时通过五岭"
+    },
+    {
+      "start": "00:29",
+      "end": "00:41",
+      "seconds": 12,
+      "units": 44,
+      "rate": 3.667,
+      "title": "酷暑带来折损"
+    },
+    {
+      "start": "00:41",
+      "end": "00:56",
+      "seconds": 15,
+      "units": 51,
+      "rate": 3.4,
+      "title": "红队侦察秦岭"
+    },
+    {
+      "start": "00:56",
+      "end": "01:10",
+      "seconds": 14,
+      "units": 47,
+      "rate": 3.357,
+      "title": "两队进入秦岭"
+    },
+    {
+      "start": "01:10",
+      "end": "01:21",
+      "seconds": 11,
+      "units": 39,
+      "rate": 3.545,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:21",
+      "end": "01:32",
+      "seconds": 11,
+      "units": 35,
+      "rate": 3.182,
+      "title": "红队先得三十分"
+    },
+    {
+      "start": "01:32",
+      "end": "01:41",
+      "seconds": 9,
+      "units": 34,
+      "rate": 3.778,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:41",
+      "end": "01:49",
+      "seconds": 8,
+      "units": 26,
+      "rate": 3.25,
+      "title": "第二轮仍未分胜负"
+    },
+    {
+      "start": "01:49",
+      "end": "02:00",
+      "seconds": 11,
+      "units": 38,
+      "rate": 3.455,
+      "title": "红队离站，蓝队连得六十"
+    },
+    {
+      "start": "02:00",
+      "end": "02:15",
+      "seconds": 15,
+      "units": 53,
+      "rate": 3.533,
+      "title": "双方路线分开"
+    },
+    {
+      "start": "02:15",
+      "end": "02:30",
+      "seconds": 15,
+      "units": 50,
+      "rate": 3.333,
+      "title": "蓝队完成荆襄交接"
+    },
+    {
+      "start": "02:30",
+      "end": "02:44",
+      "seconds": 14,
+      "units": 45,
+      "rate": 3.214,
+      "title": "蓝队驶向梅关"
+    },
+    {
+      "start": "02:44",
+      "end": "03:01",
+      "seconds": 17,
+      "units": 64,
+      "rate": 3.765,
+      "title": "双方远程铺路"
+    },
+    {
+      "start": "03:01",
+      "end": "03:19",
+      "seconds": 18,
+      "units": 63,
+      "rate": 3.5,
+      "title": "红队潼关连取六十分"
+    },
+    {
+      "start": "03:19",
+      "end": "03:35",
+      "seconds": 16,
+      "units": 56,
+      "rate": 3.5,
+      "title": "红队连续动作无效"
+    },
+    {
+      "start": "03:35",
+      "end": "03:50",
+      "seconds": 15,
+      "units": 52,
+      "rate": 3.467,
+      "title": "二十分惩罚触顶"
+    },
+    {
+      "start": "03:50",
+      "end": "03:58",
+      "seconds": 8,
+      "units": 29,
+      "rate": 3.625,
+      "title": "蓝队再次完成荆襄交接"
+    },
+    {
+      "start": "03:58",
+      "end": "04:11",
+      "seconds": 13,
+      "units": 47,
+      "rate": 3.615,
+      "title": "宫宴冲刺开启"
+    },
+    {
+      "start": "04:11",
+      "end": "04:24",
+      "seconds": 13,
+      "units": 46,
+      "rate": 3.538,
+      "title": "洞庭清障开始兑现"
+    },
+    {
+      "start": "04:24",
+      "end": "04:37",
+      "seconds": 13,
+      "units": 48,
+      "rate": 3.692,
+      "title": "两队分别冲向终点线"
+    },
+    {
+      "start": "04:37",
+      "end": "04:49",
+      "seconds": 12,
+      "units": 42,
+      "rate": 3.5,
+      "title": "红队进入朱雀门"
+    },
+    {
+      "start": "04:49",
+      "end": "05:00",
+      "seconds": 11,
+      "units": 37,
+      "rate": 3.364,
+      "title": "核验完成，红队主动等待"
+    },
+    {
+      "start": "05:00",
+      "end": "05:15",
+      "seconds": 15,
+      "units": 52,
+      "rate": 3.467,
+      "title": "蓝队任务补到九十"
+    },
+    {
+      "start": "05:15",
+      "end": "05:20",
+      "seconds": 5,
+      "units": 17,
+      "rate": 3.4,
+      "title": "红队送达"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 29,
+      "rate": 2.9,
+      "title": "时间到与最终结算"
+    }
+  ]
+}

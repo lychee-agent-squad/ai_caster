@@ -1,0 +1,144 @@
+{
+  "match_id": "43256",
+  "passed": true,
+  "issues": [],
+  "max_process_lag": 1.5,
+  "max_result_lead": -1.5,
+  "rows": [
+    {
+      "segment": 2,
+      "title": "首次选路",
+      "start": 10,
+      "end": 25,
+      "image_seconds": 15.0,
+      "lag": -5.0,
+      "process": true
+    },
+    {
+      "segment": 3,
+      "title": "红队进点",
+      "start": 25,
+      "end": 40,
+      "image_seconds": 23.5,
+      "lag": 1.5,
+      "process": true
+    },
+    {
+      "segment": 4,
+      "title": "蓝队进点",
+      "start": 40,
+      "end": 45,
+      "image_seconds": 43.5,
+      "lag": -3.5,
+      "process": true
+    },
+    {
+      "segment": 5,
+      "title": "天气实际影响",
+      "start": 45,
+      "end": 51,
+      "image_seconds": 45.5,
+      "lag": -0.5,
+      "process": true
+    },
+    {
+      "segment": 6,
+      "title": "红队任务完成",
+      "start": 51,
+      "end": 65,
+      "image_seconds": 63.5,
+      "lag": -12.5,
+      "process": true
+    },
+    {
+      "segment": 7,
+      "title": "红队任务完成",
+      "start": 65,
+      "end": 87,
+      "image_seconds": 73.5,
+      "lag": -8.5,
+      "process": true
+    },
+    {
+      "segment": 8,
+      "title": "蓝队进点",
+      "start": 87,
+      "end": 97,
+      "image_seconds": 95.5,
+      "lag": -8.5,
+      "process": true
+    },
+    {
+      "segment": 9,
+      "title": "蓝队任务完成",
+      "start": 97,
+      "end": 114,
+      "image_seconds": 105.5,
+      "lag": -8.5,
+      "process": true
+    },
+    {
+      "segment": 10,
+      "title": "红队动作被拒绝",
+      "start": 114,
+      "end": 130,
+      "image_seconds": 116.5,
+      "lag": -2.5,
+      "process": true
+    },
+    {
+      "segment": 11,
+      "title": "红队派遣",
+      "start": 130,
+      "end": 152,
+      "image_seconds": 136.0,
+      "lag": -6.0,
+      "process": true
+    },
+    {
+      "segment": 12,
+      "title": "红队任务完成",
+      "start": 152,
+      "end": 158,
+      "image_seconds": 156.5,
+      "lag": -4.5,
+      "process": true
+    },
+    {
+      "segment": 13,
+      "title": "红队潼关驿探路标记",
+      "start": 158,
+      "end": 164,
+      "image_seconds": 158.0,
+      "lag": 0.0,
+      "process": true
+    },
+    {
+      "segment": 14,
+      "title": "蓝队潼关驿探路标记",
+      "start": 164,
+      "end": 169,
+      "image_seconds": 167.0,
+      "lag": -3.0,
+      "process": true
+    },
+    {
+      "segment": 15,
+      "title": "红队潼关驿设卡完成",
+      "start": 169,
+      "end": 177,
+      "image_seconds": 170.0,
+      "lag": -1.0,
+      "process": true
+    },
+    {
+      "segment": 16,
+      "title": "红队潼关驿探路标记，天气实际影响，红队果品折损",
+      "start": 177,
+      "end": 320,
+      "image_seconds": 178.0,
+      "lag": -1.0,
+      "process": true
+    }
+  ]
+}

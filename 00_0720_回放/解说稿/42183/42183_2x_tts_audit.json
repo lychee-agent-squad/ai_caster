@@ -1,0 +1,283 @@
+{
+  "segments": 34,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 34,
+  "voice_spoken_units": 1287,
+  "average_segment_rate": 3.9,
+  "max_segment_rate": 4.9,
+  "contest_segments": 11,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 38,
+      "rate": 3.8,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:18",
+      "seconds": 8,
+      "units": 39,
+      "rate": 4.875,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:18",
+      "end": "00:26",
+      "seconds": 8,
+      "units": 39,
+      "rate": 4.875,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "00:26",
+      "end": "00:32",
+      "seconds": 6,
+      "units": 23,
+      "rate": 3.833,
+      "title": "同进五岭"
+    },
+    {
+      "start": "00:32",
+      "end": "00:39",
+      "seconds": 7,
+      "units": 29,
+      "rate": 4.143,
+      "title": "酷暑加压"
+    },
+    {
+      "start": "00:39",
+      "end": "00:49",
+      "seconds": 10,
+      "units": 38,
+      "rate": 3.8,
+      "title": "双双跌破九十"
+    },
+    {
+      "start": "00:49",
+      "end": "01:04",
+      "seconds": 15,
+      "units": 59,
+      "rate": 3.933,
+      "title": "红队先行侦察"
+    },
+    {
+      "start": "01:04",
+      "end": "01:14",
+      "seconds": 10,
+      "units": 38,
+      "rate": 3.8,
+      "title": "同抵秦岭"
+    },
+    {
+      "start": "01:14",
+      "end": "01:21",
+      "seconds": 7,
+      "units": 25,
+      "rate": 3.571,
+      "title": "红队先取三十分"
+    },
+    {
+      "start": "01:21",
+      "end": "01:30",
+      "seconds": 9,
+      "units": 34,
+      "rate": 3.778,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:30",
+      "end": "01:39",
+      "seconds": 9,
+      "units": 34,
+      "rate": 3.778,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:39",
+      "end": "01:48",
+      "seconds": 9,
+      "units": 33,
+      "rate": 3.667,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:48",
+      "end": "01:57",
+      "seconds": 9,
+      "units": 34,
+      "rate": 3.778,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "01:57",
+      "end": "02:06",
+      "seconds": 9,
+      "units": 34,
+      "rate": 3.778,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "02:06",
+      "end": "02:15",
+      "seconds": 9,
+      "units": 33,
+      "rate": 3.667,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "02:15",
+      "end": "02:26",
+      "seconds": 11,
+      "units": 42,
+      "rate": 3.818,
+      "title": "秦岭栈道的栈道复核任务争夺"
+    },
+    {
+      "start": "02:26",
+      "end": "02:40",
+      "seconds": 14,
+      "units": 58,
+      "rate": 4.143,
+      "title": "武关的清障任务争夺"
+    },
+    {
+      "start": "02:40",
+      "end": "02:45",
+      "seconds": 5,
+      "units": 18,
+      "rate": 3.6,
+      "title": "第八次仍未分胜负"
+    },
+    {
+      "start": "02:45",
+      "end": "02:51",
+      "seconds": 6,
+      "units": 24,
+      "rate": 4.0,
+      "title": "各取一项任务"
+    },
+    {
+      "start": "02:51",
+      "end": "03:04",
+      "seconds": 13,
+      "units": 54,
+      "rate": 4.154,
+      "title": "蓝队开启冰鉴"
+    },
+    {
+      "start": "03:04",
+      "end": "03:09",
+      "seconds": 5,
+      "units": 18,
+      "rate": 3.6,
+      "title": "暴雨掠过地图"
+    },
+    {
+      "start": "03:09",
+      "end": "03:14",
+      "seconds": 5,
+      "units": 15,
+      "rate": 3.0,
+      "title": "潼关就在眼前"
+    },
+    {
+      "start": "03:14",
+      "end": "03:23",
+      "seconds": 9,
+      "units": 30,
+      "rate": 3.333,
+      "title": "双方先后侦察潼关"
+    },
+    {
+      "start": "03:23",
+      "end": "03:33",
+      "seconds": 10,
+      "units": 36,
+      "rate": 3.6,
+      "title": "红队先拿九十分"
+    },
+    {
+      "start": "03:33",
+      "end": "03:50",
+      "seconds": 17,
+      "units": 65,
+      "rate": 3.824,
+      "title": "武关的障碍处理争夺"
+    },
+    {
+      "start": "03:50",
+      "end": "03:55",
+      "seconds": 5,
+      "units": 15,
+      "rate": 3.0,
+      "title": "武关双线争夺"
+    },
+    {
+      "start": "03:55",
+      "end": "04:13",
+      "seconds": 18,
+      "units": 72,
+      "rate": 4.0,
+      "title": "潼关驿的关口交接争夺"
+    },
+    {
+      "start": "04:13",
+      "end": "04:21",
+      "seconds": 8,
+      "units": 33,
+      "rate": 4.125,
+      "title": "红队拿到交接权"
+    },
+    {
+      "start": "04:21",
+      "end": "04:34",
+      "seconds": 13,
+      "units": 50,
+      "rate": 3.846,
+      "title": "蓝队加速追赶"
+    },
+    {
+      "start": "04:34",
+      "end": "04:42",
+      "seconds": 8,
+      "units": 31,
+      "rate": 3.875,
+      "title": "红队连收两项任务"
+    },
+    {
+      "start": "04:42",
+      "end": "04:52",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7,
+      "title": "红队冰鉴保鲜"
+    },
+    {
+      "start": "04:52",
+      "end": "05:07",
+      "seconds": 15,
+      "units": 58,
+      "rate": 3.867,
+      "title": "蓝队朱雀门设卡"
+    },
+    {
+      "start": "05:07",
+      "end": "05:20",
+      "seconds": 13,
+      "units": 52,
+      "rate": 4.0,
+      "title": "蓝队完成宫门核验"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 49,
+      "rate": 4.9,
+      "title": "蓝队送达与最终结算"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "match_id": "43267",
+  "passed": true,
+  "issues": [],
+  "max_process_lag": 1.5,
+  "max_result_lead": -1.5,
+  "rows": [
+    {
+      "segment": 2,
+      "title": "首次选路",
+      "start": 10,
+      "end": 25,
+      "image_seconds": 15.0,
+      "lag": -5.0,
+      "process": true
+    },
+    {
+      "segment": 3,
+      "title": "蓝队进点",
+      "start": 25,
+      "end": 40,
+      "image_seconds": 23.5,
+      "lag": 1.5,
+      "process": true
+    },
+    {
+      "segment": 4,
+      "title": "红队进点",
+      "start": 40,
+      "end": 48,
+      "image_seconds": 43.5,
+      "lag": -3.5,
+      "process": true
+    },
+    {
+      "segment": 5,
+      "title": "天气实际影响",
+      "start": 48,
+      "end": 56,
+      "image_seconds": 49.5,
+      "lag": -1.5,
+      "process": true
+    },
+    {
+      "segment": 6,
+      "title": "蓝队任务完成",
+      "start": 56,
+      "end": 67,
+      "image_seconds": 63.5,
+      "lag": -7.5,
+      "process": true
+    },
+    {
+      "segment": 7,
+      "title": "蓝队任务完成",
+      "start": 67,
+      "end": 89,
+      "image_seconds": 77.0,
+      "lag": -10.0,
+      "process": true
+    },
+    {
+      "segment": 8,
+      "title": "红队秦岭栈道探路标记",
+      "start": 89,
+      "end": 95,
+      "image_seconds": 93.5,
+      "lag": -4.5,
+      "process": true
+    },
+    {
+      "segment": 9,
+      "title": "红队进点",
+      "start": 95,
+      "end": 100,
+      "image_seconds": 95.5,
+      "lag": -0.5,
+      "process": true
+    },
+    {
+      "segment": 10,
+      "title": "红队任务完成，天气实际影响",
+      "start": 100,
+      "end": 121,
+      "image_seconds": 104.5,
+      "lag": -4.5,
+      "process": true
+    },
+    {
+      "segment": 11,
+      "title": "蓝队任务完成",
+      "start": 121,
+      "end": 130,
+      "image_seconds": 128.0,
+      "lag": -7.0,
+      "process": true
+    },
+    {
+      "segment": 12,
+      "title": "蓝队任务完成",
+      "start": 130,
+      "end": 156,
+      "image_seconds": 131.0,
+      "lag": -1.0,
+      "process": true
+    },
+    {
+      "segment": 13,
+      "title": "蓝队进点",
+      "start": 156,
+      "end": 164,
+      "image_seconds": 159.0,
+      "lag": -3.0,
+      "process": true
+    },
+    {
+      "segment": 14,
+      "title": "红队潼关驿探路标记",
+      "start": 164,
+      "end": 169,
+      "image_seconds": 167.0,
+      "lag": -3.0,
+      "process": true
+    },
+    {
+      "segment": 15,
+      "title": "红队潼关驿设卡完成",
+      "start": 169,
+      "end": 180,
+      "image_seconds": 174.5,
+      "lag": -5.5,
+      "process": true
+    },
+    {
+      "segment": 16,
+      "title": "蓝队小分队削弱",
+      "start": 180,
+      "end": 196,
+      "image_seconds": 183.5,
+      "lag": -3.5,
+      "process": true
+    },
+    {
+      "segment": 17,
+      "title": "红队送达成功",
+      "start": 196,
+      "end": 216,
+      "image_seconds": 204.0,
+      "lag": -8.0,
+      "process": true
+    },
+    {
+      "segment": 18,
+      "title": "蓝队进点",
+      "start": 216,
+      "end": 224,
+      "image_seconds": 217.5,
+      "lag": -1.5,
+      "process": true
+    },
+    {
+      "segment": 19,
+      "title": "蓝队使用情报",
+      "start": 224,
+      "end": 320,
+      "image_seconds": 227.0,
+      "lag": -3.0,
+      "process": true
+    }
+  ]
+}

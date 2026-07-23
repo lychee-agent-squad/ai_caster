@@ -1,0 +1,18 @@
+{
+  "match_id": "42185",
+  "playback_speed": "2x",
+  "capture_manifest": "42185_capture_manifest.json",
+  "frames_directory": "frames",
+  "contact_sheets": [
+    "contact_sheets/contact_01.jpg",
+    "contact_sheets/contact_02.jpg",
+    "contact_sheets/contact_03.jpg"
+  ],
+  "speed_proof": "frames/frame_0000_speed_2x.jpg",
+  "settlement_proof": "frames/frame_final_settlement.jpg",
+  "invalid_evidence": [
+    "frames_invalid_1x_20260721",
+    "frames_invalid_loading_click_20260721"
+  ],
+  "coverage": "Opening through stable displayed settlement at confirmed 2x. Invalid calibration attempts are preserved separately and excluded."
+}

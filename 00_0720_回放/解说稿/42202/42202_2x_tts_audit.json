@@ -1,0 +1,243 @@
+{
+  "segments": 29,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 29,
+  "voice_spoken_units": 1189,
+  "average_segment_rate": 3.603,
+  "max_segment_rate": 4.714,
+  "contest_segments": 1,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 35,
+      "rate": 3.5,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:24",
+      "seconds": 14,
+      "units": 66,
+      "rate": 4.714,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:24",
+      "end": "00:33",
+      "seconds": 9,
+      "units": 40,
+      "rate": 4.444,
+      "title": "红方先遣清理武关"
+    },
+    {
+      "start": "00:33",
+      "end": "00:36",
+      "seconds": 3,
+      "units": 9,
+      "rate": 3.0,
+      "title": "两队分走官道山道"
+    },
+    {
+      "start": "00:36",
+      "end": "00:48",
+      "seconds": 12,
+      "units": 41,
+      "rate": 3.417,
+      "title": "开场行军转场"
+    },
+    {
+      "start": "00:48",
+      "end": "01:00",
+      "seconds": 12,
+      "units": 42,
+      "rate": 3.5,
+      "title": "红过南岭蓝走五岭"
+    },
+    {
+      "start": "01:00",
+      "end": "01:13",
+      "seconds": 13,
+      "units": 49,
+      "rate": 3.769,
+      "title": "双方进入首个站点"
+    },
+    {
+      "start": "01:13",
+      "end": "01:21",
+      "seconds": 8,
+      "units": 29,
+      "rate": 3.625,
+      "title": "暴雨覆盖地图"
+    },
+    {
+      "start": "01:21",
+      "end": "01:32",
+      "seconds": 11,
+      "units": 38,
+      "rate": 3.455,
+      "title": "蓝方先掉一篓好果"
+    },
+    {
+      "start": "01:32",
+      "end": "01:44",
+      "seconds": 12,
+      "units": 42,
+      "rate": 3.5,
+      "title": "红方完成荆襄转运"
+    },
+    {
+      "start": "01:44",
+      "end": "01:51",
+      "seconds": 7,
+      "units": 20,
+      "rate": 2.857,
+      "title": "蓝方侦察秦岭"
+    },
+    {
+      "start": "01:51",
+      "end": "02:06",
+      "seconds": 15,
+      "units": 51,
+      "rate": 3.4,
+      "title": "蓝方两项任务先后得分"
+    },
+    {
+      "start": "02:06",
+      "end": "02:18",
+      "seconds": 12,
+      "units": 40,
+      "rate": 3.333,
+      "title": "蓝方任务分到九十"
+    },
+    {
+      "start": "02:18",
+      "end": "02:29",
+      "seconds": 11,
+      "units": 36,
+      "rate": 3.273,
+      "title": "酷热同时命中双方"
+    },
+    {
+      "start": "02:29",
+      "end": "02:42",
+      "seconds": 13,
+      "units": 46,
+      "rate": 3.538,
+      "title": "红方直入武关"
+    },
+    {
+      "start": "02:42",
+      "end": "02:54",
+      "seconds": 12,
+      "units": 44,
+      "rate": 3.667,
+      "title": "红方先过潼关"
+    },
+    {
+      "start": "02:54",
+      "end": "03:07",
+      "seconds": 13,
+      "units": 47,
+      "rate": 3.615,
+      "title": "蓝方任务分封顶一百八十"
+    },
+    {
+      "start": "03:07",
+      "end": "03:18",
+      "seconds": 11,
+      "units": 38,
+      "rate": 3.455,
+      "title": "蓝方补鲜再探灞桥"
+    },
+    {
+      "start": "03:18",
+      "end": "03:29",
+      "seconds": 11,
+      "units": 39,
+      "rate": 3.545,
+      "title": "红方先核验蓝到灞桥"
+    },
+    {
+      "start": "03:29",
+      "end": "03:42",
+      "seconds": 13,
+      "units": 45,
+      "rate": 3.462,
+      "title": "蓝方首次宫前交接"
+    },
+    {
+      "start": "03:42",
+      "end": "03:55",
+      "seconds": 13,
+      "units": 48,
+      "rate": 3.692,
+      "title": "四点关卡途中拦住蓝方"
+    },
+    {
+      "start": "03:55",
+      "end": "04:06",
+      "seconds": 11,
+      "units": 36,
+      "rate": 3.273,
+      "title": "蓝方回关中取官凭"
+    },
+    {
+      "start": "04:06",
+      "end": "04:17",
+      "seconds": 11,
+      "units": 39,
+      "rate": 3.545,
+      "title": "蓝方二次抵达灞桥"
+    },
+    {
+      "start": "04:17",
+      "end": "04:40",
+      "seconds": 23,
+      "units": 83,
+      "rate": 3.609,
+      "title": "朱雀门的PASS争夺"
+    },
+    {
+      "start": "04:40",
+      "end": "04:49",
+      "seconds": 9,
+      "units": 33,
+      "rate": 3.667,
+      "title": "蓝方二比一赢得通行权"
+    },
+    {
+      "start": "04:49",
+      "end": "05:01",
+      "seconds": 12,
+      "units": 43,
+      "rate": 3.583,
+      "title": "强制通行持续处理"
+    },
+    {
+      "start": "05:01",
+      "end": "05:13",
+      "seconds": 12,
+      "units": 44,
+      "rate": 3.667,
+      "title": "关卡自然归零"
+    },
+    {
+      "start": "05:13",
+      "end": "05:20",
+      "seconds": 7,
+      "units": 20,
+      "rate": 2.857,
+      "title": "红队送达"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 46,
+      "rate": 4.6,
+      "title": "蓝队送达与最终结算"
+    }
+  ]
+}

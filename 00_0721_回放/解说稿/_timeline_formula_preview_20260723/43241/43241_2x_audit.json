@@ -1,0 +1,216 @@
+{
+  "segments": 19,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 19,
+  "voice_spoken_units": 1032,
+  "average_segment_rate": 3.127,
+  "max_segment_rate": 4.786,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 35,
+      "rate": 3.5
+    },
+    {
+      "start": "00:10",
+      "end": "00:23",
+      "seconds": 13,
+      "units": 61,
+      "rate": 4.692
+    },
+    {
+      "start": "00:23",
+      "end": "00:39",
+      "seconds": 16,
+      "units": 45,
+      "rate": 2.812
+    },
+    {
+      "start": "00:39",
+      "end": "00:57",
+      "seconds": 18,
+      "units": 65,
+      "rate": 3.611
+    },
+    {
+      "start": "00:57",
+      "end": "01:03",
+      "seconds": 6,
+      "units": 28,
+      "rate": 4.667
+    },
+    {
+      "start": "01:03",
+      "end": "01:16",
+      "seconds": 13,
+      "units": 58,
+      "rate": 4.462
+    },
+    {
+      "start": "01:16",
+      "end": "01:38",
+      "seconds": 22,
+      "units": 32,
+      "rate": 1.455
+    },
+    {
+      "start": "01:38",
+      "end": "01:55",
+      "seconds": 17,
+      "units": 66,
+      "rate": 3.882
+    },
+    {
+      "start": "01:55",
+      "end": "02:29",
+      "seconds": 34,
+      "units": 90,
+      "rate": 2.647
+    },
+    {
+      "start": "02:29",
+      "end": "02:40",
+      "seconds": 11,
+      "units": 50,
+      "rate": 4.545
+    },
+    {
+      "start": "02:40",
+      "end": "02:53",
+      "seconds": 13,
+      "units": 47,
+      "rate": 3.615
+    },
+    {
+      "start": "02:53",
+      "end": "03:10",
+      "seconds": 17,
+      "units": 64,
+      "rate": 3.765
+    },
+    {
+      "start": "03:10",
+      "end": "03:19",
+      "seconds": 9,
+      "units": 41,
+      "rate": 4.556
+    },
+    {
+      "start": "03:19",
+      "end": "03:32",
+      "seconds": 13,
+      "units": 53,
+      "rate": 4.077
+    },
+    {
+      "start": "03:32",
+      "end": "03:47",
+      "seconds": 15,
+      "units": 71,
+      "rate": 4.733
+    },
+    {
+      "start": "03:47",
+      "end": "04:39",
+      "seconds": 52,
+      "units": 72,
+      "rate": 1.385
+    },
+    {
+      "start": "04:39",
+      "end": "04:53",
+      "seconds": 14,
+      "units": 67,
+      "rate": 4.786
+    },
+    {
+      "start": "04:53",
+      "end": "05:20",
+      "seconds": 27,
+      "units": 52,
+      "rate": 1.926
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 35,
+      "rate": 3.5
+    }
+  ],
+  "team_identity": {
+    "2625": {
+      "official_name": "我想见贵妃",
+      "spoken_pronunciation": "我想见贵妃"
+    },
+    "2751": {
+      "official_name": "虎先锋",
+      "spoken_pronunciation": "虎先锋"
+    }
+  },
+  "backup_results": [],
+  "live_style": {
+    "required": true,
+    "particle_count": 11,
+    "particle_types": [
+      "了",
+      "哎呀"
+    ],
+    "particle_type_count": 2,
+    "emotion_categories": [
+      "attention_suspense",
+      "praise_release",
+      "pressure_regret"
+    ],
+    "emotion_category_count": 3,
+    "particle_spam_segments": []
+  },
+  "failure_count": 0,
+  "match_id": "43241",
+  "passed": true,
+  "failures": [],
+  "term_override": {
+    "term": "宫门验核",
+    "authority": "《一骑红尘：荔枝争运战 参赛选手任务书》",
+    "skill_false_positive_filtered": true,
+    "filtered_failures": [
+      "forbidden phrase present: 验核"
+    ]
+  },
+  "detail_structure": {
+    "issues": [],
+    "expected_contest_count": 0,
+    "actual_contest_count": 0,
+    "contest_issues": [],
+    "missing_significant_event_count": 0,
+    "significant_event_issues": []
+  },
+  "spoken_style": {
+    "ai_pattern_hits": [],
+    "long_breath_sentences": [],
+    "subject_issues": [],
+    "particle_count": 4,
+    "particle_types": [
+      "哎呀",
+      "等等",
+      "终于"
+    ],
+    "emotion_functions": [
+      "attention",
+      "pressure",
+      "release"
+    ],
+    "sentence_length_span": 30,
+    "humanizer_score": {
+      "directness": 10,
+      "rhythm": 10,
+      "trust": 10,
+      "authenticity": 9,
+      "concision": 10,
+      "total": 49
+    }
+  },
+  "special_rule_issues": []
+}

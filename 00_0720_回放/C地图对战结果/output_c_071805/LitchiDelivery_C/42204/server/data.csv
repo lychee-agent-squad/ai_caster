@@ -1,0 +1,3 @@
+team_id,online,round,good_fruit_number,freshness,total_score,score_delivery,score_good_fruit,score_freshness,score_time,score_tasks,score_bounty,score_penalty,main_route,road_rounds,water_rounds,mountain_rounds,branch_rounds,route_switch_count,route_task_score,route_resource_count,progress,player_name
+2744,TRUE,566,91,65.21,400,120,163,117,0,0,0,0,ROAD,321,0,0,87,2,,,100.00%,team-2744
+2735,TRUE,600,99,80.73,80,0,0,0,0,80,0,0,MOUNTAIN,79,0,320,0,1,MOUNTAIN:150|ROAD:30,MOUNTAIN:1|ROAD:1,0.00%,路人女主队

@@ -1,0 +1,8 @@
+{
+  "match_id": "43264",
+  "speed_proof": "frames/speed_2x_verified_before_replay.jpg",
+  "settlement": "frames/frame_final_settlement.jpg",
+  "all_frames_manifest": "43264_frame_manifest.json",
+  "coverage": "43264_coverage.json",
+  "visual_review": "passed via final settlement contact sheet"
+}

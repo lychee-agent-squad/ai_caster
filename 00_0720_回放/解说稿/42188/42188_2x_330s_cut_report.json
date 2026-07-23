@@ -1,0 +1,148 @@
+{
+  "target_program_seconds": 310,
+  "old_segments": 34,
+  "new_segments": 24,
+  "spoken_units": 1397,
+  "average_rate": 4.506,
+  "max_segment_rate": 5.0,
+  "retained_source_segments": [
+    1,
+    6,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "dropped": [
+    {
+      "source_segment": 2,
+      "source_range": "00:14-00:28",
+      "title": "同路起步与远程清障"
+    },
+    {
+      "source_segment": 3,
+      "source_range": "00:28-00:42",
+      "title": "武关通路提前打开"
+    },
+    {
+      "source_segment": 4,
+      "source_range": "00:42-00:55",
+      "title": "南岭驿分路"
+    },
+    {
+      "source_segment": 5,
+      "source_range": "00:55-01:09",
+      "title": "两条前线同步展开"
+    },
+    {
+      "source_segment": 7,
+      "source_range": "01:22-01:36",
+      "title": "酷暑压低鲜度"
+    },
+    {
+      "source_segment": 8,
+      "source_range": "01:36-01:50",
+      "title": "红方先损一篓好果"
+    },
+    {
+      "source_segment": 9,
+      "source_range": "01:50-02:04",
+      "title": "转运完成后再度分路"
+    },
+    {
+      "source_segment": 15,
+      "source_range": "03:12-03:27",
+      "title": "潼关前位置拉近"
+    },
+    {
+      "source_segment": 17,
+      "source_range": "03:41-04:00",
+      "title": "潼关途中设卡生效"
+    },
+    {
+      "source_segment": 20,
+      "source_range": "04:26-04:39",
+      "title": "红方等待最后一次风化"
+    }
+  ],
+  "frame_support_before_refresh": {
+    "manifest": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42188\\42188_capture_manifest.json",
+    "frames": 213,
+    "median_actual_start_gap_ms": 2192.5,
+    "max_actual_start_gap_ms": 4853,
+    "boundaries_within_300ms": false,
+    "missing_boundaries_ms": [
+      14000,
+      69000,
+      82000,
+      124000,
+      138000,
+      151000,
+      164000,
+      192000,
+      221000,
+      240000,
+      253000,
+      266000,
+      279000,
+      291000,
+      302000,
+      314000,
+      325000,
+      336000,
+      360000,
+      385000,
+      398000,
+      411000,
+      429000
+    ],
+    "declares_500ms_start_to_start": false,
+    "requires_recapture": true
+  },
+  "match_id": "42188",
+  "program_end_seconds": 310,
+  "ui_sha256": "20bf1b53a22ba06bd81961fdb5f4b976b583c5044bc729fe163f5b6a10729abb",
+  "voice_sha256": "edcc5a633b8bedcb8feb7450a2fa6c5eadd5383ec5f2d49ac3884bf53f81c126",
+  "copy_checks": {
+    "replay.txt": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42188\\server\\replay.txt",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42188\\replay.txt",
+      "source_sha256": "fb65040936d70a930619b60489ee2c94302c94e452450a07ea17f241d6e99667",
+      "target_sha256": "fb65040936d70a930619b60489ee2c94302c94e452450a07ea17f241d6e99667",
+      "matched": true
+    },
+    "data.csv": {
+      "source": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\C地图对战结果\\output_c_071805\\LitchiDelivery_C\\42188\\server\\data.csv",
+      "target": "C:\\Users\\Administrator\\Documents\\AI解说\\00_0720_回放\\解说稿\\42188\\data.csv",
+      "source_sha256": "ef9c5df38f555a8514a2f9e7d59ee7628a6fb3bab4a0ff8b64b0e5ccecfe4739",
+      "target_sha256": "ef9c5df38f555a8514a2f9e7d59ee7628a6fb3bab4a0ff8b64b0e5ccecfe4739",
+      "matched": true
+    }
+  },
+  "capture_requirement": {
+    "playback_speed": "2x",
+    "target_start_interval_ms": 500,
+    "interval_basis": "capture_start_to_capture_start",
+    "overrun_policy": "start_next_capture_immediately",
+    "manifest_must_keep_actual_timestamps": true
+  },
+  "live_style_refreshed": true
+}

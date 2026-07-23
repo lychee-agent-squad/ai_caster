@@ -1,0 +1,44 @@
+{
+  "match_id": "43255",
+  "status": "complete",
+  "speed": "2x",
+  "capture_interval_ms": 500,
+  "timeline_limit_seconds": 330,
+  "over_round": 487,
+  "over_reason": "ALL_DELIVERED",
+  "winner_player_id": 2621,
+  "players": [
+    {
+      "team_id": 2621,
+      "ui_alias": "lycheer",
+      "camp": 0,
+      "delivered": true,
+      "total_score": 676
+    },
+    {
+      "team_id": 2744,
+      "ui_alias": "team-2744",
+      "camp": 1,
+      "delivered": true,
+      "total_score": 418
+    }
+  ],
+  "checks": {
+    "replay_present": true,
+    "data_present": true,
+    "ui_script_present": true,
+    "voice_script_present": true,
+    "audit_present": true,
+    "audit_passed": true,
+    "timeline_within_330_seconds": true,
+    "speed_2x_proof_present": true,
+    "speed_proof_min_900x600": true,
+    "settlement_present": true,
+    "settlement_min_900x600": true,
+    "settlement_visual_review": true,
+    "frame_count_matches_over_round": true,
+    "rounds_continuous": true,
+    "elapsed_step_is_500ms": true
+  },
+  "generated_at": "2026-07-22T18:55:52.263166+00:00"
+}

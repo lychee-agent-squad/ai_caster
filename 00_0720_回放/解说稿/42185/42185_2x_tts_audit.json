@@ -1,0 +1,235 @@
+{
+  "segments": 28,
+  "timeline_end_seconds": 330,
+  "voice_paragraphs": 28,
+  "voice_spoken_units": 1329,
+  "average_segment_rate": 4.027,
+  "max_segment_rate": 4.9,
+  "contest_segments": 0,
+  "segment_audits": [
+    {
+      "start": "00:00",
+      "end": "00:10",
+      "seconds": 10,
+      "units": 39,
+      "rate": 3.9,
+      "title": "开场动画：正式队名"
+    },
+    {
+      "start": "00:10",
+      "end": "00:24",
+      "seconds": 14,
+      "units": 66,
+      "rate": 4.714,
+      "title": "首次选路"
+    },
+    {
+      "start": "00:24",
+      "end": "00:33",
+      "seconds": 9,
+      "units": 42,
+      "rate": 4.667,
+      "title": "蓝队先到南岭驿"
+    },
+    {
+      "start": "00:33",
+      "end": "00:45",
+      "seconds": 12,
+      "units": 46,
+      "rate": 3.833,
+      "title": "清障任务启动"
+    },
+    {
+      "start": "00:45",
+      "end": "00:57",
+      "seconds": 12,
+      "units": 46,
+      "rate": 3.833,
+      "title": "蓝队清障提速"
+    },
+    {
+      "start": "00:57",
+      "end": "01:07",
+      "seconds": 10,
+      "units": 37,
+      "rate": 3.7,
+      "title": "酷暑覆盖全图"
+    },
+    {
+      "start": "01:07",
+      "end": "01:17",
+      "seconds": 10,
+      "units": 42,
+      "rate": 4.2,
+      "title": "红队先现货损"
+    },
+    {
+      "start": "01:17",
+      "end": "01:29",
+      "seconds": 12,
+      "units": 49,
+      "rate": 4.083,
+      "title": "两队先后进站"
+    },
+    {
+      "start": "01:29",
+      "end": "01:43",
+      "seconds": 14,
+      "units": 59,
+      "rate": 4.214,
+      "title": "红队栈道取分"
+    },
+    {
+      "start": "01:43",
+      "end": "01:56",
+      "seconds": 13,
+      "units": 50,
+      "rate": 3.846,
+      "title": "暴雨命中水路"
+    },
+    {
+      "start": "01:56",
+      "end": "02:08",
+      "seconds": 12,
+      "units": 48,
+      "rate": 4.0,
+      "title": "蓝队洛阳起势"
+    },
+    {
+      "start": "02:08",
+      "end": "02:23",
+      "seconds": 15,
+      "units": 61,
+      "rate": 4.067,
+      "title": "蓝队任务到一百五十"
+    },
+    {
+      "start": "02:23",
+      "end": "02:35",
+      "seconds": 12,
+      "units": 47,
+      "rate": 3.917,
+      "title": "蓝队转入官道"
+    },
+    {
+      "start": "02:35",
+      "end": "02:46",
+      "seconds": 11,
+      "units": 44,
+      "rate": 4.0,
+      "title": "潼关驿设卡启动"
+    },
+    {
+      "start": "02:46",
+      "end": "02:58",
+      "seconds": 12,
+      "units": 49,
+      "rate": 4.083,
+      "title": "六点关卡途中阻断"
+    },
+    {
+      "start": "02:58",
+      "end": "03:10",
+      "seconds": 12,
+      "units": 47,
+      "rate": 3.917,
+      "title": "蓝队派队削弱"
+    },
+    {
+      "start": "03:10",
+      "end": "03:24",
+      "seconds": 14,
+      "units": 57,
+      "rate": 4.071,
+      "title": "第一波削弱落地"
+    },
+    {
+      "start": "03:24",
+      "end": "03:37",
+      "seconds": 13,
+      "units": 51,
+      "rate": 3.923,
+      "title": "三波拆掉关卡"
+    },
+    {
+      "start": "03:37",
+      "end": "03:50",
+      "seconds": 13,
+      "units": 50,
+      "rate": 3.846,
+      "title": "蓝队进潼关转运"
+    },
+    {
+      "start": "03:50",
+      "end": "04:02",
+      "seconds": 12,
+      "units": 46,
+      "rate": 3.833,
+      "title": "蓝队补鲜取情报"
+    },
+    {
+      "start": "04:02",
+      "end": "04:16",
+      "seconds": 14,
+      "units": 56,
+      "rate": 4.0,
+      "title": "宫门出发前封路"
+    },
+    {
+      "start": "04:16",
+      "end": "04:29",
+      "seconds": 13,
+      "units": 51,
+      "rate": 3.923,
+      "title": "红队快速核验"
+    },
+    {
+      "start": "04:29",
+      "end": "04:35",
+      "seconds": 6,
+      "units": 20,
+      "rate": 3.333,
+      "title": "红队送达"
+    },
+    {
+      "start": "04:35",
+      "end": "04:48",
+      "seconds": 13,
+      "units": 53,
+      "rate": 4.077,
+      "title": "蓝队六点攻坚破卡"
+    },
+    {
+      "start": "04:48",
+      "end": "04:59",
+      "seconds": 11,
+      "units": 40,
+      "rate": 3.636,
+      "title": "蓝队驶向朱雀门"
+    },
+    {
+      "start": "04:59",
+      "end": "05:11",
+      "seconds": 12,
+      "units": 47,
+      "rate": 3.917,
+      "title": "情报缩短核验"
+    },
+    {
+      "start": "05:11",
+      "end": "05:20",
+      "seconds": 9,
+      "units": 37,
+      "rate": 4.111,
+      "title": "红方完整分项"
+    },
+    {
+      "start": "05:20",
+      "end": "05:30",
+      "seconds": 10,
+      "units": 49,
+      "rate": 4.9,
+      "title": "蓝队送达与最终结算"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "match_id": "43243",
+  "state": "capturing",
+  "speed": "2x",
+  "speed_proof_verified": true,
+  "map_key": "map_3",
+  "over_round": 600,
+  "elapsed_ms": 272674,
+  "screenshots": 541,
+  "sampling": {
+    "fixed_interval_ms": 500,
+    "mode": "concurrent"
+  },
+  "last_chunk": "part_a",
+  "last_chunk_failures": [],
+  "updated_at": "2026-07-22T12:53:33.043Z"
+}
