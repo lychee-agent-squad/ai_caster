@@ -278,4 +278,4 @@
 
 **回放锚点：** R429; R429 DELIVER_SUCCESS；playerId=2744；goodFruit=95；freshness=73.99；RED delivered=True totalScore=420；BLUE delivered=True totalScore=424；winnerPlayerId=2744；resultType=NORMAL；tieBreak=NONE
 
-**解说：** 蓝队送达！九十五篓好果，鲜度七十三点九九！双方都完成交付，蓝队四百二十四比四百二十反超，荔挽狂澜四分险胜！
+**解说：** 蓝队送达！九十五篓好果，鲜度七十三点九九！双方都完成交付，蓝队四百二十四比四百二十反超，蓝队荔挽狂澜四分险胜！

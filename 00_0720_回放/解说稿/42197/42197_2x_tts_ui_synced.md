@@ -328,4 +328,4 @@
 
 **回放锚点：** R603; overReason=TIME_LIMIT；overRound=600；RED delivered=True totalScore=402；BLUE delivered=False totalScore=80；winnerPlayerId=2744；resultType=NORMAL；tieBreak=NONE
 
-**解说：** 时间到！红队完成交付，蓝队没有交付。四百零二比八十，荔挽狂澜获胜！
+**解说：** 时间到！红队完成交付，蓝队没有交付。四百零二比八十，红队荔挽狂澜获胜！

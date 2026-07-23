@@ -288,4 +288,4 @@
 
 **回放锚点：** R569; R569 DELIVER_SUCCESS；playerId=2621；goodFruit=97；freshness=80.87；RED delivered=True totalScore=406；BLUE delivered=True totalScore=742；winnerPlayerId=2621；resultType=NORMAL；tieBreak=NONE
 
-**解说：** 蓝队送达！九十七篓好果，鲜度八十点八七！双方都完成交付，蓝队七百四十二比四百零六完成反超，一心想赢获胜！
+**解说：** 蓝队送达！九十七篓好果，鲜度八十点八七！双方都完成交付，蓝队七百四十二比四百零六完成反超，蓝队一心想赢获胜！
