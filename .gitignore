@@ -23,6 +23,11 @@
 *.mp4
 *.webm
 
+# Local recording output, browser profiles, and bundled environments
+**/AI解说录制/录制输出/
+**/.whisper-venv/
+**/chrome-profile/
+
 # OS/editor noise
 .DS_Store
 Thumbs.db
