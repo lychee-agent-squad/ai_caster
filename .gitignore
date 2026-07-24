@@ -23,8 +23,10 @@
 *.mp4
 *.webm
 
-# Local recording output, browser profiles, and bundled environments
-**/AI解说录制/录制输出/
+# Local AI commentary recording workspace
+**/AI解说录制/
+
+# Browser profiles and bundled environments
 **/.whisper-venv/
 **/chrome-profile/
 
