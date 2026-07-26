@@ -2,8 +2,8 @@
   "segments": 18,
   "timeline_end_seconds": 313,
   "voice_paragraphs": 18,
-  "voice_spoken_units": 962,
-  "average_segment_rate": 3.073,
+  "voice_spoken_units": 959,
+  "average_segment_rate": 3.064,
   "max_segment_rate": 4.625,
   "segment_audits": [
     {
@@ -80,8 +80,8 @@
       "start": "03:30",
       "end": "03:39",
       "seconds": 9,
-      "units": 39,
-      "rate": 4.333
+      "units": 32,
+      "rate": 3.556
     },
     {
       "start": "03:39",
@@ -122,15 +122,15 @@
       "start": "04:50",
       "end": "05:03",
       "seconds": 13,
-      "units": 36,
-      "rate": 2.769
+      "units": 44,
+      "rate": 3.385
     },
     {
       "start": "05:03",
       "end": "05:13",
       "seconds": 10,
-      "units": 43,
-      "rate": 4.3
+      "units": 39,
+      "rate": 3.9
     }
   ],
   "team_identity": {
